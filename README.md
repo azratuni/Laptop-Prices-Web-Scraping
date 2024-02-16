@@ -1,6 +1,6 @@
 # Laptop-Prices-Web-Scraping
-I scraped laptop prices from a website using Python, BeautifulSoup, Requests
+I scraped laptop prices from 2 websites using Python, BeautifulSoup, Requests
 
-The dataset has 1786 observations/ rows and 9 columns ["Product Name", "Product ID", "Processor Type", "Generation", "RAM", "Storage", "Graphics", "Display", "Price"] 
+A combined dataset namely "LaptopPrices" has been created with the data scraped off two websites (Ryans Computers and Star Tech). The dataset has 621 observations/ rows and 6 columns ["Product Name", "Processor Type", "RAM", "Storage", "Display", "Price"]
 
 Thank you!
