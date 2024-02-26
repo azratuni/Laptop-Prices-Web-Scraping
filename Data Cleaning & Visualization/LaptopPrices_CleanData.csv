@@ -1,622 +1,622 @@
-,Unnamed: 0,Product Name,Processor Type,RAM,Storage,Display,Price
-0,0,"Lenovo IdeaPad D330 10IGL Celeron N4020 10.1"" HD Detachable 2-in-1 Touch Laptop","Intel Celeron N4020 (4M Cache,1.10 GHz up to 2.80 GHz)",4GB DDR4 , 128GB eMMC SSD,10.1,34500
-1,1,"Lenovo IdeaPad 1 14AMN7 AMD Ryzen 5 14"" FHD Laptop with DDR5 RAM",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz),8GB DDR5 5500MHz , 256GB  SSD,14.0,60500
-2,2,"MSI Modern 14 C12M Core i3 12th Gen 14"" FHD Laptop","Intel Core i3-1215U (10M Cache, 3.30 GHz, up to 4.40 GHz)",8GB 3200MHz , 512GB SSD,14.0,59999
-3,3,"Acer Extensa 14 EX214-53-543W Core i5 12th Gen 14"" FHD Laptop","Intel Core i5-1240P Processor (12M Cache, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,14.0,79999
-4,4,Apple MacBook Pro 14 inch M3 Chip Liquid Retina Display 8GB RAM 512GB SSD Silver #MR7J3,"Apple M3 chip with 8-core CPU, 10-core GPU, 16-core Neural Engine",8GB , 512GB SSD,14.2,228000
-5,5,"Lenovo IdeaPad 1 14AMN7 AMD Ryzen 5 14"" FHD Sand Laptop",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz),8GB DDR5 5500MHz , 256GB  SSD,14.0,60500
-6,6,"Lenovo IdeaPad 1 14AMN7 AMD Ryzen 5 512GB SSD 14"" FHD Laptop (Sand Color)",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz),8GB DDR5 5500MHz , 512GB  SSD,14.0,63000
-7,7,"Lenovo IdeaPad Gaming 3 15ARH7 Ryzen 5 7535HS RTX 4050 6GB Graphics 15.6"" FHD Laptop","AMD Ryzen 5 7535HS (3.3GHz up to 4.55GHz, 6 cores)",8GB DDR5 , 512GB SSD ,15.6,124000
-8,8,"MSI GF63 THIN 12UC Core i5 12th Gen RTX 3050 4GB Graphics 15.6"" FHD 144hz Gaming Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",8GB DDR4 3200MHz , 512GB NVMe PCIe SSD,15.6,96500
-9,9,"Lenovo IdeaPad 1 15AMN7 AMD Ryzen 5 512GB SSD 15.6"" FHD Laptop with DDR5 RAM",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz),8GB DDR5 5500MHz , 512GB M.2 NVMe SSD,15.6,63500
-10,10,"Lenovo IdeaPad 1 15AMN7 Ryzen 5 7520U 15.6"" FHD Laptop ","AMD Ryzen 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)",8GB DDR5 , 256GB SSD,15.6,61500
-11,11,"MSI Cyborg 15 A12UDX Core i7 12th Gen RTX 3050 6GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i7-12650H (24M Cache, 2.30 GHz up to 4.70 GHz)",8GB DDR5 , 512GB SSD,14.0,145000
-12,12,"Lenovo IdeaPad 1 15AMN7 Ryzen 5 7520U 512GB SSD 15.6"" FHD Laptop (Sand Color)","AMD Ryzen 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)",8GB DDR5 5500MHz , 256GB  SSD,14.0,63500
-13,13,"Lenovo IdeaPad 1 15AMN7 AMD Ryzen 5 15.6"" FHD Laptop with DDR5 RAM",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz),8GB DDR5 5500MHz , 512GB SSD,14.0,61500
-14,14,"Lenovo IdeaPad 1 14AMN7 AMD Ryzen 5 512GB SSD 14"" FHD Laptop with DDR5 RAM",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz),16GB LPDDR4x , 512GB SSD,14.0,63000
-15,15,"Lenovo IdeaPad Slim 3 14AMN8 Ryzen 5 7520U 14"" FHD Laptop"," AMD Ryzen 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)",16 GB DDR4 , 512 GB SSD,14.0,71500
-16,16,"Lenovo IdeaPad Flex 5 14ALC7 AMD Ryzen 5 5500U 14"" Touchscreen Laptop",AMD Ryzen 5 5500U (2.1GHz up to 4.0GHz),16GB LPDDR4x , 512GB SSD,14.0,96000
-17,17,"Xiaomi RedmiBook Pro 14 Ryzen 7 5700U 14"" Laptop","Ryzen 7 5700U (8MB L3 cache,1.8GHz Up to 4.3GHz)",16GB DDR4 , 512GB SSD,14.0,75500
-18,18,"Lenovo IdeaPad Slim 5 14ABR8 Ryzen 5 7530U 14"" WUXGA Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz),16GB 5600MHz; , 512GB SSD,14.0,99500
-19,19,"Lenovo IdeaPad Flex 5 14ALC7 AMD Ryzen 7 5700U 14"" Touchscreen Laptop",AMD Ryzen 7 5700U (1.8GHz up to 4.3GHz),16GB LPDDR5 , 512GB SSD,14.0,105000
-20,20,"Lenovo IdeaPad Light 5 14ABR8 Ryzen 5 7530U 14"" FHD Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz),16GB DDR5 , 1TB SSD,,108000
-21,21,"Lenovo IdeaPad Light 5 14ABR8 Ryzen 7 7730U 14"" FHD Laptop",AMD Ryzen 7 7730U (2.0GHz up to 4.5GHz),16GB DDR5 , 1TB SSD,14.0,111500
-22,22,"Lenovo IdeaPad Flex 5 14ABR8 Ryzen 7 7730U 14"" Touchscreen Laptop ",AMD Ryzen 7 7730U (2.0GHz up to 4.5GHz),32GB DDR5 , 1TB SSD,,115000
-23,23,"Lenovo LOQ 15APH8 Ryzen 7 7840HS RTX 3050 6GB Graphics 15.6"" FHD 144Hz Gaming Laptop","Ryzen 7 7840HS (3.8GHz Up to 5.1GHz, 8 Cores, 16 Threads)",8GB DDR4 , 512GB SSD,14.0,150000
-24,24,"Lenovo Yoga 7 14ARP8 AMD Ryzen 7 7735U 14"" OLED 2.8K Touch Laptop","AMD Ryzen 7 7735U (8-core, 16MB cache, 2.7 GHz up to 4.75GHz)",4GB LPDDR4 , 256GB SATA SSD,14.0,155000
-25,25,"Lenovo Legion S7 16ARHA7 Ryzen 7 6800H RX 6800S 8GB Graphics 16"" Gaming Laptop ","AMD Ryzen 7 6800H (16M Cache, 3.2 GHz up to 4.7 GHz)",4GB LPDDR4 , 256GB SATA SSD,,165000
-26,26,"Lenovo Legion 5 Pro 16ARH7H Ryzen 7 6800H RTX 3070 8GB Graphics 16"" 165Hz Gaming Laptop","AMD Ryzen 7 6800H (16M Cache, 3.2 GHz up to 4.7 GHz)",4GB DDR4 2400MHz ," 1TB 5400rpm 2.5"" HDD",,185000
-27,27,"Lenovo Legion 7 16ARHA7 Ryzen 9 6900HX RX 6850M 12GB Graphics 16"" Gaming Laptop "," AMD Ryzen 9 6900HX (8C / 16T, 3.3 / 4.9GHz, 4MB L2 / 16MB L3)",8GB 3200Mhz , 256GB SSD,15.6,240000
-28,28,"Acer Nitro 5 AN515-58-59JP Core i5 12th Gen RTX 3050 4GB Graphics 15.6"" FHD 144Hz Gaming Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",4GB DDR4 3200MHz , 1TB HDD,,117000
-29,29,"AVITA Essential 14 Celeron N4020 256GB SSD 14"" Full HD Laptop Concrete Grey Color","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB DDR4 RAM , 1TB 5400RPM HDD,15.6,25000
-30,30,"AVITA Essential 14 Celeron N4020 256GB SSD 14"" Full HD Laptop Matt White Color","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB 2933 MHz , 256GB SSD,14.0,25000
-31,31,Chuwi HeroBook Pro Intel Celeron N4020 14.1 inch Full HD Laptop with Windows 11,"Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB DDR4 (Onboard) , 256GB PCIEG3 SSD,15.6,28800
-32,32,Chuwi GemiBook XPro Intel Celeron N100 14.1 inch Full HD Laptop,"Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",8GB DDR4 , 256GB SSD,15.6,34900
-33,33,"Lenovo IdeaPad Slim 3i Intel Celeron N4020 15.6"" HD Laptop","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB DDR4 RAM , 1TB HDD,15.6,35000
-34,34,Chuwi GemiBook Plus Intel Celeron N100 15.6 inch Full HD Laptop,"Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB DDR4 ,512GB PCIe G3 SSD,15.6,35900
-35,35,"Lenovo IdeaPad Slim 3i 15IGL Intel Celeron N4020 15.6"" HD Laptop","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",8GB DDR4 , 256GB SSD,15.6,36000
-36,36,"Lenovo IdeaPad Slim 1i Intel Celeron N4020 14"" FHD Laptop","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",8GB DDR4 , 256GB SSD,14.0,36500
-37,37,"Lenovo IdeaPad Slim 1i Intel Celeron N4020 15.6"" FHD Laptop","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB DDR4 , 256GB M.2 SSD,14.0,36500
-38,38,Asus P1511CMA Intel Celeron N4020 15.6-Inch HD Laptop,"Intel Celeron N4500 (4M Cache, 1.10 GHz up to 2.80 GHz)",8GB DDR4 RAM , 1TB HDD,14.0,37500
-39,39,"HP 250 G8 Intel Celeron N4020 15.6"" FHD Laptop","Intel Celeron N4500 (4M Cache, 1.10 GHz up to 2.80 GHz)",8GB DDR4 , 256GB SSD,15.6,38000
-40,40,"Asus Vivobook X515KA Celeron N4500 15.6"" FHD Laptop","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",RAM : 4GB DDR4 , 512GB PCIE G3 SSD,15.6,40500
-41,41,"HP 15s-fq3617TU Celeron N4500 15.6"" FHD Laptop","Intel Celeron N4020 (4MB Cache, 1.10 GHz up to 2.80 GHz)",8GB; , 256GB,14.0,42500
-42,42,"Asus Vivobook E410MA Celeron N4020 14"" HD Laptop",AMD Ryzen 3 3250U (2.6 GHz up to 3.5 GHz),4GB 3200Mhz  , 256GB SSD,15.6,44000
-43,43,"Walton Prelude N40 Pro Celeron N4020 14"" FHD Laptop",AMD Ryzen 3 3250U processor(2.6 Ghz up to 3.5 Ghz),4GB DDR4  , 1TB HDD,11.6,39750
-44,44,ASUS D415DA Ryzen 3 3250U 14-inch HD Laptop,"Intel Celeron N4020 (1.10 GHz up to 2.80 GHz, Cache 4MB)",4GB RAM , 1TB HDD,15.6,46500
-45,45,"ASUS VivoBook 15 M515DA Ryzen 3 3250U 15.6"" HD Laptop","Intel Pentium Silver N5030 (4MB Cache, 1.10 GHz up to 3.10 GHz)",8GB DDR5 , 512GB SSD,14.0,46500
-46,46,"Asus VivoBook 15 E510MA Intel Celeron N4020 15.6"" FHD Laptop",AMD Athlon Silver 3050U (2.3 GHz up to 3.2GHz),8GB 2666MHz , 512GB SSD,,47000
-47,47,"Walton Prelude N50 Pro Pentium Silver N5030 14"" FHD Laptop","Intel Celeron N4500 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB 3200Mhz , 512GB SSD,15.6,43750
-48,48,"HP 15s-eq1578AU AMD Athlon 3050U 15.6"" FHD Laptop",AMD Ryzen 3 3250U processor(2.6 Ghz up to 3.5 Ghz),8GB RAM , 1TB HDD,12.0,46500
-49,49,"Asus ExpertBook BR1100FKA Celeron N4500 11.6"" 360° HD LED Touch Education Laptop","Intel Celeron N4120 (4MB Cache, 1.10 GHz up to 2.60 GHz)",8GB DDR4 3200MHz , 512GB SSD,15.6,47500
-50,50,"ASUS VivoBook 15 M515DA Ryzen 3 3250U 8GB RAM 15.6"" HD Laptop",AMD Ryzen 3 3250U (2.6 GHz up to 3.5 GHz),8GB DDR4 , 1TB HDD,15.6,47900
-51,51,"Walton Prelude N41 Pro Celeron N4120 14"" FHD Laptop","Intel Core  i3-1115G4 (6MB cache, 3.0 GHz upto 4.1 GHz)",4GB DDR4 3200 MHz , 1TB HDD,15.6,42550
-52,52,"Chuwi MiniBook X Intel Celeron N5100 10.5"" FHD+ Touch Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",4GB DDR4 2666 MHz , 1TB HDD,15.6,47900
-53,53,"ASUS VivoBook 15 D515DA Ryzen 3 3250U 15.6"" FHD Laptop with Windows 11","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 , 256GB SSD,15.6,48900
-54,54,Chuwi UBook X Core i5 12'' Tablet PC With Windows 11,"AMD Ryzen 3 7320U (2.4GHz up to 4.1GHz, 4 cores)",8GB 3200Mhz , 256GB SSD,15.6,49900
-55,55,"Lenovo IdeaPad Slim 3i 11th Gen Core i3 256GB SSD 15.6"" Full HD Laptop with Windows 11","Intel Core i3 10110U (4MB Cache, 2.1GHz up to 4.1GHz)",4GB DDR4 RAM (Onboard) , 512GB SSD,15.6,51400
-56,56,"ASUS VivoBook 15 X515EA Core i3 11th Gen 15.6"" FHD WV Laptop","AMD Ryzen 3 7320U (2.4GHz up to 4.1GHz, 4 cores)",8GB DDR4 , 512GB SSD,14.0,51900
-57,57,"Lenovo IdeaPad Slim 3i Core i3 11th Gen 4GB RAM 15.6"" FHD Laptop","Intel Core  i3-1115G4 (6MB cache, 3.0 GHz upto 4.1 GHz)",8GB DDR4 3200 MHz , 1TB HDD,14.0,52900
-58,58,"Acer Aspire 3 A315-24P Ryzen 3 7320U 15.6"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB RAM , 512GB SSD,15.6,53000
-59,59,"Walton Passion BX310U Core i3 10th Gen 15.6"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 , 512GB SSD,15.6,49850
-60,60,"Lenovo IdeaPad Slim 1 15AMN7 Ryzen 3 7320U 15.6"" FHD Laptop","AMD Ryzen 3 5300U (4MB L3 Cache, 2.6GHz up to 3.8GHz)",8GB DDR5 , 512GB SSD,15.6,53400
-61,61,"Lenovo IdeaPad Slim 3i Core i3 11th Gen 512GB SSD 15.6"" FHD Laptop"," Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 , 512GB SSD,14.0,53500
-62,62,"Lenovo IdeaPad Slim 3i Core i3 11th Gen 14"" FHD Laptop Abyss Blue","Intel Core i3-1125G4 (8M Cache, 2.00 GHz up to 3.70 GHz, 4 cores, 8 threads)",8GB DDR4 , 512GB SSD,14.0,55500
-63,63,"MSI Modern 14 C11M Core i3 11th Gen 14"" FHD Laptop","Intel Core i3-1215U (10M Cache, 3.3 GHz up to 4.4 GHz)",8GB DDR4 , 512GB SSD,15.6,56000
-64,64,"HP 255 G8 Ryzen 3 5300U 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB 3200Mhz , 512GB SSD,15.6,56000
-65,65,"HP 250 G8 Core i3 11th Gen 15.6"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 3200Mhz , 512GB SSD,15.6,56000
-66,66,"HP 15s-du3611TU Core i3 11th Gen 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, 3.30 GHz, up to 4.40 GHz)",8GB LPDDR4X , 256GB SSD,14.0,56500
-67,67,"Lenovo IdeaPad Slim 3i 14IAU7 Core i3 12th Gen 14"" FHD Laptop Misty Blue"," Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB RAM , 512GB SSD,15.6,56500
-68,68,"Lenovo IdeaPad SLIM 3i Intel Core i3 12th Gen 14"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB RAM , 512GB SSD,15.6,56500
-69,69,"ASUS VivoBook 15 X515EA Core i3 11th Gen 512GB SSD 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,15.6,56800
-70,70,"Acer A315-59-390P Core i3 12th Gen 15.6"" FHD Laptop",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz) ,8GB DDR5 , 512GB SSD,15.6,57000
-71,71,"HP 250 G8 Core i3 11th Gen 8GB RAM 1TB HDD 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,15.6,57000
-72,72,"Lenovo IdeaPad Slim 3i 14ITL6 Core i3 11th Gen 512GB SSD 14"" FHD Laptop","Intel Core i3-1215U (10M Cache, 3.30 GHz, up to 4.40 GHz)",4GB DDR4 , 512G SSD,15.6,57500
-73,73,"Acer Aspire 3 A315-59-332B Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i5-1155G7 (8M Cache, 2.50 GHz up to 4.50 GHz)",8GB DDR4 , 512GB SSD,14.0,57500
-74,74,"Acer Aspire 3 A315-24P Ryzen 5 7520U 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB LPDDR4X , 128GB SSD,15.6,58000
-75,75,"Acer Aspire 3 A315-59-34TO Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB DDR4  , 1TB HDD,15.6,58000
-76,76,"Acer Aspire 3 A315-59-39P4 Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i3-1115G4 (6MB Cache, 3.00 GHz, up to 4.10 GHz)",8GB DDR5 , 512GB SSD,15.6,58000
-77,77,"Infinix INBook Y2 Plus Core i5 11th Gen 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB DDR4  , 1TB HDD,14.0,58990
-78,78,"Lenovo IdeaPad SLIM 3i Intel Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB DDR4  , 512GB SSD,15.6,59500
-79,79,"Lenovo IdeaPad 3i 14IAU7 Core i3 12th Gen 14"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",16GB DDR4 3200MHz , 512GB SSD,,59500
-80,80,"HUAWEI MateBook B3-520 Core i3 11th Gen 15.6"" FHD Laptop","Ryzen 5 5500U (11M Cache, 2.10GHz)",8GB RAM , 512GB SSD,15.6,59800
-81,81,"Lenovo V15 Gen 3 Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i3-1305U 13th Gen (10M Cache, Up to 4.50 GHz)",8GB DDR4  , 512GB SSD,15.6,60000
-82,82,"Dell Inspiron 15 3520 Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i5-1155G7 (8M Cache, 2.50 GHz up to 4.50 GHz)",8GB DDR4 , 512G SSD,15.6,60500
-83,83,"Lenovo IdeaPad Slim 3i Core i3 11th Gen 512GB SSD 14"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",4GB DDR4  , 256GB SSD,14.0,61000
-84,84,"Acer Aspire Lite AL15-41 AMD Ryzen 5 5500U 15.6"" FHD Laptop","Intel Core i5-1155G7 (8M Cache, 2.50 GHz up to 4.50 GHz)",8GB DDR4  , 256GB SSD,14.0,61000
-85,85,"Chuwi CoreBook XPro Intel core i3 15.6"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8 GB DDR4 SDRAM ," 1TB 2.5"" 5400RPM HDD",14.0,61000
-86,86,"Acer Aspire 5 5P-A515-58P Core i3 13th Gen 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB RAM , 512GB SSD,15.6,61500
-87,87,"Acer Aspire Lite AL15-51 Core i5 11th Gen 15.6"" FHD Laptop","AMD Ryzen 3 7320U (2.4GHz up to 4.1GHz, 4 cores)",8GB DDR4  , 256GB SSD,15.6,61500
-88,88,"Asus Vivobook S15 S513EA Core i3 11th Gen 4GB RAM 15.6"" OLED FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 , 256GB SSD,15.6,61900
-89,89,"Infinix INBook X2 Core i5 11th Gen 14"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 , 1TB SATA HDD,14.0,61990
-90,90,"Acer Chromebook 514 CB514-1W Core i3 11th Gen 14"" HD Chromebook","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB 2666MHz , 512GB SATA III M.2 2280 SSD,15.6,62000
-91,91,"Acer TravelMate TMP214-54 Core i3 12th Gen 14"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB DDR5 , 512GB SSD,15.6,62000
-92,92,"Asus VivoBook Go 15 E1504FA Ryzen 3 7320U 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)", 4GB DDR4 , 1TB HDD,15.6,62000
-93,93,"ASUS VivoBook 15 X1500EA Core i3 11th Gen 15.6"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB RAM , 512GB SSD,15.6,62800
-94,94,"ASUS VivoBook 15 X1500EA Core i3 11th Gen 512GB SSD 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",4GB DDR4  , 512GB SSD,15.6,62800
-95,95,"MSI Modern 14 C12MO Core i3 12th Gen 14"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 , 256GB SSD,15.6,63000
-96,96,"HP 15s-fq5786TU Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR5 , 512GB SSD,15.6,63500
-97,97,"ASUS VivoBook 15 X1502ZA Core i3 1215U 12th Gen 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB DDR4 RAM , 512GB SSD,15.6,63500
-98,98,"Asus Vivobook S15 S513EA Core i3 11th Gen 15.6"" OLED FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB DDR4 RAM , 512GB SSD,,63800
-99,99,"ASUS VivoBook 15 X1502ZA Core i3 12th Gen 256GB SSD 15.6"" FHD Laptop","Intel Core i3-1215U (10MB Cache, Up to 4.4 GHz)",8GB DDR4 RAM , 512GB SSD,14.0,63900
-100,100,"Huawei MateBook D15 Core i3 11th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 RAM , 512GB SSD,15.6,60500
-101,101,"Acer Extensa 15 EX215-54-57SB Core i5 11th Gen 15.6"" FHD Laptop","Intel Core i5-10210U (6M Cache, 1.60 GHz up to 4.20 GHz)",8GB DDR4 RAM , 512GB SSD,15.6,64000
-102,102,"Lenovo IdeaPad Slim 3i 15IAU7 Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i3-1305U (10M Cache, 3.3 GHz up to 4.5 GHz)",8GB DDR4 RAM , 512GB SSD,15.6,64000
-103,103,"ASUS VivoBook 15 X1502ZA Core i3 12th Gen 8GB RAM 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,14.0,65500
-104,104,"ASUS VivoBook 15 X1502ZA-EJ850W Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,15.6,66000
-105,105,"HP 240 G8 Core i5 11th Gen 14"" FHD Laptop","Intel Core i3-1220P (12M Cache, up to 4.40 GHz)",8GB DDR4 RAM , 512GB SSD,15.6,67500
-106,106,"Walton Passion BX510U Core i5 10th Gen 15.6"" FHD Laptop",Intel Core i3-1315U (1.2 GHz Up to 4.5 GHz),RSM: 8GB DDR4 RAM , 512GB SSD,14.0,64550
-107,107,"Lenovo IdeaPad Slim 3i 15IRU8 Core i3 13th Gen 15.6"" FHD Laptop","Intel Core i3-1305U (10M Cache, 3.3 GHz up to 4.5 GHz)",8GB DDR4 RAM , 512GB SSD,14.0,68000
-108,108,"ASUS VivoBook 15 X515EA Core i5 11th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 RAM , 512GB SSD,14.0,68500
-109,109,"HP 240 G8 Core i5 11th Gen 512GB SSD 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 RAM , 512GB SSD,14.0,68500
-110,110,"ASUS VivoBook 15 X1502ZA Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 256 GB,14.0,69800
-111,111,"ASUS Vivobook 15 X1504VA-NJ260W Core i3 13th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,14.0,70500
-112,112,"Lenovo IdeaPad Slim 3i 14IRU8 Core i3 13th Gen 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 3200 MHz , 256GB SSD,14.0,70500
-113,113,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Soft Lavender","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,15.6,70950
-114,114,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Infinite Black","Intel Core i5-1155G7 (8M Cache, 2.50 GHz up to 4.50 GHz)",8GB RAM , 512GB SSD,15.6,70950
-115,115,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Star Silver","Intel Core i5-1235U 12th Gen (12M Cache, Up to 4.40 GHz)",8GB DDR4 , 512GB SSD,14.0,70950
-116,116,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Aqua Blue","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,14.0,70950
-117,117,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Anchor Grey","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,14.0,70950
-118,118,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Golden Matt Black","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",16GB DDR4 3200MHz , 512GB M.2 2280 SSD,14.0,70950
-119,119,"HP 15s-fq4786TU Core i5 11th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 256GB SSD,14.0,71300
-120,120,"Acer Aspire 3 A315-59-5031 Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB LPDDR4X , 512GB SSD,15.6,71500
-121,121,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Flowers on Yellow",Intel Core i5-1135G7 11th Gen (2.40 GHz to 4.20 GHz Turbo),8GB 3200MHz , 512GB SSD,,71990
-122,122,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Iris on Ruby","Intel Core i3-1215U (10M Cache, up to 4.4 GHz)",8GB DDR4 , 512GB SSD,15.6,71990
-123,123,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Paisley on Lilac","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8GB 2666MHz , 512GB SATAIII M.2 2280 SSD,15.6,71990
-124,124,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Snowflakes on Azure Blue","Intel Core i5-1135G7 (2.40 GHz up to 4.20 GHz, 8 MB Cache)",8GB DDR4 , 512GB SSD,15.0,71990
-125,125,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Snowflakes on Mountain Blue","AMD Ryzen 5 5625U (16MB L3 Cache, 2.3GHz, up to 4.3GHz)",8GB DDR4 , 512GB SSD,15.6,71990
-126,126,"Dell Latitude 3520 Core i5 11th Gen 15.6"" HD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,15.6,72000
-127,127,"ASUS VivoBook 16 X1605ZA Core i3 12th Gen 16"" WUXGA Laptop","Intel Core i5-1235U 12th Gen (12M Cache, Up to 4.40 GHz)",8GB RAM , 512GB SSD,15.6,72000
-128,128,"Lenovo V15 Gen 3 Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i5-1235U 12th Gen (12M Cache, Up to 4.40 GHz)",8GB DDR4 , 512GB SSD,,72500
-129,129,"HP 250 G8 Core i5 11th Gen 8GB RAM 256GB SSD 15.6"" FHD Laptop",AMD Ryzen 5 4600H (3.0 GHz Up to 4.0 GHz),8GB DDR4  , 512GB SSD,,72800
-130,130,"HP 15s-eq3619AU Ryzen 5 5625U 15.6"" FHD Laptop","Intel Core i7-1195G7 (12M Cache, 2.90 GHz up to 5.00 GHz)",8GB DDR4  , 512GB SSD,14.0,73200
-131,131,"Lenovo IdeaPad Slim 3i Core i5 11th Gen 15.6"" FHD Laptop","Intel Core i5-1235U (12M Cache, 1.30 GHz, up to 4.40 GHz)",8GB RAM , 512GB SSD,15.6,74000
-132,132,"Acer Aspire 3 A315-59-57VA Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8MB Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,14.0,74000
-133,133,"Acer Aspire 3 A315-59-50J9 Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4  , 512GB SSD,15.6,74000
-134,134,"ASUS Vivobook 15 M1502IA-EJ388W Ryzen 5 4600H 15.6"" FHD Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz),8GB 3200MHZ , 512GB PCIe SSD,15.6,74000
-135,135,"Thunderobot IGER E1 Core i7 11th Gen 15.6"" FHD Laptop",Intel Core i5-1135G7 11th Gen (2.40 GHz to 4.20 GHz Turbo),8GB DDR4  , 512GB NVME SSD,15.6,74900
-136,136,"Lenovo IdeaPad Slim 3i Core i5 12th Gen 14"" FHD Laptop","Intel Core i7-10510U (8MB Cache, 1.8GHz up to 4.9GHz)",8GB DDR4  , 512GB NVME SSD,15.6,75500
-137,137,"HUAWEI MateBook B3-520 Core i5 11th Gen 15.6"" FHD Laptop","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,14.0,76000
-138,138,"Walton Tamarind MX511G Core i5 11th Gen 14"" FHD Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz),8GB DDR4 3200Mhz , 512GB NVMe SSD,14.0,74500
-139,139,"Lenovo IP Slim 3 15ABR8 Ryzen 5 15.6"" FHD Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz) ,16GB DDR5 , 512GB SSD,15.6,72000
-140,140,"Dell Latitude 3520 Core i5 11th Gen 512GB SSD 15.6"" HD Laptop","Intel Core i5-1235U (12M Cache, 1.30 GHz, up to 4.40 GHz)",16GB DDR4 3200MHz RAM , 512GB SSD ,,76000
-141,141,"Walton Passion BX710U Core i7 10th Gen 15.6"" FHD Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz),8GB 3200MHz , 1TB HDD,15.6,74550
-142,142,"Acer Aspire 3 A315-59 Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8 GB DDR4 3200MHz , 512GB PCIe M.2 SSD,14.0,76500
-143,143,"Acer Swift Go 14 SFG14-42 Ryzen 5 7530U 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8 GB DDR4 3200MHz , 512GB PCIe M.2 SSD,,77000
-144,144,"Acer Swift Go 14 SFG14-41 Ryzen 5 7530U 14"" FHD Laptop With Fingerprint","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8 GB DDR4 3200MHz , 512GB PCIe M.2 SSD,15.6,77000
-145,145,"Dell Inspiron 15 3520 Core i5 12th Gen 15.6"" FHD Laptop",Intel Core i5-1235U (1.3 GHz Up to 4.4 GHz),8GB DDR4 , 512GB SSD,15.6,78500
-146,146,"ASUS Vivobook 14 M1405YA AMD Ryzen 5 7530U 14"" WUXGA Laptop","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",16GB DDR4 3200MHz RAM , 512GB SSD ,14.0,78500
-147,147,"Huawei MateBook D15 Core i5 11th Gen 15.6"" FHD Laptop",AMD Ryzen 7 5700U (Base 1.8GHz up to Up to 4.3GHz),8 GB DDR4 3200MHz , 512GB PCIe M.2 SSD,15.6,76000
-148,148,"Huawei MateBook B3-420 Core i5 11th Gen 14"" FHD Laptop","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8 GB DDR4 3200MHz , 512GB PCIe M.2 SSD,15.6,76000
-149,149,"Lenovo IdeaPad Slim 3i Core i5 11th Gen MX350 2GB Graphics 15.6"" FHD Laptop","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,15.6,79500
-150,150,"ASUS VivoBook 15 X1502ZA-EJ1249W Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i7-1165G7 (2.8- 4.7GHZ, 12MB )",8GB LPDDR4x , 256GB SSD,15.6,79500
-151,151,"ASUS VivoBook 15 X1502ZA Core i5 1235U 12th Gen 15.6"" FHD Laptop",AMD Ryzen 7 5700U (Base 1.8GHz up to Up to 4.3GHz),8GB DDR5 , 512GB SSD,14.0,79500
-152,152,"Lenovo IdeaPad 3 Ryzen 7 5700U 15.6"" FHD Laptop with Windows 11",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz) ,8GB DDR5 , 512GB SSD,14.0,79900
-153,153,"Acer TravelMate TMP214-54 Core i5 12th Gen 14"" FHD Laptop","Intel Core i5-1235U (3.30 GHz, up to 4.40 GHz)",8GB DDR5 , 512GB SSD,15.6,80000
-154,154,"Acer TravelMate P2 TMP215-54 Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8GB DDR4 , 512GB SSD,15.6,80000
-155,155,"Lenovo IdeaPad 3i 15ITL6 core i7 11th Gen 15.6"" FHD Laptop","Intel Core i5-1335U (up to 4.6 GHz, 12 MB L3 cache)",8GB RAM , 512GB SSD,15.6,80500
-156,156,"MSI Modern 15 A5M Ryzen 7 5700U 15.6"" FHD Laptop","Intel Core i5-1335U (up to 4.6 GHz, 12 MB L3 cache)",8GB DDR4 , 512GB SSD,15.6,81000
-157,157,"Asus VivoBook Go 15 E1504FA Ryzen 5 7520U 15.6"" FHD Laptop","Intel Core i5-1335U (up to 4.6 GHz, 12 MB L3 cache)",8GB RAM , 512GB SSD,15.6,81500
-158,158,MSI Modern 14 C12MO Core i5 12th Gen 14'' FHD Laptop,"Intel Core i5-1235U (12M Cache, 3.3GHz, Up to 4.40 GHz)",8GB RAM , 512GB SSD,15.6,81900
-159,159,"Acer TravelMate TMP214-53 Core i7 11th Gen 14"" FHD Laptop","Intel Core i5-1235U (3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,15.6,79500
-160,160,"HP 15-fd0204TU Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-1335U (up to 4.6 GHz, 12 MB L3 cache)",8GB RAM , 512GB SSD,15.6,82500
-161,161,"HP 15-fd0205TU Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-1335U (up to 4.6 GHz, 12 MB L3 cache)",8GB DDR4  , 512GB SSD,15.6,82500
-162,162,"HP 15-fd0202TU Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-1235U (12M Cache, 1.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,15.6,82500
-163,163,"Lenovo IdeaPad Slim 3i Core i5 12th Gen 15.6"" FHD Laptop with Windows 11","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",16GB 3200MHz , 512GB SSD ,14.0,83000
-164,164,MSI Modern 15 B12MO Core i5 12th Gen 15.6'' FHD Laptop,"Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)",4GB 3200MHZ  , 512GB SSD,15.6,83900
-165,165,"HP 15-fd0208TU Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)",8GB DDR4  , 512GB SSD,,84000
-166,166,"HP 15-fd0210TU Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)",16GB DDR4 3200MHz RAM , 512GB NVMe PCIe Gen3x4 SSD ,15.6,84000
-167,167,"Lenovo IdeaPad Slim 3i Core i5 12th Gen 15.6"" FHD Laptop Abyss Blue","Intel Core i5-1235U (10M Cache, up to 4.4 GHz)",16GB DDR4 , 512GB SSD,15.6,86000
-168,168,"Samsung Galaxy Book Core i5 11th Gen 15.6"" FHD Laptop","AMD Ryzen 7 7730U (8-core/16-thread, 16MB cache, up to 4.5 GHz)",8GB DDR4 , 512GB SSD,15.6,86000
-169,169,"Lenovo IdeaPad Slim 3i 15IRH8 Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8GB  3200Mhz , 512GB SSD,15.6,87000
-170,170,"Lenovo IdeaPad Slim 3i 14IRH8 Core i5 13th Gen 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 3200 MHz ," 256GB SSD, 1TB HDD",14.0,87000
-171,171,"Lenovo IdeaPad Slim 3i 15IRH8 Core i5 13th Gen 15.6"" FHD Laptop With Windows 11","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8GB DDR4 , 512 GB SSD,,87000
-172,172,"ASUS VivoBook 16 X1605ZA Core i5 12th Gen 16"" WUXGA Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8GB , 512GB SSD,15.6,87500
-173,173,"Lenovo IP Slim 3 15ABR8 Ryzen 7 15.6"" FHD Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz),16GB DDR4 3200MHz , 512GB SSD,15.6,83000
-174,174,"Lenovo IdeaPad Slim 3i Core i7 11th Gen 15.6"" FHD Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8 GB DDR4 3200MHz , 512GB PCIe SSD,15.6,88000
-175,175,"Asus Vivobook S15 S513EA Core i5 11th Gen 15.6"" OLED FHD Laptop","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,15.6,89000
-176,176,"Lenovo IdeaPad Slim 3i Core i7 11th Gen 15.6"" FHD Laptop with Fingerprint",Intel Core i5-1335U (1.3 GHz Up to 4.6 GHz),8GB DDR4 3200MHz , 512GB NVMe PCIe SSD,14.0,89000
-177,177,"Lenovo IdeaPad Slim 3i Core i7 11th Gen 14"" FHD Laptop","Intel Core i7-1255U (12M Cache, 3.50 GHz, up to 4.70 GHz)",8GB DDR4 (ON BOARD) , 512GB M.2 SSD,15.6,89000
-178,178,"ASUS Vivobook 15 OLED M1505YA AMD Ryzen 5 15.6"" FHD Laptop","AMD Ryzen 5 5500U (8M Cache, 2.1GHz up to 4.0GHz, 6 cores)",8GB DDR4 , 512GB M.2 SSD,15.6,89000
-179,179,"Lenovo IdeaPad Slim 3i Core i7 11th Gen 15.6"" FHD Laptop Abyss Blue",Intel Core i5-12450H 12th Gen,8GB DDR4  , 512GB SSD,15.6,89000
-180,180,"ASUS VivoBook 15X K3504ZA Core i5 12th Gen 15.6"" Laptop","Intel Core i5-1335U (12M Cache, 3.40 GHz, up to 4.60 GHz)",8GB DDR5 , 512GB  SSD,15.6,89000
-181,181,"ASUS Vivobook 15 X1504VA-NJ261W Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,14.0,89500
-182,182,"MSI Modern 15 B12M Core i7 12th Gen 16GB RAM 15.6"" FHD Laptop","Intel Core i5-1240P Processor (12M Cache, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,14.0,89900
-183,183,"Asus VivoBook Flip 14 TM420UA Ryzen 5 14"" FHD Touch Laptop","AMD Ryzen 5 5625U (16MB L3 Cache, 2.3GHz, up to 4.3GHz)",8GB 3200MHz , 512GB SSD,14.0,89900
-184,184,Acer Aspire 7 A715-76G-59U9 Core i5 12th Gen GTX 1650 4GB 15.6 Inch 144Hz FHD Gaming Laptop,"Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",16GB DDR4 , 512GB SSD,15.6,89900
-185,185,"MSI Modern 15 B13M Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-1235U (12M Cache, 1.30 GHz, up to 4.40 GHz)",8GB 3200MHz , 512GB M.2 SSD,,91500
-186,186,"ASUS VivoBook 15X K3504ZA Core i5 12th Gen 15.6"" FHD WV Laptop","AMD Ryzen 5 5500U (8M Cache, 2.1GHz up to 4.0GHz, 6 cores)",8GB DDR4  , 512GB NVME SSD,14.0,91500
-187,187,"Acer Aspire 5 A515-57G-57LE Core i5 12th Gen RTX 2050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i7-1255U (12M Cache, 3.50 GHz, up to 4.70 GHz)",16GB DDR4 , 512GB SSD,14.0,91500
-188,188,"HP ProBook 455 G9 Ryzen 5 5625U 15.6"" FHD Laptop","Intel Core i5-1335U (up to 4.6GHz, 12 MB L3 cache)",16GB DDR4 , 512GB SSD,14.0,85000
-189,189,"HP 250 G8 Core i7 11th Gen 8GB RAM 1TB HDD 256GB SSD 15.6"" FHD Laptop",Intel Core i5-1335U 13th Gen,16GB DDR4 3200MHz RAM , 512GB NVMe PCIe Gen3x4 SSD ,14.0,92000
-190,190,"HP ProBook 440 G9 Core i5 12th Gen 14"" FHD Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB DDR4 3200MHz RAM , 512GB NVMe PCIe Gen3x4 SSD ,14.0,93000
-191,191,"ASUS ZenBook 14 UM425UA Ryzen 5 5500U 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 3200MHz , 1TB M.2 PCIe Gen4 SSD ,14.0,93500
-192,192,"MSI Modern 14 C12MO Core i7 12th Gen 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",16GB DDR4 , 512GB SSD,15.6,91500
-193,193,"HP ProBook 450 G10 Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB DDR4 , 512GB SSD,,93500
-194,194,"Acer Aspire 5 5M-A515-58GM Core i5 13th Gen RTX 2050 4GB Graphics 15.6"" FHD Gaming Laptop",Intel Core i5-12450H 12th Gen,8GB DDR4 , 512GB SSD,15.6,94000
-195,195,"MSI GF63 THIN 12UCX Core i5 12th Gen RTX 2050 4GB Graphics 15.6"" FHD 144hz Gaming Laptop",Intel Core I7 13th Gen-1355U (10 Cores  + 12 Threads),8GB DDR4 , 512GB SSD,15.6,94500
-196,196,"Asus VivoBook 15 S513EQ Core i5 11th Gen 8GB RAM 15.6"" OLED FHD Laptop","Intel Core i5-1240P Processor (12M Cache, up to 4.40 GHz)",8GB DDR4 2666MHz , 512GB SSD,16.0,95000
-197,197,"Asus VivoBook 15 K513EQ Core i5 11th Gen 15.6"" OLED FHD Laptop",AMD Ryzen 7 5700U(1.8GHz Up to 4.3GHz) ,8GB DDR4 , 512GB SSD,14.0,95000
-198,198,"Lenovo IdeaPad Slim 5 14IAH8 Core i5 12th Gen 14"" WUXGA Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8GB DDR4 (ON BOARD) , 512GB M.2 SSD,15.6,95000
-199,199,"Acer Aspire 7 A715-76G Core i5 12th Gen RTX 3050 4GB Graphics IPS 144Hz 15.6"" Gaming Laptop","Intel Core i7-11800H (24M Cache, 2.30 GHz up to 4.60 GHz)",8GB DDR4  , 512GB SSD,15.6,95900
-200,200,"Acer Aspire 5 A515-58GM-74CC core i7 13th Gen RTX 2050 4GB 15.6"" FHD Gaming Laptop"," Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",16GB DDR4 , 512GB SSD,,96500
-201,201,"Acer Aspire 5 AN515-57G-52HF Core i5 12th Gen RTX 2050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i7-1255U (12M Cache, 3.50 GHz, up to 4.70 GHz)",8GB , 256GB SSD,,96900
-202,202,"ASUS VivoBook Flip 14 TM420UA-EC046 Ryzen 7 5700U 14"" FHD Touch Laptop","Intel Core i5-1335U (12M Cache, 3.40 GHz, up to 4.60 GHz)",8GB , 256GB SSD,13.3,97000
-203,203,"Walton Tamarind MX711G Core i7 11th Gen 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,14.0,97500
-204,204,"MSI GF63 THIN 11SC Core i7 11th Gen GTX 1650 Max Q 4GB Graphics 15.6"" FHD 144hz Gaming Laptop","Intel Core i7-1355U (12M Cache, 3.70 GHz, up to 5.00 GHz)",8GB RAM , 512GB SSD,14.0,97000
-205,205,Asus ExpertBook B3 Flip B3402FEA Core i5 14-inch 250 Nits 360° FHD Touch Laptop,"Intel Core i7-1355U (12M Cache, 3.70 GHz, up to 5.00 GHz)",Memory: 16GB DDR4 3200MHz RAM , 256GB SSD + 1TB HDD,14.0,98000
-206,206,"Acer TravelMate TMP214-54 Core i7 12th Gen 14"" FHD Laptop","Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)",8GB DDR4 (ONBOARD) , 512GB M.2 SSD,15.6,98000
-207,207,"Acer Aspire 5M-A515-58GM Core i5 13th Gen RTX 2050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i5-1335U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR5 , 512GB SSD ,,99500
-208,208,"Asus Vivobook S15 S513EQ Core i5 11th Gen 15.6"" OLED FHD Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",8 GB DDR4 3200MHz , 512GB PCIe SSD,13.3,102500
-209,209,"MSI Modern 14 C13M Core i7 13th Gen 14"" FHD Laptop","Intel Core i7-1255U (12M Cache, 3.30 GHz, up to 4.70 GHz)",8 GB DDR4 3200MHz , 512GB PCIe SSD,14.0,104500
-210,210,"MSI Modern 15 B13M Core i7 13th Gen 15.6"" FHD Laptop","Ryzen 5 5600H (L2 3MB & L3 16MB Cache, 3.3GHz Up to 4.2GHz)",8GB DDR4 (ONBOARD) , 512GB M.2 SSD,14.0,105500
-211,211,"MSI Commercial 14 H A13MG Core i5 13th Gen 14"" FHD+ Laptop","Intel Core i7-11800H (24M Cache, 2.30 GHz up to 4.60 GHz)",16GB , 512GB SSD,16.0,106000
-212,212,"ASUS VivoBook 15X K3504VA Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,16.0,106500
-213,213,"MSI Cyborg 15 A12UCX Core i5 12th Gen RTX 2050 4GB Graphics 8GB RAM 15.6"" FHD Gaming Laptop","Intel Core i5-1240P Processor (12M Cache, up to 4.40 GHz)",8GB DDR4 3200MHz  , 512GB SSD,,107000
-214,214,"ASUS VivoBook 15X K3504ZA Core i7 12th Gen 15.6"" FHD WV Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",16GB DDR4 , 512GB SSD,16.0,107500
-215,215,"ASUS Vivobook 16X OLED M1603QA Ryzen 5 5600H 16"" 4K Laptop","Intel Core i7-11370H Processor (12M Cache, 3.30 GHz up to 4.80 GHz)",16GB , 512GB SSD,,108000
-216,216,"ASUS TUF Gaming F15 FX506HF Core i7 11th Gen RTX 2050 4GB Graphics 15.6"" FHD Gaming Laptop",Intel Core i7-1355U(1.7 GHz Up to 5.0 GHz),16GB , 512GB SSD,16.0,108900
-217,217,"Asus ZenBook 14 UX425EA Intel Core i5 1135G7 11th Gen 14"" FHD WV Laptop","Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)",8GB DDR4 , 512GB SSD,14.0,109000
-218,218,"Acer Aspire 7 A715-51G Core i5 12th Gen RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop",Apple M1 chip with 8-core CPU and 7-core GPU,8GB DDR4 , 512GB SSD,,111500
-219,219,"Asus VivoBook 15 X513EP Core i7 11th Gen MX330 2GB Graphics 15.6"" FHD Laptop With Windows 11",Apple M1 chip with 8-core CPU and 7-core GPU,8GB DDR4 3200MHz , 512GB SSD,13.6,112000
-220,220,"ASUS VivoBook Pro 15 K3500PA Core i7 11th Gen 15.6"" FHD Laptop","Intel Core i5-12500H (18M Cache, up to 4.50 GHz)",8GB DDR5 , 512GB SSD,16.0,113500
-221,221,"ASUS Vivobook 15 X1504VA-NJ263W Core i7 13th Gen 15.6"" FHD Laptop","Intel Core i7-1255U (12M Cache, up to 4.70 GHz)",8GB DDR4 3200MHz  , 512GB SSD,14.0,113500
-222,222,"MSI Cyborg 15 A13UC Core i5 13th Gen RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i7-11370H (12M Cache, 3.30 GHz up to 4.80 GHz, with IPU)",8GB DDR5 4800MHz , 512GB SSD,13.6,113500
-223,223,"Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray","Intel Core i7-11370H (12M Cache, 3.30 GHz up to 4.80 GHz, with IPU)",16GB DDR4 3200MHz  , 512GB SSD,14.0,112000
-224,224,"Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN93) Silver","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz)",16GB DDR4 , 512GB SSD,14.0,112000
-225,225,"Lenovo Yoga 6 13ABR8 Ryzen 5 7530U 13.3"" FHD Touch Laptop ","Intel Core i5-1235U (12M Cache, 3.3 GHz up to 4.4 GHz)",16GB DDR5 , 512GB SSD,14.0,115000
-226,226,"ASUS TUF Gaming F15 FX507ZC4 Core i5 12th Gen RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop","AMD Ryzen 5 7535HS (3.3GHz up to 4.55GHz, 6 cores)",16GB DDR4 , 512GB SSD,13.6,115900
-227,227,"HP ProBook 440 G9 Core i7 12th Gen 14"" FHD Laptop","Intel Core i7-1355U (up to 5.0GHz, 12 MB L3 cache)",8GB RAM , 512GB SSD,14.0,117500
-228,228,"Lenovo IdeaPad Gaming 3i Core i7 11th Gen GTX 1650 4GB Graphics 15.6"" FHD Laptop","Intel Core i7-1355U (up to 5.0GHz, 12 MB L3 cache)",8GB DDR5 4800MHz , 512GB SSD,,118000
-229,229,"Lenovo IdeaPad Gaming 3i Core i7 11th Gen GTX 1650 4GB Graphics 15.6"" FHD Laptop With 3 Years Warranty","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz)",16GB DDR4 3200MHz , 512GB NVMe SSD,15.3,118000
-230,230,"Asus VivoBook 15 S513EQ Core i7 11th Gen MX350 2GB Graphics 15.6"" FHD OLED Laptop","Intel Core i5-11300H (8M Cache, 3.10 GHz up to 4.40 GHz)",16GB DDR4 , 512GB SSD,,118000
-231,231,"Lenovo IdeaPad Flex 5 14IAU7 Core i5 12th Gen 14"" WUXGA Touch Laptop","AMD Ryzen 5 4600H (8MB Cache, 3.0GHz up to 4.0GHz)",16GB DDR4 3200MHz  , 512GB SSD,14.0,118000
-232,232,"Lenovo IdeaPad Gaming 3 15ARH7 Ryzen 5 7535HS RTX 2050 4GB Graphics 15.6"" FHD Laptop","Intel Core i5-12500H Processor (18M Cache, up to 4.50 GHz)",8GB DDR4 3200MHz  , 512GB SSD,,118000
-233,233,"HP ProBook 440 G10 Core i7 13th Gen 14"" FHD Laptop","Intel Core i5-1335U (12MB Cache, up to 4.6 GHz)",8GB DDR5 4800MHz , 512GB SSD,14.5,118500
-234,234,"HP ProBook 450 G10 Core i7 13th Gen 15.6"" FHD Laptop",AMD Ryzen 7 7730U ,16GB DDR4 , 512GB SSD,13.3,118500
-235,235,"Asus VivoBook 15 S513EQ Core i7 11th Gen MX350 2GB Graphics 15.6"" FHD Laptop","AMD Ryzen 7 5825U (2.0GHz Up to 4.5GHz, Core 8, Threads 16)",8GB , 256GB SSD,13.6,119000
-236,236,"Lenovo IdeaPad Slim 5i Pro Core i5 11th Gen MX450 2GB Graphics 16"" Laptop With 3 Years Warranty","AMD Ryzen 5 5625U (16MB L3 Cache, 2.3GHz, up to 4.3GHz)",16GB DDR5 , 512GB SSD,13.6,121000
-237,237,"Asus TUF Gaming A17 FA706ICB Ryzen 5 4600H RTX 3050 4GB Graphics 17.3"" FHD Gaming Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB DDR5 , 512GB SSD,13.3,121000
-238,238,GIGABYTE G5 MF Core i5 12th Gen RTX 4050 6GB Graphics 15.6'' FHD 144Hz Gaming Laptop,AMD Ryzen 5 7535HS,16GB DDR4 , 512GB SSD,15.3,124000
-239,239,"ASUS VivoBook S 14 Flip TP3402VA Core i5 13th Gen 14"" WUXGA Touch Laptop","Intel Core i7-11800H (24M Cache, 2.30 GHz up to 4.60 GHz)",8GB , 256GB SSD,15.3,124000
-240,240,"Lenovo Yoga 6 13ABR8 Ryzen 7 7730U 13.3"" FHD Touch Laptop",AMD Ryzen 7 7735HS ,16GB RAM , 512GB SSD,15.3,125000
-241,241,"Asus ZenBook 14 UM3402YA Ryzen 7 5825U 14"" WQXGA Laptop","Intel Core i7-12700H (24M Cache, 3.50 GHz up to 4.70 GHz)",16GB DDR5 , 512GB SSD,14.0,129000
-242,242,"Asus ZenBook 14 OLED UM3402YA Ryzen 5 5625U 14"" WQHD Laptop","AMD Ryzen 5 5600H (L2 3MB & L3 16MB Cache, 3.3GHz Up to 4.2GHz)",16GB , 512GB SSD,13.5,129500
-243,243,"MSI Cyborg 15 A12VE Core i5 12th Gen RTX 4050 6GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i5-11400H Processor (12M Cache, 2.70 GHz up to 4.50 GHz)",16GB (8x2) DDR5 , 1TB SSD,13.3,129500
-244,244,"Lenovo IdeaPad Pro 5 16ARP8 Ryzen 5 7535HS 16"" 2.5K Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB DDR5 4800MHz , 512GB SSD,,129500
-245,245,"ASUS TUF Gaming F15 FX506HF Core i7 11th Gen RTX 3050Ti 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i5-12500H Processor (18M Cache, up to 4.50 GHz)",16GB DDR5 , 512GB SSD ,,129900
-246,246,"Lenovo IdeaPad Pro 5 16ARP8 Ryzen 7 7735HS 16"" 2.5K Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB LPDDR5 , 512GB SSD,14.5,130000
-247,247,"ASUS TUF Gaming F15 FX507ZC4 Core i7 12th Gen RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",8GB , 256GB SSD,,131900
-248,248,"ASUS Vivobook Pro 15 M3500QC Ryzen 5 5600H RTX 3050 4GB Graphics 15.6"" FHD Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB DDR4 , 512GB SSD,14.2,132000
-249,249,"ASUS TUF Gaming F15 FX506HE Core i5 11th Gen RTX 3050 Ti 4GB Graphics 15.6"" FHD Gaming Laptop","Ryzen 7 5800H (8-core, 16-thread, 20MB cache, up to 4.4 GHz)",16GB DDR4 3200MHz , 512GB NVMe SSD,,133500
-250,250,"MSI Sword 15 A12UCX Core i5 12th Gen RTX 2050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i7-13700H (24M Cache, 3.70 GHz up to 5.0 GHz)",8GB , 256GB SSD,,134000
-251,251,GIGABYTE G5 KF Core i5 12th Gen RTX 4060 8GB Graphics 15.6'' FHD 144Hz Gaming Laptop,"AMD Ryzen 7 6800H (16M Cache, 3.2 GHz up to 4.7 GHz)",16GB DDR5  , 512GB SSD ,14.0,135000
-252,252,"Asus TUF Dash F15 FX517ZC Core i5 12th Gen RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop","AMD Ryzen 7 7730U (8-core/16-thread, 16MB cache, up to 4.5 GHz)",8GB DDR5 4800MHz  , 512GB SSD,,139000
-253,253,"MSI Katana 15 B12UDXK Core i5 12th Gen RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",16GB DDR4 3200MHz  , 512GB SSD,16.2,139000
-254,254,"Thunderobot 911MT Core i5 12th Gen RTX 3060 6GB Graphics 15.6"" FHD 144Hz Gaming Laptop","AMD Ryzen 7 6800H (16M Cache, 3.2 GHz up to 4.7 GHz)",16GB LPDDR4X , 512GB SSD,14.2,139000
-255,255,"ASUS Vivobook Pro 15 M3500QC Ryzen 7 5800H RTX 3050 4GB Graphics 15.6"" FHD Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB DDR4 , 512GB M.2 NVMe PCIe 3.0 SSD,14.2,139500
-256,256,"Lenovo IdeaPad Slim 5 16IRL8 Core i7 13th Gen 16"" WUXGA Laptop","AMD Ryzen 7 5800H (8-core, 16-thread, 20MB cache, up to 4.4 GHz)",16GB DDR4 3200MHz , 512GB SSD,14.2,140000
-257,257,"ASUS TUF Gaming A15 FA507RE Ryzen 7 6800H RTX 3050 Ti 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i5-13500H (18M Cache, 3.40 GHz, up to 4.70 GHz)",16GB LPDDR5 on board , 512GB SSD,14.2,142900
-258,258,"ASUS Vivobook S 16 Flip OLED TN3604YA Ryzen 7 7730U 16"" 3.2K Touch Laptop","Intel Core i5-12500H Processor (18M Cache, up to 4.50 GHz)",16GB DDR5 , 1TB SSD,14.2,142900
-259,259,"Lenovo ThinkPad P14s Gen 2 Core i5 11th Gen 14"" FHD Business Laptop","Intel Core i5-12500H (18M Cache, up to 4.50 GHz)",8GB DDR5 4800MHz  , 512GB SSD,16.2,143000
-260,260,"ASUS TUF Gaming A15 FA507RC Ryzen 7 6800H RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop",Intel Core i5-12500H (Up to 4.40 GHz),16GB DDR5 , 512GB SSD,16.2,144000
-261,261,"Lenovo IdeaPad Gaming 3i Core i5 12th Gen RTX 3050 4GB Graphics 16"" 2K WUXGA Laptop","Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)",16GB DDR4  , 512GB SSD,16.2,144000
-262,262,"ASUS Vivobook Pro 15 OLED M3500QC Ryzen 7 5800H RTX 3050 4GB Graphics 15.6"" FHD Laptop with Windows 11","Apple M2 chip, 8-core CPU with 4 performance cores and 4 efficiency cores",8GB , 512GB SSD,16.2,144500
-263,263,"Thunderobot 911X Core i5 13th Gen RTX 4050 6GB Graphics 15.6"" FHD 165Hz Gaming Laptop","AMD Ryzen 7 6800H (16M Cache, 3.2 GHz up to 4.7 GHz)",8GB , 512GB SSD,16.2,144900
-264,264,"GIGABYTE G5 KE Core i5 12th Gen RTX 3060 6GB Graphics 15.6"" FHD 144Hz Gaming Laptop","Intel Core i7-1255U (12M Cache, 3.5 GHz up to 4.7 GHz)",16GB DDR5 4800MHz  , 512GB SSD,14.2,146000
-265,265,"GIGABYTE AORUS 15 9MF Core i5 12th Gen RTX 4050 6GB Graphics 15.6"" FHD 360Hz Gaming Laptop","AMD Ryzen 7 6800H (16M Cache, 3.2 GHz up to 4.7 GHz)",16GB DDR4-3200 , 1TB SSD,14.2,146000
-266,266,"ASUS VivoBook 16X K3605ZF-MX041W Core i5 12th Gen 16"" OLED Laptop","AMD Ryzen 9 5900HX (16MB L3 Cache, 3.3GHz up to 4.6GHz)",16GB RAM , 512GB SSD,16.2,148000
-267,267,"Lenovo LOQ 15IRH8 Core i5 13th Gen RTX 3050 6GB Graphics 15.6"" FHD Gaming Laptop","Apple M2 chip, 8-core CPU with 4 performance cores and 4 efficiency cores",16GB DDR5 4800MHz , 512GB SSD,16.2,148000
-268,268,Apple MacBook Air (2022) Apple M2 Chip 13.6-Inch Liquid Retina Display 8GB RAM 256GB SSD Midnight #MLY33LL/A / MLY33ZP/A,"Intel Core i7-1255U (12M Cache, up to 4.70 GHz)",16GB LPDDR5 , 1TB SSD,16.2,149000
-269,269,"ASUS Vivobook S 16X OLED M5602RA Ryzen 7 6800H 16"" OLED Laptop",Intel Core i5 13500HX 13th Gen,8GB , 512GB SSD,16.2,149000
-270,270,"Lenovo IdeaPad Flex 5 14IAU7 Core i7 12th Gen 14"" WUXGA Touch Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8GB , 512GB SSD,16.2,150000
-271,271,"ASUS TUF Gaming A15 FA507RE Ryzen 7 6800H RTX 3050 Ti 4GB Graphics 15.6"" FHD Jaeger Gray Gaming Laptop","Intel Core i7-13620H (24M Cache, 2.4 GHz up to 4.90 GHz)",8GB , 512GB SSD,15.3,143000
-272,272,Lenovo IdeaPad D330 10IGL Intel CDC N4020 4GB RAM 128GB eMMC 10.1 Inch HD IPS Touch Display Mineral Grey Laptop,Intel Celeron,4GB,128GB eMMC,10.1,34500
-273,273,HP 15s-eq1578AU AMD Athlon Silver 3050U 8GB  256GB SSD 15.6 Inch FHD Display Silver Laptop,AMD Athlon,8GB,256GB SSD,15.6,46500
-274,274,"Acer Aspire 3 A315-510P-38RH (13th Gen Standard) Intel Core i3 N305 8GB RAM, 512GB SSD 15.6 Inch FHD Display Pure Silver Laptop",Core i3,8GB,512GB SSD,15.6,49800
-275,275,Lenovo IdeaPad 1 15ADA7 AMD Ryzen 3 3250U 8GB RAM 512GB SSD 15.6 Inch FHD Display Cloud Grey Laptop,Ryzen 3,8GB,512GB SSD,15.6,49900
-276,276,Lenovo IdeaPad Slim 3i 15ITL 11th Gen Intel Core i3 1115G4 4GB RAM 256GB SSD 15.6 Inch FHD Display Arctic Grey Laptop,Core i3,4GB,256GB SSD,15.6,51400
-277,277,Acer Aspire 3 A315-24P AMD Ryzen 3 7320U 8GB RAM 512GB SSD 15.6 Inch FHD Display Pure Silver Laptop#UN.KDESI.027,Ryzen 3,8GB,512GB SSD,15.6,53000
-278,278,Lenovo IdeaPad 1 15AMN7 AMD Ryzen 3 7320U 8GB RAM 512GB SSD 15.6 Inch FHD Display Sand Laptop,Ryzen 3,8GB,512GB SSD,15.6,53400
-279,279,HP 15s-fq5486TU Intel Core i3 1215U 4GB RAM 256GB SSD 15.6 Inch FHD Display Black Laptop,Core i3,4GB,256GB SSD,15.6,56500
-280,280,Acer Aspire 3 A315-59-390P Intel Core i3 1215U 8GB RAM 512GB SSD 15.6 Inch FHD Display Pure Silver Laptop,Core i3,8GB,512GB SSD,15.6,57000
-281,281,"Acer Aspire 3 A315-59-332B Intel Core i3 1215U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Pure Silver Laptop #NX.K6TSI.00H/UN.K6TSI.024",Core i3,8GB,512GB SSD,15.6,57500
-282,282,Huawei MateBook D 15 Intel Core i3 1115G4 8GB RAM 256GB SSD 15.6 Inch FHD Display Silver Laptop,Core i3,8GB,256GB SSD,15.6,60500
-283,283,Dell Inspiron 15 3520 Intel Core i3 1215U 8GB RAM 512GB SSD 15.6 Inch FHD Display Platinum Silver Laptop,Core i3,8GB,512GB SSD,15.6,60500
-284,284,Acer Aspire Lite AL15-41 AMD Ryzen 5 5500U 8GB RAM 512GB SSD 15.6 Inch FHD Display Titanium Gray Laptop,Ryzen 5,8GB,512GB SSD,15.6,61000
-285,285,Acer Aspire 5 5P-A515-58P Intel Core i3 1305U 8GB RAM 512GB SSD 15.6 Inch FHD Display Steel Gray Laptop,Core i3,8GB,512GB SSD,15.6,61500
-286,286,Acer Aspire Lite AL15-51 Intel Core i5 1155G7 8GB RAM 512GB SSD 15.6 Inch FHD Display Titanium Gray Laptop,Core i5,8GB,512GB SSD,15.6,61500
-287,287,Asus VivoBook 15 X1500EA Intel Core i3 1115G4 8GB RAM 1TB HDD 15.6 Inch FHD WV Display Indie Black Laptop,Core i3,8GB,1TB HDD,15.6,62800
-288,288,HP 15s-fq5786TU Intel Core i3 1215U 8GB RAM 512GB SSD 15.6 Inch FHD Display Silver Laptop,Core i3,8GB,512GB SSD,15.6,63500
-289,289,Asus VivoBook 15 X1502ZA Intel Core i3 1215U 4GB RAM 256GB SSD 15.6 Inch FHD Display Terra Cotta Laptop,Core i3,4GB,256GB SSD,15.6,63900
-290,290,Asus X515EA Intel Core i5 1135G7 4GB RAM 1TB HDD 15.6 Inch FHD Display Peacock Blue Laptop,Core i5,4GB,1TB HDD,15.6,68500
-291,291,Asus X515EA Intel Core i5 1135G7 4GB RAM 1TB HDD 15.6 Inch FHD Display Slate Grey Laptop #EJ2460W-X515EA,Core i5,4GB,1TB HDD,15.6,68500
-292,292,Acer Aspire 3 A315-59-5031 Intel Core i5 1235U 8GB RAM 512GB SSD 15.6 Inch FHD Display Pure Silver Laptop,Core i5,8GB,512GB SSD,15.6,71500
-293,293,Dell Latitude 15-3520 Intel Core i5 1135G7 8GB RAM 256GB SSD 15.6 Inch HD Display Black Laptop,Core i5,8GB,256GB SSD,15.6,73500
-294,294,Huawei MateBook D 15 Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD Display Silver Laptop,Core i5,8GB,512GB SSD,15.6,76000
-295,295,Huawei MateBook B3-520 Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD Display Space Gray Laptop,Core i5,8GB,512GB SSD,15.6,76000
-296,296,"Acer Swift Go 14 SFG14-41-R5RB AMD Ryzen 5 7530U 8GB RAM, 512GB SSD 14 Inch FHD Display Pure Silver Laptop",Ryzen 5,8GB,512GB SSD,14.0,77000
-297,297,Acer TravelMate P214-53-72WA Intel Core i7 1165G7 8GB RAM 512GB SSD 14 Inch FHD Display Shale Black Laptop,Core i7,8GB,512GB SSD,14.0,82500
-298,298,Lenovo IdeaPad Slim 3 15ABR8 AMD Ryzen 7 7730U 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare IPS Display Arctic Grey Laptop,Ryzen 7,8GB,512GB SSD,15.6,83000
-299,299,Lenovo IdeaPad Slim 3i 15ITL6 Intel Core i7 1165G7 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare Display Arctic Grey Laptop #82H803EUIN-2Y,Core i7,8GB,512GB SSD,15.6,88000
-300,300,Dell Inspiron 15 3525 AMD Ryzen 7 5825U 8GB RAM 512GB SSD 15.6 Inch FHD Display Platinum Silver Laptop,Ryzen 7,8GB,512GB SSD,15.6,88500
-301,301,MSI Modern 15 A11MU Intel Core i7 1195G7 8GB RAM 512GB SSD 15.6 Inch FHD Display Carbon Gray Laptop,Core i7,8GB,512GB SSD,15.6,89500
-302,302,MSI Modern 14 C11M Intel Core i7 1195G7 8GB RAM 512GB SSD 14 Inch FHD Display Classic Black Laptop,Core i7,8GB,512GB SSD,14.0,95000
-303,303,Lenovo IdeaPad Slim 3i 15ITL6 Intel Core i7 1165G7 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare LED Display Abyss Blue Laptop,Core i7,8GB,512GB SSD,15.6,95500
-304,304,"Acer Aspire 5 5M-A515-58GM Intel Core i5 1335U 16GB RAM, 512GB SSD 15.6 Inch FHD IPS Display Steel Gray Gaming Laptop",Core i5,16GB,512GB SSD,15.6,99500
-305,305,"Acer Swift Go 14 SFG14-71-557P Intel Core i5 13500H 16GB RAM, 512GB SSD 14 Inch 2.8K OLED WQHD Display Sunshiny Gold Laptop",Core i5,16GB,512GB SSD,14.0,119000
-306,306,Gigabyte Gaming G5 KE Intel Core i5 12500H 8GB RAM 512GB SSD 15.6 Inch FHD Display Matte Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,146000
-307,307,Lenovo IdeaPad Gaming 3i 15IHU Intel Core i7 11370H 16GB RAM 1TB HDD + 256GB SSD 15.6 Inch FHD Display Shadow Black Gaming Laptop #82K100WFIN-3Y,Core i7,16GB,1TB HDD+256GB SSD,15.6,118000
-308,308,Chuwi HeroBook Pro Intel CDC N4020 8GB RAM 256GB SSD 14.1 Inch FHD Display Grey Laptop,Intel Celeron,8GB,256GB SSD,14.0,28800
-309,309,Chuwi GemiBook XPro Intel Core N100 8GB RAM 256GB SSD 14.1 Inch FHD Display Grey Laptop,Intel Celeron,8GB,256GB SSD,14.0,34900
-310,310,Lenovo IdeaPad Slim 3i 15IGL Intel CDC N4020 4GB RAM 1TB HDD 15.6 Inch HD Display Platinum Grey Laptop,Core N100,4GB,1TB HDD,15.6,35000
-311,311,Chuwi GemiBook Plus Intel Core N100 8GB RAM 256GB SSD 15.6 Inch FHD Display Grey Laptop,Intel Celeron,8GB,256GB SSD,15.6,35900
-312,312,Lenovo IdeaPad Slim 3i 15IGL Intel CDC N4020 4GB RAM 1TB HDD 15.6 Inch HD Antiglare Display Platinum Grey Laptop,Intel Celeron,4GB,1TB HDD,15.6,36000
-313,313,Asus 15 P1511CMA Intel CDC N4020 4GB RAM 1TB HDD 15.6 Inch HD Display Slate Grey Laptop (Carry bag not included),Intel Celeron,4GB,1TB HDD,15.6,37500
-314,314,HP 250 G8 Intel CDC N4020 4GB RAM 1TB HDD 15.6 Inch FHD Display Dark Ash Silver Laptop,Intel Celeron,4GB,1TB HDD,15.6,38500
-315,315,Asus X415KA Intel CDC N4500 4GB RAM 1TB HDD 14 Inch FHD Display Slate Grey Laptop,Intel Celeron,4GB,1TB HDD,14.0,39500
-316,316,Asus X515MA Intel CDC N4020 4GB RAM 1TB HDD 15.6 Inch FHD Display Transparent Silver Laptop #BQ675W-X515MA,Intel Celeron,4GB,1TB HDD,15.6,40500
-317,317,Asus X515KA Intel CDC N4500 4GB RAM 1TB HDD 15.6 Inch FHD Display Transparent Silver Laptop,Intel Celeron,4GB,1TB HDD,15.6,40500
-318,318,Asus X515KA Intel CDC N4500 4GB RAM 1TB HDD 15.6 Inch FHD Display Slate Grey Laptop,Intel Celeron,4GB,1TB HDD,15.6,40500
-319,319,Asus X515MA Intel CDC N4020 4GB RAM 1TB HDD 15.6 Inch FHD Display Slate Grey Laptop,Intel Celeron,4GB,1TB HDD,15.6,43500
-320,320,Asus VivoBook 14 E410MA Intel CDC N4020 4GB RAM 256GB SSD 14 Inch HD Display Blue Laptop,Core i3,4GB,256GB SSD,14.0,44000
-321,321,Acer Extensa 15 EX215-54-34SE Intel Core i3 1115G4 4GB RAM 1TB HDD 15.6 Inch FHD Display Charcoal Black Laptop,Ryzen 3,4GB,1TB HDD,15.6,46500
-322,322,Asus D415DA AMD Ryzen 3 3250U 4GB RAM 1TB HDD 14 Inch HD Display Slate Grey Laptop,Ryzen 3,4GB,1TB HDD,14.0,46500
-323,323,Asus M515DA AMD Ryzen 3 3250U 4GB RAM 1TB HDD 15.6 Inch HD Display Slate Grey Laptop,Intel Celeron,4GB,1TB HDD,15.6,46500
-324,324,Asus E510MA Intel CDC N4020 4GB RAM 512GB SSD 15.6 Inch FHD Display Star Black Laptop #EJ601W-E510MA,Ryzen 3,4GB,512GB SSD,15.6,47000
-325,325,"Asus D415DA AMD Ryzen 3 3250U 8GB RAM 1TB HDD 14 Inch HD Display, Slate Grey Laptop",Ryzen 3,8GB,1TB HDD,14.0,47900
-326,326,Chuwi MiniBook X 2 in 1 Intel Core N100 12GB RAM 512GB SSD 10.5 Inch FHD+ WUXGA Touch Display Grey Laptop,Ryzen 3,12GB,512GB SSD,10.5,47900
-327,327,Asus D515DA AMD Ryzen 3 3250U 4GB RAM 512GB SSD 15.6 Inch FHD Display Slate Grey Laptop #EJ1325W-D515DA,Core i5,4GB,512GB SSD,15.6,48900
-328,328,Asus D515DA AMD Ryzen 3 3250U 4GB RAM 512GB SSD 15.6 Inch FHD Display Slate Grey Laptop #D515DA-EJ1576W,Core i3,4GB,512GB SSD,15.6,48900
-329,329,Chuwi UBook X 2 in 1 Intel Core i5 10210Y 8GB RAM 256GB SSD 12 Inch 2K Touch Display Grey Laptop,Ryzen 3,8GB,256GB SSD,12.0,49900
-330,330,Lenovo IdeaPad Slim 3i 15ITL6 Core i3 1115G4 4GB RAM 1TB HDD 15.6 Inch FHD Display Arctic Grey Laptop,Core i3,4GB,1TB HDD,15.6,52900
-331,331,Lenovo IdeaPad 1 15AMN7 AMD Ryzen 3 7320U 8GB RAM 512GB SSD 15.6 Inch FHD Display Cloud Grey Laptop,Core i3,8GB,512GB SSD,15.6,53400
-332,332,Acer Aspire 3 A315-510P (13th Gen Standard) Intel Core i3 N305 8GB RAM 512GB SSD 15.6 Inch FHD Display Pure Silver Laptop,Core i3,8GB,512GB SSD,15.6,54000
-333,333,HP 15s-du3611TU Intel Core i3 1125G4 4GB RAM 1TB HDD 15.6 Inch FHD Display Jet Black Laptop,Ryzen 3,4GB,1TB HDD,15.6,55500
-334,334,MSI Modern 14 C11M Intel Core i3 1115G4 8GB RAM 512GB SSD 14 Inch FHD Display Classic Black Laptop#9S7-14J312-242,Core i3,8GB,512GB SSD,14.0,56000
-335,335,"Dell Inspiron 15 3535 AMD Ryzen 3 7320U 8GB RAM, 256GB SSD 15.6 Inch FHD Display Carbon Black Laptop",Core i3,8GB,256GB SSD,15.6,56000
-336,336,HP 250 G8 Intel Core i3 1115G4 4GB RAM 1TB HDD 15.6 Inch FHD Display Ash Silver Laptop,Core i3,4GB,1TB HDD,15.6,56500
-337,337,"Lenovo IdeaPad Slim 3i 14IAU7 Intel Core i3 1215U 8GB RAM, 256GB SSD 14 Inch FHD Display Misty Blue Laptop",Core i3,8GB,256GB SSD,14.0,56500
-338,338,Lenovo IdeaPad Slim 3i 14ITL Intel Core i3 1115G4 8GB RAM 256GB SSD 14 Inch FHD Display Arctic Grey Laptop,Core i3,8GB,256GB SSD,14.0,56900
-339,339,Asus ExpertBook P2451FA Intel Core i3 10110U 4GB RAM 1TB HDD 14 Inch FHD Display Star Black Laptop,Core i3,4GB,1TB HDD,14.0,57000
-340,340,HP 240 G8 Intel Core i3 1115G4 8GB RAM 1TB HDD 14 Inch FHD Display Ash Laptop,Core i3,8GB,1TB HDD,14.0,57500
-341,341,HP 250 G8 Intel Core i3 1115G4 8GB RAM 1TB HDD 15.6 Inch FHD Display Silver Laptop,Core i3,8GB,1TB HDD,15.6,57500
-342,342,Lenovo IdeaPad Slim 3i 15ITL6 Intel Core i3 1115G4 8GB RAM 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop,Ryzen 3,8GB,512GB SSD,15.6,57500
-343,343,Lenovo IdeaPad Slim 3i 14ITL6 Intel Core i3 1115G4 8GB RAM 512GB SSD 14 Inch FHD Display Arctic Grey Laptop,Ryzen 5,8GB,512GB SSD,14.0,57500
-344,344,HP 255 G8 AMD Ryzen 3 5300U 8GB RAM 1TB HDD 15.6 Inch FHD Display Dark Ash Silver Laptop,Core i5,8GB,1TB HDD,15.6,57500
-345,345,Acer Aspire 3 A315-24P AMD Ryzen 5 7520U 8GB RAM 15.6 Inch FHD Display Pure Silver Laptop,Core i5,8GB,512GB SSD,15.6,58000
-346,346,"Infinix INBOOK Y2 Plus Intel Core i5 1155G7 8GB RAM, 512GB SSD 15.6 Inch FHD Display Silver Laptop",Core i3,8GB,512GB SSD,15.6,58990
-347,347,"Infinix INBOOK Y2 Plus Intel Core i5 1155G7 8GB RAM, 512GB SSD 15.6 Inch FHD Display Grey Laptop",Core i3,8GB,512GB SSD,15.6,58990
-348,348,Lenovo V15 Gen 3 Intel Core i3 1215U 8GB RAM 512GB SSD 15.6 Inch FHD Display Iron Grey Laptop,Core i3,8GB,512GB SSD,15.6,59500
-349,349,"Lenovo IdeaPad Slim 3i 14IAU7 Intel Core i3 1215U 8GB RAM, 512GB SSD 14 Inch FHD Display Arctic Grey Laptop",Core i3,8GB,512GB SSD,14.0,59500
-350,350,"Lenovo IdeaPad Slim 3i 15IAU7 Intel Core i3 1215U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Abyss Blue Laptop",Core i3,8GB,512GB SSD,15.6,59500
-351,351,Dell Inspiron 15 3520 Intel Core i3 1215U 8GB RAM 512GB SSD 15.6 Inch FHD Display Carbon Black Laptop,Core i3,8GB,512GB SSD,15.6,60500
-352,352,Lenovo IdeaPad Slim 3i 14ITL6 Intel Core i3 1115G4 8GB RAM 512GB SSD 14 Inch FHD Antiglare Display Arctic Grey Laptop,Core i3,8GB,512GB SSD,14.0,61000
-353,353,Chuwi CoreBook XPro Intel Core i3 1215U 16GB RAM 512GB SSD 15.6 Inch FHD Display Grey Laptop,Core i3,16GB,512GB SSD,15.6,61000
-354,354,"Asus VivoBook 15 X1500EA Intel Core i3 1115G4 8GB RAM, 1TB HDD + 256GB SSD 15.6 Inch FHD Display Indie Black Laptop",Core i5,8GB,1TB HDD+256GB SSD,15.6,61800
-355,355,Asus VivoBook 15 K513EA Intel Core i3 1115G4 4GB RAM 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop,Ryzen 3,4GB,512GB SSD,15.6,61900
-356,356,Infinix INBOOK X2 Intel Core i5 1155G7 8GB RAM 512GB SSD14 Inch FHD Display Grey Laptop,Core i5,8GB,512GB SSD,14.0,61990
-357,357,"Asus VivoBook Go 15 E1504FA AMD Ryzen 3 7320U 8GB RAM, 512GB SSD 15.6 Inch FHD LED Display Mixed Black Laptop",Core i5,8GB,512GB SSD,15.6,62000
-358,358,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Soft Lavender Laptop",Core i5,8GB,512GB SSD,14.0,62000
-359,359,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Infinite Black Laptop",Core i5,8GB,512GB SSD,14.0,62000
-360,360,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Star Silver Laptop",Core i5,8GB,512GB SSD,14.0,62000
-361,361,"Avita LIBER V14 Intel Core i5 1135G7  8GBRAM, 512GB SSD 14 Inch FHD Display Anchor Grey Laptop",Core i5,8GB,512GB SSD,14.0,62000
-362,362,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Golden Matt Black Laptop",Core i5,8GB,512GB SSD,14.0,62000
-363,363,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Flowers on Yellow Laptop",Core i5,8GB,512GB SSD,14.0,62000
-364,364,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Paisley on Lilac Laptop",Core i5,8GB,512GB SSD,14.0,62000
-365,365,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Snowflakes on Azure Blue Laptop",Core i5,8GB,512GB SSD,14.0,62000
-366,366,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Snowflakes on Mountain Blue Laptop",Core i3,8GB,512GB SSD,14.0,62000
-367,367,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Iris on Ruby Laptop",Core i3,8GB,512GB SSD,14.0,62000
-368,368,"Acer TravelMate P214-54 Intel Core i3 1215U 8GB DDR4, 1TB HDD 14 Inch FHD IPS Display Black Laptop",Core i3,8GB,1TB HDD,14.0,62500
-369,369,Asus VivoBook 15 X1500EA Intel Core i3 1115G4 8GB RAM 512GB SSD 15.6 Inch FHD WV Display Indie Black Laptop,Core i3,8GB,512GB SSD,15.6,62800
-370,370,HP ProBook 450 G8 Intel Core i3 1115G4 8GB RAM 256GB SSD 15.6 Inch HD Display Pike Silver Laptop#1A890AV,Core i3,8GB,256GB SSD,15.6,63000
-371,371,MSI Modern 14 C12MO Intel Core i3 1215U 16GB RAM 512GB SSD14 Inch FHD Display Classic Black Laptop,Core i3,16GB,512GB SSD,14.0,63000
-372,372,MSI Modern 14 C12MO Intel Core i3 1215U 16GB RAM 512GB SSD 14 Inch FHD Display Urban Silver Laptop,Core i3,16GB,512GB SSD,14.0,63000
-373,373,"Asus VivoBook 15 X1502ZA Intel Core i3 1215U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop",Core i3,8GB,512GB SSD,15.6,63500
-374,374,"Asus VivoBook S15 S513EA Intel Core i3 1115G4 8GB RAM, 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop",Core i5,8GB,512GB SSD,15.6,63800
-375,375,Lenovo IdeaPad Slim 3i 15IAU7 Intel Core i3 1215U 8GB RAM 512GB SSD 15.6 Inch FHD Display Abyss Blue Laptop,Core i3,8GB,512GB SSD,15.6,64000
-376,376,Acer TravelMate P214-53 Intel Core i5 1135G7 8GB RAM 1TB HDD 14 Inch FHD Display Black Laptop,Core i3,8GB,1TB HDD,14.0,65500
-377,377,"Asus VivoBook 15 X1502ZA Intel Core i3 1215U 8GB RAM, 256GB SSD 15.6 Inch FHD Display Terra Cotta Laptop",Core i5,8GB,256GB SSD,15.6,66500
-378,378,"Lenovo IdeaPad Slim 3i 15IRU8 Intel Core i3 1305U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop",Core i5,8GB,512GB SSD,15.6,68000
-379,379,Asus X515EA Intel Core i5 1135G7 4GB RAM 1TB HDD 15.6 Inch FHD Display Slate Grey Laptop,Core i5,4GB,1TB HDD,15.6,68500
-380,380,HP 240 G8 Intel Core i5 1135G7 8GB RAM 1TB HDD 14 Inch FHD Display Ash Laptop,Core i3,8GB,1TB HDD,14.0,68500
-381,381,Asus X515EA Intel Core i5 1135G7 4GB RAM 1TB HDD 15.6 Inch FHD WV Display Peacock Blue Laptop,Core i3,4GB,1TB,15.6,68500
-382,382,Asus VivoBook S15 S513EA Intel Core i3 1115G4 4GB RAM 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop,Core i3,4GB,512GB SSD,15.6,69000
-383,383,Asus VivoBook 15 X1502ZA Intel Core i3 1220P 4GB RAM 512GB SSD 15.6 Inch FHD WV Display Quiet Blue Laptop,Core i3,4GB,512GB SSD,15.6,69800
-384,384,ASUS Vivobook 15 X1504VA Intel Core i3 1315U 8GB RAM 256GB SSD 15.6 Inch FHD Display Quiet Blue Laptop,Ryzen 5,8GB,256GB SSD,15.6,70500
-385,385,Lenovo IdeaPad Slim 3i 14IRU8 Intel Core i3 1305U 8GB RAM 512GB SSD 14 Inch FHD IPS Display Arctic Grey Laptop,Ryzen 5,8GB,512GB SSD,14.0,70500
-386,386,Lenovo IdeaPad Slim 3 15ABR8 AMD Ryzen 5 7530U 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare IPS Display Arctic Grey Laptop,Core i3,8GB,512GB SSD,15.6,71000
-387,387,Lenovo IdeaPad Slim 3 15ABR8 AMD Ryzen 5 7530U 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare IPS Display Abyss Blue Laptop,Core i3,8GB,512GB SSD,15.6,71000
-388,388,Asus VivoBook 14 X1402ZA Intel Core i3 1220P 8GB RAM 512GB SSD 14 Inch FHD Display Terra Cotta Laptop,Ryzen 5,8GB,512GB SSD,14.0,71500
-389,389,"Asus VivoBook 16 X1605ZA Intel Core i3 1215U 8GB RAM, 512GB SSD 16 Inch WUXGA Display Indie Black Laptop",Ryzen 5,8GB,512GB SSD,16.0,72000
-390,390,"MSI Modern 15 B7M AMD Ryzen 5 7530U 8GB RAM, 512GB SSD, 15.6 Inch FHD IPS Display Classic Black Laptop with MSI Backpack",Ryzen 5,8GB,512GB SSD,15.6,72500
-391,391,HP 15s-eq3619AU AMD Ryzen 5 5625U 8GB RAM 512GB SSD 15.6 Inch FHD Display Spruce Blue Laptop,Core i5,8GB,512GB SSD,15.6,73200
-392,392,Asus VivoBook 15 M1502IA AMD Ryzen 5 4600H 8GB RAM 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop,Ryzen 5,8GB,512GB SSD,15.6,74000
-393,393,Dell Latitude 15-3520 Intel Core i5 1135G7 8GB RAM 500GB SSD 15.6 Inch HD Display Black Laptop,Core i5,8GB,500GB SSD,15.6,74500
-394,394,"MSI Modern 15 B7M AMD Ryzen 5 7530U 16GB RAM, 512GB SSD, 15.6 Inch FHD IPS Display Classic Black Laptop with MSI Backpack",Core i5,16GB,512GB SSD,15.6,75000
-395,395,Lenovo IdeaPad Slim 3i 14IAU7 Core i5 1235U 8GB RAM 256GB SSD 14 Inch FHD Display Arctic Grey Laptop,Core i5,8GB,256GB SSD,14.0,75500
-396,396,Dell Latitude 15-3520 Intel Core i5 1145G7 8GB RAM 256GB SSD 15.6 Inch HD Display Black Laptop,Ryzen 7,8GB,256GB SSD,15.6,76800
-397,397,"HP 240 G8 11th Gen Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Ash Silver Laptop",Core i5,8GB,512GB SSD,14.0,77000
-398,398,Lenovo IdeaPad 3 15ALC6 Ryzen 7 5700U 16GB RAM 512GB SSD 15.6 Inch FHD IPS Display Arctic Grey Laptop,Core i5,16GB,512GB SSD,15.6,78000
-399,399,Dell Inspiron 15 3520 Intel Core i5 1235U 8GB RAM 512GB SSD 15.6 Inch FHD Display Platinum Silver Laptop#WARMLKN15ADL23051010PLASPP,Core i5,8GB,512GB SSD,15.6,78500
-400,400,Dell Inspiron 15 3520 Intel Core i5 1235U 8GB RAM 512GB SSD 15.6 Inch FHD Display Carbon Black Laptop,Core i5,8GB,512GB SSD,15.6,78500
-401,401,"Acer TravelMate P214-54 Intel Core i5 1235U 8GB RAM, 512GB SSD 14 Inch FHD IPS Display Black Laptop",Ryzen 5,8GB,512GB SSD,14.0,78500
-402,402,"Asus VivoBook 15 X1502ZA Intel Core i5 1235U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop",Core i7,8GB,512GB SSD,15.6,79500
-403,403,"Asus VivoBook 14 M1405YA AMD Ryzen 5 7530U 8GBRAM, 512GB SSD 14 Inch WUXGA Display Indie Black Laptop",Ryzen 5,8GB,512GB SSD,14.0,80000
-404,404,"Lenovo IdeaPad Slim 3i 15ITL6 Intel Core i7 1165G 8GB RAM, 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop (8GB RAM)",Core i5,8GB,512GB SSD,15.6,80500
-405,405,Asus VivoBook Go 15 E1504FA AMD Ryzen 5 7520U 16GB RAM 512GB SSD 15.6 Inch FHD Display Mixed Black Laptop,Ryzen 5,16GB,512GB SSD,15.6,81500
-406,406,Asus VivoBook 15 X1502ZA Intel Core i5 1235U 8GB RAM 512GB SSD 15.6 Inch FHD Display Terra Cotta Laptop,Core i5,8GB,512GB SSD,15.6,81500
-407,407,Acer Aspire 7 A715-42G-R2NE AMD Ryzen 5 5500U 8GB RAM 512GB SSD 15.6 Inch FHD Display Charcoal Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,82500
-408,408,"HP 15-fd0204TU Intel Core i5 1335U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Silver Laptop",Core i5,8GB,512GB SSD,15.6,82500
-409,409,HP 15-fd0205TU Intel Core i5 1335U 8GB RAM 512GB SSD 15.6 Inch FHD Display Moonlight Blue Laptop,Core i5,8GB,512GB SSD,15.6,82500
-410,410,"HP 15-fd0202TU Intel Core i5 1335U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Diamond White Laptop",Core i5,8GB,512GB SSD,15.6,82500
-411,411,"MSI Modern 14 C12MO Intel Core i5 1235U 16GB RAM, 512GB SSD 14 Inch FHD IPS Display Classic Black Laptop With Bag",Ryzen 7,16GB,512GB SSD,14.0,82900
-412,412,"MSI Modern 14 C12MO Intel Core i5 1235U 16GB RAM, 512GB SSD 14 Inch FHD IPS Display Urban Silver Laptop With Bag",Core i5,16GB,512GB SSD,14.0,82900
-413,413,Lenovo IdeaPad Slim 3 15ABR8 AMD Ryzen 7 7730U 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare IPS Display Abyss Blue Laptop,Core i5,8GB,512GB SSD,15.6,83000
-414,414,Lenovo IdeaPad Slim 3i 15IAU7 Intel Core i5 1235U 8GB RAM 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop,Core i5,8GB,512GB SSD,15.6,83000
-415,415,Asus ExpertBook B1 B1400CEAE Intel Core i5 1135G7 4GB RAM 1TB HDD 14 Inch FHD Display Star Black Laptop,Core i5,4GB,1TB HDD,14.0,83500
-416,416,"MSI Modern 15 B12MO Intel Core i5 1235U 16GB DRAM, 512GB SSD 15.6 Inch FHD IPS Display Classic Black Laptop",Core i5,16GB,512GB SSD,15.6,83900
-417,417,Dell Vostro 15 3510 Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD Display Black Laptop,Core i5,8GB,512GB SSD,15.6,84000
-418,418,Acer Extensa 14 EX214-53-543W Intel Core i5 1240P 8GB RAM 512GB SSD 14 Inch FHD Display Pure Silver Laptop,Core i5,8GB,512GB SSD,14.0,84000
-419,419,"HP 15-fd0208TU Intel Core i5 1335U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Silver Laptop",Core i5,8GB,512GB SSD,15.6,84000
-420,420,"HP 15-fd0210TU 13th Gen Intel Core i5 1335U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Diamond White Laptop",Ryzen 7,8GB,512GB SSD,15.6,84000
-421,421,Lenovo ThinkBook 15 G2 ITL Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD Display Mineral Grey Laptop,Core i5,8GB,512GB SSD,15.6,85000
-422,422,"MSI Modern 15 B7M AMD Ryzen 7 7730U 8GB RAM, 512GB SSD, 15.6 Inch FHD IPS Display Classic Black Laptop with MSI Backpack",Core i5,8GB,512GB SSD,15.6,85500
-423,423,"Lenovo IdeaPad Slim 3i 15IRH8 Intel Core i5 13420H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop",Core i5,8GB,512GB SSD,15.6,87000
-424,424,"Lenovo IdeaPad Slim 3i 15IRH8 Intel Core i5 13420H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Abyss Blue Laptop",Ryzen 7,8GB,512GB SSD,15.6,87000
-425,425,"Lenovo IdeaPad Slim 3i 14IRH8 Intel Core i5 13420H 8GB RAM, 512GB SSD 14 Inch FHD Display Arctic Grey Laptop",Core i7,8GB,512GB SSD,14.0,87000
-426,426,"MSI Modern 15 B7M AMD Ryzen 7 16GB RAM, 512GB SSD, 15.6 Inch FHD IPS Display Classic Black Laptop with MSI Backpack",Core i7,16GB,512GB SSD,15.6,87000
-427,427,Lenovo IdeaPad Slim 3i 14ITL6 Intel Core i7 1165G7 8GB RAM 512GB SSD 14 Inch FHD Antiglare LED Display Abyss Blue Laptop,Core i5,8GB,512GB SSD,14.0,88000
-428,428,Lenovo IdeaPad Slim 3i 15ITL6 Intel Core i7 1165G7 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare Display Arctic Grey Laptop (8GB RAM),Intel Pentium,8GB,512GB SSD,15.6,88000
-429,429,Asus VivoBook S15 S513EA Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop,Ryzen 5,8GB,512GB SSD,15.6,89000
-430,430,Microsoft Surface Go 3 (Wi-Fi) Intel Pentium Gold 6500Y 8GB RAM 128GB SSD 10.5 Inch PixelSense MultiTouch Display Platinum Surface Go (Type Cover is sold separately),Core i5,8GB,128GB SSD,10.5,89000
-431,431,Asus VivoBook 15 M1505YA AMD Ryzen 5 7530U 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop,Ryzen 5,8GB,512GB SSD,15.6,89000
-432,432,ASUS Vivobook 15 X1504VA Intel Core i5 1335U 8GB RAM 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop,Core i7,8GB,512GB SSD,15.6,89500
-433,433,Asus VivoBook Flip 14 TM420UA AMD Ryzen 5 5500U 4GB RAM 512GB SSD 14 Inch FHD Touch Display Bespoke Black Laptop (Stylus Pen Included),Core i5,4GB,512GB SSD,14.0,89900
-434,434,MSI Modern 15 B12M Intel Core i7 1255U 16GB RAM 512GB SSD 15.6 Inch FHD Display Classic Black Laptop,Core i5,16GB,512GB SSD,15.6,89900
-435,435,"Acer Aspire 7 A715-76G Intel Core i5 12450H 8GB RAM 512GB SSD 15.6 Inch FHD Display, Charcoal Black Gaming Laptop",Core i5,8GB,512GB,15.6,89900
-436,436,MSI Modern 14 C13M Intel Core i5 1335U 16GB RAM 512GB SSD14 Inch FHD Display Classic Black Laptop #C13M-650BD-CB51335U16GXXDX11EMH / C13M-1009BD-CB51335U16GXXDX11EMH,Core i5,16GB,512GB SSD,14.0,90900
-437,437,Asus ExpertBook B1 B1400CBA Intel Core i5 1235U 8GB RAM 512GB SSD 14 Inch FHD Display Star Black Laptop #EB0159,Core i5,8GB,512GB SSD,14.0,91000
-438,438,"Asus VivoBook S15 S513EA Intel Core i5 1135G7 16GB RAM, 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop",Core i7,16GB,512GB SSD,15.6,91000
-439,439,MSI Modern 15 B13M Intel Core i5 1335U 16GB RAM 512GB SSD 15.6 Inch FHD Display Classic Black Laptop #B13M-478BD-CB51335U16GXXDX11EMH / B13M-811BD-CB51335U16GXXDX11EMH,Core i5,16GB,512GB SSD,15.6,91500
-440,440,MSI Modern 14 C12MO Intel Core i7 1255U 16GB RAM 512GB SSD 14 Inch FHD Display Classic Black Laptop,Core i5,16GB,512GB SSD,14.0,91500
-441,441,"Asus VivoBook 15X K3504ZA Intel Core i5 1235U 16GB RAM, 512GB SSD 15.6 Inch FHD WV Display Cool Silver Laptop #K3504ZA-BQ074W",Ryzen 5,16GB,512GB SSD,15.6,91500
-442,442,MSI Modern 15 B13M Intel Core i5 1335U 16GB RAM 512GB SSD 15.6 Inch FHD IPS Display Star Blue Laptop (Laptop Bag is given Separately),Core i5,16GB,512GB SSD,15.6,91900
-443,443,Asus ZenBook 14 UM425UA AMD Ryzen 5 5500U 8GB RAM 512GB SSD 14 Inch FHD WV Display Pine Grey Laptop,Core i7,8GB,512GB SSD,14.0,93500
-444,444,"HP ProBook 450 G10 Intel Core i5 1335U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Silver Laptop",Core i5,8GB,512GB SSD,15.6,93500
-445,445,HP 250 G8 Intel Core i7 1165G7 8GB RAM 1TB HDD + 256GB SSD 15.6 Inch FHD Display Dark Ash Silver Laptop,Core i5,8GB,1TB HDD+256GB SSD,15.6,94000
-446,446,MSI GF63 Thin 12UCX Intel Core i5 12450H 8GB RAM 512GB SSD 15.6 Inch FHD IPS Display Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,94500
-447,447,Asus VivoBook 15 K513EQ Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop,Core i5,8GB,512GB SSD,15.6,95000
-448,448,Asus VivoBook S15 S513EQ Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop,Core i5,8GB,512GB SSD,15.6,95000
-449,449,Asus VivoBook S15 S513EQ Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop,Core i5,8GB,512GB SSD,15.6,95000
-450,450,Asus VivoBook S15 S513EQ Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Gold Laptop,Core i5,8GB,512GB SSD,15.6,95000
-451,451,Asus VivoBook 15 K513EQ Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop #L1667W-K513EQ,Core i5,8GB,512GB SSD,15.6,95000
-452,452,"Lenovo IdeaPad Slim 5i 14IAH8 Intel Core i5 12450H 16G RAM, 512GB SSD 14 Inch FHD+ WUXGA IPS Display Cloud Grey Laptop",Core i5,16GB,512GB SSD,14.0,95000
-453,453,"HP ProBook 440 G10 Intel Core i5 1335U 8GB RAM, 512GB SSD 14 Inch FHD IPS Display Silver Laptop",Core i5,8GB,512GB SSD,14.0,95500
-454,454,Acer Aspire 7 A715-76G-57W7 Intel Core i5 12450H 8GB RAM 512GB SSD 15.6 Inch FHD Display Charcoal Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,95900
-455,455,Asus VivoBook 15 K513EQ Intel Core i5 1135G7 16GB RAM 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop #K513EQ-L1667WN,Core i5,16GB,512GB SSD,15.6,97000
-456,456,Asus VivoBook 15 K513EQ Intel Core i5 1135G7 16GB RAM 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop,Core i5,16GB,512GB SSD,15.6,97000
-457,457,Asus VivoBook S15 S513EQ Intel Core i5 1135G7 16GB DDR4 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop,Core i7,16GB,512GB SSD,15.6,97000
-458,458,"Asus VivoBook S15 S513EQ Intel Core i5 1135G7 16GB DDR4, 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop",Core i7,16GB,512GB,15.6,97000
-459,459,"MSI GF63 Thin 11SC Intel Core i7 11800H 16GB RAM, 512GB SSD 15.6 Inch FHD Display Black Gaming Laptop with MSI Essential Backpack",Core i5,16GB,512GB SSD,15.6,97000
-460,460,"Acer TravelMate P214-54 Intel Core i7 1255U 8GB RAM, 512GB SSD 14 Inch FHD IPS Display Black Laptop",Core i7,8GB,512GB SSD,14.0,98000
-461,461,Asus ExpertBook B3 Flip B3402FEA Intel Core i5 1135G7 8GB RAM 512GB SSD 14 Inch FHD Touch Display Star Black Laptop #LE1009 (Stylus Pen Included),Ryzen 5,8GB,512GB SSD,14.0,100000
-462,462,Dell Inspiron 15 5510 Intel Core i7 11370H 8GB RAM 512GB SSD 15.6 Inch FHD Display Silver Laptop,Core i5,8GB,512GB SSD,15.6,101000
-463,463,Asus ExpertBook L2 Flip L2402FYA AMD Ryzen 5 5625U 8GB RAM 512GB SSD 14 Inch FHD Touch Display Star Black Laptop,Core i5,8GB,512GB SSD,14.0,103000
-464,464,"Asus VivoBook 15X K3504VA Intel Core i5 1335U 16GB RAM, 512GB SSD 15.6 Inch FHD WV Display Cool Silver Laptop",Core i7,16GB,512GB SSD,15.6,106500
-465,465,"MSI Cyborg 15 A12UCX Intel Core i5 12450H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Black Gaming Laptop with MSI Essential Backpack",Ryzen 5,8GB,512GB SSD,15.6,107000
-466,466,"Asus VivoBook 15X K3504ZA Intel Core i7 1255U 16GB RAM, 512GB SSD 15.6 Inch FHD WV Display Cool Silver Laptop #K3504ZA-BQ075W",Ryzen 5,16GB,512GB SSD,15.6,107500
-467,467,Asus VivoBook 16X OLED M1603QA AMD Ryzen 5 5600H 8GB RAM 512GB SSD 16 Inch 4K WQUXGA OLED Display Quiet Blue Laptop,Core i5,8GB,512GB SSD,16.0,108000
-468,468,"Lenovo IdeaPad Slim 5 Light 14ABR8 AMD Ryzen 5 7530U 16GB RAM, 512GB SSD 14 Inch FHD IPS Anti-Glare Display Cloud Grey Laptop",Ryzen 7,16GB,512GB SSD,14.0,108000
-469,469,MSI Commercial 14 H A13MG Intel Core i5 13420H 8GB RAM 1TB SSD 14 Inch FHD+ IPS Display Black Laptop with MSI Essential Backpack,Apple M1,8GB,1TB SSD,14.0,108000
-470,470,"Lenovo IdeaPad Slim 5 Light 14ABR8 AMD Ryzen 7 7730U 16GB RAM, 512GB SSD 14 Inch FHD IPS Anti-Glare Display Cloud Grey Laptop",Apple M1,16GB,512GB SSD,14.0,111500
-471,471,Apple MacBook Air Late 2020 Apple M1 Chip 8GB RAM 256GB SSD 13.3 Inch Retina Display Space Gray MacBook MacBook,Apple M1,8GB,256GB SSD,13.3,112000
-472,472,Apple MacBook Air Late 2020 Apple M1 Chip 8GB RAM 256GB SSD 13.3 Inch Retina Display Silver MacBook,Core i7,8GB,256GB SSD,13.3,112000
-473,473,Apple MacBook Air Late 2020 Apple M1 Chip 8GB RAM 256GB SSD 13.3 Inch Retina Display Touch ID Gold MacBook,Core i7,8GB,256GB SSD,13.3,112000
-474,474,Asus VivoBook 15 X513EP Intel Core i7 1165G7 8GB RAM 512GB SSD 15.6 Inch FHD WV Display Cobalt Blue Laptop,Core i5,8GB,512GB SSD,15.6,112000
-475,475,Asus VivoBook 15 X513EP Intel Core i7 1165G7 8GB RAM 512GB SSD 15.6 Inch FHD WV Display Bespoke Black Laptop,Core i7,8GB,512GB SSD,15.6,112000
-476,476,Asus ExpertBook B5 Flip B5302FEA Intel Core i5 1135G7 8GB RAM 512GB SSD 13.3 Inch FHD OLED Touch Display Star Black Laptop (Stylus Pen Included),Core i5,8GB,512GB SSD,13.3,113000
-477,477,Asus VivoBook Pro 15 K3500PA Intel Core i7 11370H 8GB RAM 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop,Core i7,8GB,512GB SSD,15.6,113500
-478,478,"MSI Cyborg 15 A13UC Intel Core i5 13420H 16GB RAM, 512GB SSD 15.6 Inch FHD Display Black Gaming Laptop with MSI Essential Backpack",Ryzen 5,16GB,512GB SSD,15.6,113500
-479,479,ASUS Vivobook 15 X1504VA Intel Core i7 1355U 16GB RAM 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop,Core i7,16GB,512GB SSD,15.6,114000
-480,480,Lenovo Yoga 6 13ABR8 AMD Ryzen 5 7530U 16GB RAM 512GB SSD 13.3 Inch FHD+ WUXGA IPS Touch Display Dark Teal Laptop,Core i5,16GB,512GB SSD,13.3,114500
-481,481,Asus VivoBook S15 S513EQ Intel Core i7 1165G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop,Core i5,8GB,512GB SSD,15.6,115500
-482,482,"Asus TUF Gaming F15 FX507ZC4 Intel Core i5 12500H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Mecha Gray Gaming Laptop",Core i5,8GB,512GB SSD,15.6,115900
-483,483,Acer Nitro 5 AN515-58-59JP Intel Core i5 12450H 8GB RAM 512GB SSD 15.6 Inch FHD Display Obsidian Black Gaming Laptop,Core i7,8GB,512GB SSD,15.6,117000
-484,484,"Lenovo IdeaPad FLEX 5i 14IAU7 Intel Core i5 1235U 16GB RAM, 512GB SSD 14 Inch FHD+ WUXGA IPS Touch Display Storm Grey Laptop",Core i7,16GB,512GB SSD,14.0,118000
-485,485,"HP ProBook 440 G10 Intel Core i7 1355U 8GB RAM, 512GB SSD 14 Inch FHD Display Silver Laptop",Ryzen 5,8GB,512GB SSD,14.0,118500
-486,486,"HP ProBook 450 G10 Intel Core i7 1355U 8GB RAM, 512GB SSD 15.6 Inch FHD IPS Display Silver Laptop",Core i5,8GB,512GB SSD,15.6,118500
-487,487,"Lenovo IdeaPad Gaming 3 15ARH7 AMD Ryzen 5 7535HS 8GB RAM, 512GB SSD 15.6 Inch FHD Display Onyx Grey Gaming Laptop",Core i5,8GB,512GB SSD,15.6,120500
-488,488,Lenovo IdeaPad Slim 5i Pro 16ITL-6 Intel Core i5 11300H 16GB DDR4 RAM 512GB SSD 16 Inch 2.5K WQXGA IPS Display Storm Grey Laptop,Core i5,16GB,512GB SSD,16.0,121000
-489,489,Gigabyte Gaming G5 MF Intel Core i5 12500H 8GB RAM 512GB SSD 15.6 Inch FHD Display Matte Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,124000
-490,490,"Microsoft Surface Laptop Go 3 Intel Core i5 1235U 8GB RAM, 256GB SSD 12.4 Inch PixelSense MultiTouch Display Sage Surface Go Laptop",Ryzen 7,8GB,256GB SSD,12.4,124000
-491,491,"Asus VivoBook S 14 Flip TP3402VA Intel Core i5 1335U 16GB RAM, 512GB SSD 14 Inch WUXGA Touch Display Quiet Blue Laptop",Ryzen 5,16GB,512GB SSD,14.0,124000
-492,492,Lenovo Yoga 6 13ABR8 AMD Ryzen 7 7730U 16GB RAM 512GB SSD 13.3 Inch FHD+ WUXGA IPS Touch Display Dark Teal Laptop,Core i5,16GB,512GB SSD,13.3,125500
-493,493,"Lenovo IdeaPad Pro 5 16ARP8 AMD Ryzen 5 7535HS 16GB RAM, 512GB SSD 16 Inch 2.5K QHD WQXGA Display Arctic Grey Laptop",Core i7,16GB,512GB SSD,16.0,125500
-494,494,MSI Cyborg 15 A12VE Intel Core i5 12450H 16GB RAM 512GB SSD 15.6 Inch FHD Display Black Gaming Laptop,Core i7,16GB,512GB SSD,15.6,129500
-495,495,Asus TUF Gaming F15 FX506HE Intel Core i7 11800H 8GB RAM 512GB SSD 15.6 Inch FHD Display Graphite Black Gaming Laptop FX506HE-HN018W,Ryzen 7,8GB,512GB SSD,15.6,129900
-496,496,"Asus VivoBook 15X OLED K3504VA Intel Core i7 1360P 16GB RAM, 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop",Core i7,16GB,512GB SSD,15.6,130500
-497,497,"Lenovo IdeaPad Pro 5 16ARP8 AMD Ryzen 7 7735HS 16GB RAM, 512GB SSD 16 Inch 2.5K QHD WQXGA Display Arctic Grey Laptop",Core i5,16GB,512GB SSD,16.0,130500
-498,498,"Asus TUF Gaming F15 FX507ZC4 Intel Core i7 12700H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Mecha Gray Gaming Laptop",Ryzen 5,8GB,512GB SSD,15.6,131900
-499,499,Asus TUF Gaming F15 FX506HE Intel Core i5 11400H 8GB RAM 512GB SSD 15.6 Inch FHD Display Graphite Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,133500
-500,500,Lenovo IdeaPad Gaming 3 15ARH7 AMD Ryzen 5 7535HS 8GB RAM 512GB SSD 15.6 Inch FHD Display Onyx Grey Gaming Laptop,Core i3,8GB,512GB SSD,15.6,134000
-501,501,Gigabyte Gaming G5 KF Intel Core i5 12500H 8GB RAM 512GB SSD 15.6 Inch FHD Display Matte Black Gaming Laptop,Ryzen 7,8GB,512GB SSD,15.6,135000
-502,502,Microsoft Surface Go 3 (Wi-Fi) Intel Core i3 10100Y 8GB RAM 128GB SSD 10.5 Inch PixelSense MultiTouch Display Black Surface Go (Type Cover is sold separately),Ryzen 7,8GB,128GB SSD,10.5,138000
-503,503,Lenovo IdeaPad Gaming 3 15ARH7 AMD Ryzen 7 7735HS 16GB RAM 512GB SSD 15.6 Inch FHD Display Onyx Grey Gaming Laptop,Core i7,16GB,512GB SSD,15.6,139000
-504,504,Asus VivoBook Pro 15 M3500QC AMD Ryzen 7 5800H 16GB RAM 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop,Ryzen 7,16GB,512GB SSD,15.6,139500
-505,505,"Lenovo IdeaPad Slim 5i 16IRL8 Intel Core i7 13700H 16GB RAM, 512GB SSD 16 Inch FHD+ WUXGA Display Cloud Grey Laptop",Ryzen 7,16GB,512GB,16.0,140000
-506,506,Asus TUF Gaming A15 FA507RE AMD Ryzen 7 6800H 16GB RAM 512GB SSD 15.6 Inch FHD Display Mecha Gray (TUF) Gaming Laptop,Core i5,16GB,512GB SSD,15.6,142900
-507,507,Asus TUF Gaming A15 FA507RE AMD Ryzen 7 6800H 16GB RAM 512GB SSD 15.6 Inch FHD Display Jaeger Gray (TUF) Gaming Laptop,Ryzen 7,16GB,512GB SSD,15.6,142900
-508,508,Microsoft Surface Laptop 4 Intel Core i5 1135G7 16GB RAM 512GB SSD 13.5 Inch Pixelsense Multi Touch Display Ice Blue Alcantara Surface Laptop,Core i5,16GB,512GB SSD,13.5,144000
-509,509,Asus VivoBook Pro 15 M3500QC AMD Ryzen 7 5800H 16GB RAM 512GB SSD 15.6 Inch FHD OLED Display Quiet Blue Laptop #L1373W-M3500QC,Core i5,16GB,512GB SSD,15.6,144500
-510,510,Gigabyte AORUS 15 9MF Intel Core i5 12500H 8GB RAM 512GB SSD 15.6 Inch FHD Display Matte Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,146000
-511,511,Asus VivoBook 16X OLED K3605ZF Intel Core i5 12450H 16GB RAM 512GB SSD 16 Inch 3.2K OLED Display Indie Black Laptop,Apple M2,16GB,512GB SSD,16.0,148000
-512,512,"Lenovo LOQ Gaming 15IRH8 Intel Core i5 13420H 16GB RAM, 512GB SSD 15.6 Inch FHD IPS Display Storm Grey Gaming Laptop",Core i5,16GB,512GB SSD,15.6,148000
-513,513,Apple MacBook Air (2022) Apple M2 Chip 8GB RAM 256GB SSD 13.6 Inch Liquid Retina Display Space Gray MacBook,Core i7,8GB,256GB SSD,13.6,149000
-514,514,"Microsoft Surface Laptop 5 Intel Core i5 1235U 8GB RAM, 512GB SSD 13.5 Inch Pixelsense Multi Touch Display Matte Black Metal Surface Laptop #R1S-00026",Ryzen 9,8GB,512GB SSD,13.5,149000
-515,515,"Lenovo IdeaPad FLEX 5i 14IAU7 Intel Core i7 1255U 16GB RAM, 512GB SSD 14 Inch FHD+ WUXGA IPS Touch Display Storm Grey Laptop",Core i5,16GB,512GB SSD,14.0,150000
-516,516,Asus VivoBook Pro 15 M3500QC AMD Ryzen 9 5900HX 16GB RAM 512GB SSD 15.6 Inch FHD WV Display Quiet Blue Laptop,Ryzen 7,16GB,512GB SSD,15.6,154000
-517,517,Microsoft Surface Laptop 5 Intel Core i5 1235U 8GB RAM 512GB SSD 13.5 Inch Pixelsense Multi Touch Display Platinum Alcantara Surface Laptop,Core i7,8GB,512GB SSD,13.5,154000
-518,518,Asus TUF Gaming A15 FA506QM AMD Ryzen 7 5800H 16GB RAM 512GB SSD 15.6 Inch FHD Display Graphite Black (TUF) Gaming Laptop,Core i5,16GB,512GB SSD,15.6,154000
-519,519,Lenovo IdeaPad Slim 5i 15IAL7 Intel Core i7 1255U 16GB RAM 512GB SSD 15.6 Inch FHD IPS Antiglare Display Storm Grey Laptop,Core i7,16GB,512GB SSD,15.6,155000
-520,520,"Acer Predator Helios Neo 16 PHN16-71-59XW Intel Core i5 13500HX 16GBRAM, 512GB SSD 16 Inch WUXGA Display Obsidian Black Gaming Laptop",Core i7,16GB,512GB SSD,16.0,156000
-521,521,Asus ZenBook 14X OLED UX5401EA Intel Core i7 1165G7 16GB RAM 512GB SSD 14 Inch 2.8K OLED WQHD Touch Display Pine Grey Laptop,Core i5,16GB,512GB SSD,14.0,157000
-522,522,MSI Katana 15 B13VEK Intel Core i7 13620H 16GB RAM 1TB SSD 15.6 Inch FHD Display Black Gaming Laptop,Ryzen 7,16GB,1TB SSD,15.6,157500
-523,523,Asus TUF Dash F15 FX517ZE Intel Core i5 12450H 16GB RAM 512GB SSD 15.6 Inch FHD Display OFF-Black Gaming Laptop,Core i5,16GB,512GB SSD,15.6,159000
-524,524,Lenovo IdeaPad Gaming 3 15ARH7 AMD Ryzen 7 7735HS 16GB RAM 512GB SSD 15.6 Inch FHD Display Onyx Grey Gaming Laptop #82SB00PKIN-2Y,Core i7,16GB,512GB SSD,15.6,159000
-525,525,Asus Zenbook 14 Flip OLED UP3404VA Intel Core i5 1340P 16GB RAM 512GB SSD 14 Inch 2.8K OLED WQHD Touch Display Foggy Silver Laptop,Ryzen 7,16GB,512GB SSD,14.0,159000
-526,526,"Lenovo IdeaPad FLEX 5i 14IRU8 Intel Core i7 1355U 16GB RAM, 512GB SSD 14 Inch FHD+ WUXGA IPS Touch Display Arctic Grey Laptop",Apple M2,16GB,512GB SSD,14.0,160000
-527,527,Asus TUF Gaming A15 FA507RM AMD Ryzen 7 6800H 16GB RAM 512GB SSD 15.6 Inch FHD Display Jaeger Gray (TUF) Gaming Laptop,Apple M2,16GB,512GB SSD,15.6,162900
-528,528,Apple MacBook Pro (2022) Apple M2 Chip 8GB RAM 256GB SSD 13.3 Inch Retina Display Space Gray Laptop,Core i7,8GB,256GB SSD,13.3,163000
-529,529,Apple MacBook Pro (2022) Apple M2 Chip 8GB RAM 256GB SSD 13.3 Inch Retina Display Silver Laptop,Core i7,8GB,256GB SSD,13.3,163000
-530,530,Lenovo IdeaPad Gaming 3i 16IAH7 Intel Core i7 12650H 16GB RAM 512GB SSD 16 Inch FHD+ WUXGA Display Onyx Grey Gaming Laptop,Core i7,16GB,512GB SSD,16.0,165000
-531,531,Lenovo Yoga Slim 6i 14IRH8 Intel Core i7 13700H 16GB RAM 512GB SSD 14 Inch FHD+ WUXGA OLED Display Storm Grey Laptop,Core i5,16GB,512GB SSD,14.0,165000
-532,532,"MSI Katana 15 B13VFK Intel Core i7 13620H 16GB RAM, 1TB SSD 15.6 Inch FHD Display Black Gaming Laptop with MSI Essential Backpack",Apple M2,16GB,1TB SSD,15.6,167500
-533,533,Microsoft Surface Laptop 5 Intel Core i5 1245U 16GB RAM 512GB SSD 13.5 Inch Pixelsense Multi Touch Display Matte Black Metal Surface Laptop,Apple M2,16GB,512GB SSD,13.5,168000
-534,534,Apple MacBook Air (2023) Apple M2 Chip 8GB RAM 256GB SSD 15.3 Inch Liquid Retina Display Silver MacBook,Apple M2,8GB,256GB SSD,15.3,169000
-535,535,Apple MacBook Air (2023) Apple M2 Chip 8GB RAM 256GB SSD 15.3 Inch Liquid Retina Display Midnight MacBook,Ryzen 7,8GB,256GB SSD,15.3,169000
-536,536,Apple MacBook Air (2023) Apple M2 Chip 8GB RAM 256GB SSD 15.3 Inch Liquid Retina Display Starlight MacBook,Core i7,8GB,256GB SSD,15.3,169000
-537,537,Asus VivoBook Pro 16X M7600QE AMD Ryzen 7 5800H 16GB RAM 512GB SSD 16 Inch 4K WQUXGA OLED Display 0 Degree Black Laptop,Core i7,16GB,512GB SSD,16.0,174000
-538,538,Asus ZenBook Duo UX482EA Intel Core i7 1165G7 16GB RAM 512GB SSD 14 Inch FHD Touch Display Celestial Blue Laptop,Core i7,16GB,512GB SSD,14.0,174000
-539,539,"Lenovo IdeaPad Pro 5i 16IRH8 Intel Core i7 13700H 16GB RAM, 512GB SSD 16 Inch 2.5K QHD WQXGA IPS Display Arctic Grey Laptop",Core i7,16GB,512GB SSD,16.0,175000
-540,540,Lenovo Yoga Pro 7i 14IRH8 Intel Core i7 13700H 16GB RAM 512GB SSD 14.5 Inch 2.5K QHD WQXGA IPS Display Tidal Teal Laptop,Core i7,16GB,512GB SSD,14.5,175000
-541,541,Acer Predator Helios Neo 16 PHN16-71-757P Intel Core i7 13700HX 16GB RAM 1TB SSD 16 Inch FHD+ WUXGA Display Obsidian Black Gaming Laptop,Ryzen 9,16GB,1TB SSD,16.0,176500
-542,542,"Microsoft Surface Laptop 5 Intel Core i7 1255U 8GB RAM, 512GB SSD 15 Inch Pixelsense Multi Touch Display Platinum Metal Surface Laptop",Core i7,8GB,512GB SSD,15.0,178000
-543,543,Asus TUF Gaming A15 FA507XV AMD Ryzen 9 7940HS 8GB RAM 512GB SSD 15.6 Inch 2K WQHD Display Jaeger Gray Gaming Laptop,Apple M2,8GB,512GB,15.6,179900
-544,544,"Lenovo LOQ Gaming 15IRH8 Intel Core i7 13620H 16GB RAM, 512GB SSD 15.6 Inch FHD IPS Display Storm Grey Gaming Laptop",Core i7,16GB,512GB SSD,15.6,180000
-545,545,Apple MacBook Pro (2022) Apple M2 Chip 8GB RAM 512GB SSD 13.3 Inch Retina Display Space Gray Laptop #MNEJ3LL/A / MNEJ3ZP/A,Apple M2,8GB,512GB SSD,13.3,182000
-546,546,HP Envy 15-ep1890TX Intel Core i7 11800H 16GB RAM 1TB SSD 15.6 Inch FHD Touch Display Silver Laptop,Apple M2,16GB,1TB SSD,15.6,185000
-547,547,Apple MacBook Air (2022) Apple M2 Chip 8GB RAM 512GB SSD 13.6 Inch Liquid Retina Display Space Gray MacBook #MLXX3LL/A / MLXX3ZP/A,Core i7,8GB,512GB SSD,13.6,185000
-548,548,Apple MacBook Air (2022) Apple M2 Chip 8GB RAM 512GB SSD 13.6 Inch Liquid Retina Display Midnight MacBook #MLY43LL/A / MLY43ZP/A,Ryzen 7,8GB,512GB SSD,13.6,185000
-549,549,Asus ZenBook Duo UX482EG Intel Core i7 1165G7 16GB RAM 512GB SSD 14 Inch FHD WV Touch Display Celestial Blue Laptop,Core i5,16GB,512GB SSD,14.0,185500
-550,550,Asus ROG Strix G17 G713RM AMD Ryzen 7 6800H 16GB RAM 512GB SSD 17.3 Inch FHD Display Eclipse Gray Gaming Laptop,Ryzen 7,16GB,512GB SSD,17.3,185900
-551,551,Asus TUF Dash F15 FX517ZM Intel Core i5 12450H 16GB RAM 512GB SSD 15.6 Inch FHD Display OFF-Black Gaming Laptop,Apple M2,16GB,512GB SSD,15.6,186000
-552,552,"Lenovo Yoga Pro 7 14ARP8 AMD Ryzen 7 7735HS 16GB RAM, 512GB SSD 14.5 Inch 3K Display Tidal Teal Laptop",Core i7,16GB,512GB SSD,14.5,187000
-553,553,Apple MacBook Air (2022) Apple M2 Chip 16GB RAM 256GB SSD 13.6 Inch Liquid Retina Display Starlight MacBook,Core i7,16GB,256GB SSD,13.6,187500
-554,554,Asus ZenBook S 13 OLED UX5304VA Intel Core i7 1355U 16GB RAM 1TB SSD 13.3 Inch 2.8K OLED WQHD Display Ponder Blue Laptop,Core i7,16GB,1TB SSD,13.3,189900
-555,555,Lenovo LOQ Gaming 15IRH8 Intel Core i7 13620H 16GB RAM 512GB SSD 15.6 Inch FHD Display torm Grey Gaming Laptop,Core i7,16GB,512GB SSD,15.6,190000
-556,556,"Asus Zenbook 14 Flip OLED UP3404VA Intel Core i7 1360P 16GB RAM, 512GB SSD 14 Inch 2.8K OLED WQHD Touch Display Foggy Silver Laptop",Core i7,16GB,512GB SSD,14.0,195000
-557,557,Microsoft Surface Laptop 5 Intel Core i7 1255U 16GB RAM 512GB SSD 13.5 Inch Pixelsense Multi Touch Display Platinum Metal Surface Laptop,Core i7,16GB,512GB SSD,13.5,198000
-558,558,Microsoft Surface Laptop 5 Intel Core i7 1255U 16GB RAM 512GB SSD 13.5 Inch Pixelsense Multi Touch Display Sandstone Metal Surface Laptop,Apple M2,16GB,512GB SSD,13.5,198000
-559,559,Asus ZenBook S 13 OLED UX5304VA Intel Core i7 1355U 16GB RAM 1TB SSD 13.3 Inch 3K OLED WQHD Display Basalt Grey Laptop,Apple M2,16GB,1TB SSD,13.3,199990
-560,560,Apple MacBook Air (2023) Apple M2 Chip 8GB RAM 512GB SSD 15.3 Inch Liquid Retina Display Space Gray MacBook,Apple M2,8GB,512GB SSD,15.3,205000
-561,561,Apple MacBook Air (2023) Apple M2 Chip 8GB RAM 512GB SSD 15.3 Inch Liquid Retina Display Silver MacBook,Ryzen 7,8GB,512GB SSD,15.3,205000
-562,562,"Apple MacBook Air (2023) Apple M2 Chip 8GB RAM 512GB SSD 15.3 Inch Liquid Retina Display Midnight MacBook #MQKX3LL/A, MQKX3ZP/A, MQKX3PA/A",Core i7,8GB,512GB SSD,15.3,205000
-563,563,"Lenovo Legion Slim 5 16APH8 AMD Ryzen 7 7840HS 16GB RAM, 512GB SSD 16 Inch 2.5K QHD WQXGA Display Storm Grey Gaming Laptop",Core i7,16GB,512GB SSD,16.0,212000
-564,564,Microsoft Surface Laptop 4 Intel Core i7 1185G7 32GB RAM 1TB SSD 13.5 Inch Pixelsense Multi Touch Display Matte Black Metal Surface Laptop #5GB-00021,Apple M3,32GB,1TB SSD,13.5,215000
-565,565,Acer Predator Helios 16 PH16-71-70L4 Intel Core i7 13700HX 16GB RAM 1TB SSD 16 Inch 2.5K QHD+ WQXGA Display Abyssal Black Gaming Laptop,Apple M3,16GB,1TB SSD,16.0,215000
-566,566,"Apple MacBook Pro (Late 2023) Apple M3 8GB RAM, 512GB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop",Core i7,8GB,512GB SSD,14.2,228000
-567,567,"Apple MacBook Pro (Late 2023) Apple M3 8GB RAM, 512GB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop",Core i7,8GB,512GB SSD,14.2,228000
-568,568,Lenovo Legion 5i 15IAH7H Intel Core i7 12700H 16GB RAM 1TB SSD 15.6 Inch FHD Display Storm Grey Gaming Laptop,Core i7,16GB,1TB SSD,15.6,248000
-569,569,Lenovo Legion 5i Pro 16IAH7H Intel Core i7 12700H 16GB RAM 1TB SSD 16 Inch 2.5K QHD WQXGA Display Storm Grey Gaming Laptop,Core i7,16GB,1TB SSD,16.0,255000
-570,570,Lenovo Legion Slim 7i 16IAH7 Intel Core i7 12700H 16GB RAM 1TB SSD 16 Inch 2.5K QHD WQXGA Display Onyx Grey Gaming Laptop,Apple M2,16GB,1TB SSD,16.0,255000
-571,571,Lenovo Legion Slim 7i 16IAH7 Intel Core i7 12700H 16GB RAM 1TB SSD 16 Inch 2.5K QHD WQXGA Display Onyx Grey Gaming Laptop #82TF005UIN-2Y,Apple M2,16GB,1TB SSD,16.0,259000
-572,572,Apple MacBook Air (2022) Apple M2 Chip 24GB RAM 512GB SSD 13.6 Inch Liquid Retina Display Midnight MacBook,Apple M2,24GB,512GB SSD,13.6,265000
-573,573,Apple MacBook Air (2023) Apple M2 Chip 16GB RAM 512GB SSD 15.3 Inch Liquid Retina Display Midnight MacBook,Apple M2,16GB,512GB SSD,15.3,265000
-574,574,Apple MacBook Air (2023) Apple M2 Chip 16GB RAM 512GB SSD 15.3 Inch Liquid Retina Display Space Gray MacBook #Z18L000PR,Core i7,16GB,512GB SSD,15.3,265000
-575,575,Apple MacBook Air (2022) Apple M2 Chip 24GB RAM 1TB SSD 13.6 Inch Liquid Retina Display Midnight MacBook,Apple M3,24GB,1TB SSD,13.6,265000
-576,576,"Lenovo Yoga 9i 14IRP8 Intel Core i7 1360P 16GB RAM, 1TB SSD 14 Inch 2.8K OLED WQHD Touch Display Oatmeal Laptop",Apple M3,16GB,1TB SSD,14.0,268000
-577,577,"Apple MacBook Pro (Late 2023) Apple M3 8GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop",Core i7,8GB,1TB SSD,14.2,270000
-578,578,"Apple MacBook Pro (Late 2023) Apple M3 8GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop",Core i7,8GB,1TB SSD,14.2,270000
-579,579,Lenovo Legion Slim 7i 16IRH8 Intel Core i7 13700H 16GB RAM 1TB SSD 16 Inch 3.2K Display Storm Grey Gaming Laptop,Core i7,16GB,1TB,16.0,273000
-580,580,Lenovo Legion Pro 5i 16IRX8 Intel Core i7 13700HX 16GB RAM 1TB SSD 16 Inch 2.5K QHD WQXGA Display Onyx Grey Gaming Laptop,Ryzen 7,16GB,1TB,16.0,273000
-581,581,Acer Predator Helios 16 PH16-71-74MN Intel Core i7 13700HX 32GB RAM 1TB SSD 16 Inch QHD+ WQXGA Display Abyssal Black Gaming Laptop,Apple M3,32GB,1TB SSD,16.0,274900
-582,582,Asus ProArt StudioBook 16 H5600QM AMD Ryzen 7 5800H 16GB RAM 1TB SSD 16 Inch 4K WQUXGA OLED Display Star Black Laptop,Apple M3,16GB,1TB SSD,16.0,275000
-583,583,"Apple MacBook Pro (Late 2023) Apple M3 Pro 18GB RAM, 512GB SSD 14.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M2,18GB,512GB SSD,14.2,285000
-584,584,"Apple MacBook Pro (Late 2023) Apple M3 Pro 18GB RAM, 512GB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop",Core i7,18GB,512GB SSD,14.2,285000
-585,585,"Apple MacBook Air (2023) Apple M2 16GB RAM, 512GB SSD 15.3 Inch Liquid Retina Display Silver Laptop",Core i7,16GB,512GB SSD,15.3,285000
-586,586,Lenovo Legion Pro 5i 16IRX8 Intel Core i7 13700HX 32GB RAM 1TB SSD 16 Inch 2.5K QHD WQXGA Display Onyx Grey Gaming Laptop,Apple M3,32GB,1TB,16.0,288000
-587,587,Microsoft Surface Laptop Studio Intel Core i7 11370H 32GB RAM 1TB SSD 14.4 Inch Pixelsense Flow Multi Touch Display Platinum Surface Laptop #ABY-00001,Apple M1,32GB,1TB SSD,14.4,289000
-588,588,"Apple MacBook Pro (Late 2023) Apple M3 16GB RAM, 512GB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop",Ryzen 9,16GB,512GB SSD,14.2,295000
-589,589,Apple MacBook Pro (Late 2021) Apple M1 Pro (10-Core) Chip 32GB RAM 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop,Core i9,32GB,1TB SSD,14.2,299000
-590,590,Asus ProArt StudioBook 16 H5600QM AMD Ryzen 9 5900HX 32GB RAM 1TB SSD 16 Inch 4K WQUXGA OLED Display Star Black Laptop,Apple M2,32GB,1TB SSD,16.0,302000
-591,591,"Asus ZenBook Pro 14 OLED UX6404VV Intel Core i9 13900H 16GB RAM, 1TB SSD 14.5 Inch 2.8K OLED WQHD Touch Display Tech Black Laptop",Apple M2,16GB,1TB SSD,14.5,305000
-592,592,Apple MacBook Pro (2023) Apple M2 Pro Chip 16GB RAM 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop,Apple M2,16GB,1TB SSD,14.2,315000
-593,593,Apple MacBook Pro (2023) Apple M2 Pro Chip 16GB RAM 1TB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop,Ryzen 9,16GB,1TB SSD,14.2,315000
-594,594,Apple MacBook Air (2022) Apple M2 Chip 24GB RAM 2TB SSD 13.6 Inch Liquid Retina Display Midnight MacBook,Apple M2,24GB,2TB SSD,13.6,325000
-595,595,Asus ProArt StudioBook 16 H5600QR AMD Ryzen 9 5900HX 32GB RAM 1TB SSD 16 Inch 4K WQUXGA OLED Display Star Black Laptop,Core i9,32GB,1TB SSD,16.0,333000
-596,596,Apple MacBook Pro (2023) Apple M2 Pro Chip 16GB RAM 512GB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop,Apple M2,16GB,512GB SSD,16.2,335000
-597,597,Lenovo Legion 7i Gaming 16IAX7 Intel Core i9 12900HX 32GB RAM 1TB SSD 16 Inch 2.5K QHD WQXGA IPS Anti-Glare Display Storm Grey-Black Gaming Laptop,Apple M1,32GB,1TB SSD,16.0,338000
-598,598,Apple MacBook Pro (2023) Apple M2 Pro Chip 16GB RAM 512GB SSD 16.2 Inch Liquid Retina XDR Display Space Gray Laptop,Apple M3,16GB,512GB SSD,16.2,340000
-599,599,Apple MacBook Pro (Late 2021) Apple M1 Max (10-Core) Chip 32GB RAM 1TB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop,Apple M3,32GB,1TB SSD,16.2,350000
-600,600,"Apple MacBook Pro (Late 2023) Apple M3 Pro 18GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M3,18GB,1TB SSD,14.2,352000
-601,601,"Apple MacBook Pro (Late 2023) Apple M3 Pro 18GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M3,18GB,1TB SSD,14.2,352000
-602,602,"Apple Macbook Pro (Late 2023) Apple M3 Pro 18GB RAM, 512GB SSD 16.2 Inch Liquid Retina XDR Display Space Black Laptop",Core i7,18GB,512GB SSD,16.2,380000
-603,603,"Apple Macbook Pro (Late 2023) Apple M3 Pro 18GB RAM, 512GB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M2,18GB,512GB SSD,16.2,380000
-604,604,Microsoft Surface Laptop Studio Intel Core i7 11370H 32GB RAM 2TB SSD 14.4 Inch Pixelsense Flow Multi Touch Display Platinum Surface Laptop #AI2-00001,Apple M2,32GB,2TB SSD,14.4,395000
-605,605,Apple MacBook Pro (2023) Apple M2 Max Chip 32GB RAM 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop,Apple M3,32GB,1TB SSD,14.2,396000
-606,606,Apple MacBook Pro (2023) Apple M2 Max Chip 32GB RAM 1TB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop,Apple M3,32GB,1TB SSD,14.2,396000
-607,607,"Apple Macbook Pro (Late 2023) Apple M3 Pro 36GB RAM, 512GB SSD 16.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M3,36GB,512GB SSD,16.2,399000
-608,608,"Apple Macbook Pro (Late 2023) Apple M3 Pro 36GB RAM, 1TB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M3,36GB,1TB SSD,16.2,415000
-609,609,"Apple MacBook Pro (Late 2023) Apple M3 Max 36GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Black Laptop #Z1AV001HY",Apple M3,36GB,1TB SSD,14.2,415000
-610,610,"Apple Macbook Pro (Late 2023) Apple M3 Pro 36GB, 512GB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M3,36GB,512GB SSD,16.2,445000
-611,611,"Apple Macbook Pro (Late 2023) Apple M3 Max 36GB RAM, 1TB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M3,36GB,512GB SSD,16.2,445000
-612,612,"Apple Macbook Pro (Late 2023) Apple M3 Pro 36GB RAM, 1TB SSD 16.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M3,36GB,1TB SSD,16.2,450000
-613,613,"Apple MacBook Pro (Late 2023) Apple M3 Max 36GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M3,36GB,1TB SSD,14.2,450000
-614,614,"Apple MacBook Pro (Late 2023) Apple M3 Max 36GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M2,36GB,1TB SSD,14.2,450000
-615,615,"Apple Macbook Pro (Late 2023) Apple M3 Max 36GB, 1TB SSD 16.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M1,36GB,1TB SSD,16.2,460000
-616,616,Apple MacBook Pro (2023) Apple M2 Max Chip 32GB RAM 1TB SSD 16.2 Inch Liquid Retina XDR Display Space Gray Laptop,Apple M2,32GB,1TB SSD,16.2,465000
-617,617,Apple MacBook Pro (Late 2021) Apple M1 Max Chip 64GB RAM 4TB SSD 16.2 Inch Liquid Retina XDR Display Space Gray Laptop #MK233LL/A,Apple M3,64GB,4TB SSD,16.2,479000
-618,618,Apple Macbook Pro (Early 2023) Apple M2 Max Chip 32GB RAM 2TB SSD 16.2 Inch Liquid Retina XDR Display Space Gray Laptop,Apple M3,32GB,2TB SSD,16.2,495000
-619,619,"Apple Macbook Pro (Late 2023) Apple M3 Max 48GB RAM, 1TB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M3,48GB,1TB SSD,16.2,538000
-620,620,"Apple Macbook Pro (Late 2023) Apple M3 Max 48GB RAM, 1TB SSD 16.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M3,48GB,1TB SSD,16.2,540000
+,Product Name,Processor Type,RAM,Storage,Display,Price
+0,"Lenovo IdeaPad D330 10IGL Celeron N4020 10.1"" HD Detachable 2-in-1 Touch Laptop","Intel Celeron N4020 (4M Cache,1.10 GHz up to 2.80 GHz)",4GB DDR4 , 128GB eMMC SSD,10.1,34500
+1,"Lenovo IdeaPad 1 14AMN7 AMD Ryzen 5 14"" FHD Laptop with DDR5 RAM",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz),8GB DDR5 5500MHz , 256GB  SSD,14.0,60500
+2,"MSI Modern 14 C12M Core i3 12th Gen 14"" FHD Laptop","Intel Core i3-1215U (10M Cache, 3.30 GHz, up to 4.40 GHz)",8GB 3200MHz , 512GB SSD,14.0,59999
+3,"Acer Extensa 14 EX214-53-543W Core i5 12th Gen 14"" FHD Laptop","Intel Core i5-1240P Processor (12M Cache, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,14.0,79999
+4,Apple MacBook Pro 14 inch M3 Chip Liquid Retina Display 8GB RAM 512GB SSD Silver #MR7J3,"Apple M3 chip with 8-core CPU, 10-core GPU, 16-core Neural Engine",8GB , 512GB SSD,14.2,228000
+5,"Lenovo IdeaPad 1 14AMN7 AMD Ryzen 5 14"" FHD Sand Laptop",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz),8GB DDR5 5500MHz , 256GB  SSD,14.0,60500
+6,"Lenovo IdeaPad 1 14AMN7 AMD Ryzen 5 512GB SSD 14"" FHD Laptop (Sand Color)",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz),8GB DDR5 5500MHz , 512GB  SSD,14.0,63000
+7,"Lenovo IdeaPad Gaming 3 15ARH7 Ryzen 5 7535HS RTX 4050 6GB Graphics 15.6"" FHD Laptop","AMD Ryzen 5 7535HS (3.3GHz up to 4.55GHz, 6 cores)",8GB DDR5 , 512GB SSD ,15.6,124000
+8,"MSI GF63 THIN 12UC Core i5 12th Gen RTX 3050 4GB Graphics 15.6"" FHD 144hz Gaming Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",8GB DDR4 3200MHz , 512GB NVMe PCIe SSD,15.6,96500
+9,"Lenovo IdeaPad 1 15AMN7 AMD Ryzen 5 512GB SSD 15.6"" FHD Laptop with DDR5 RAM",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz),8GB DDR5 5500MHz , 512GB M.2 NVMe SSD,15.6,63500
+10,"Lenovo IdeaPad 1 15AMN7 Ryzen 5 7520U 15.6"" FHD Laptop ","AMD Ryzen 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)",8GB DDR5 , 256GB SSD,15.6,61500
+11,"MSI Cyborg 15 A12UDX Core i7 12th Gen RTX 3050 6GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i7-12650H (24M Cache, 2.30 GHz up to 4.70 GHz)",8GB DDR5 , 512GB SSD,14.0,145000
+12,"Lenovo IdeaPad 1 15AMN7 Ryzen 5 7520U 512GB SSD 15.6"" FHD Laptop (Sand Color)","AMD Ryzen 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)",8GB DDR5 5500MHz , 256GB  SSD,14.0,63500
+13,"Lenovo IdeaPad 1 15AMN7 AMD Ryzen 5 15.6"" FHD Laptop with DDR5 RAM",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz),8GB DDR5 5500MHz , 512GB SSD,14.0,61500
+14,"Lenovo IdeaPad 1 14AMN7 AMD Ryzen 5 512GB SSD 14"" FHD Laptop with DDR5 RAM",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz),16GB LPDDR4x , 512GB SSD,14.0,63000
+15,"Lenovo IdeaPad Slim 3 14AMN8 Ryzen 5 7520U 14"" FHD Laptop"," AMD Ryzen 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)",16 GB DDR4 , 512 GB SSD,14.0,71500
+16,"Lenovo IdeaPad Flex 5 14ALC7 AMD Ryzen 5 5500U 14"" Touchscreen Laptop",AMD Ryzen 5 5500U (2.1GHz up to 4.0GHz),16GB LPDDR4x , 512GB SSD,14.0,96000
+17,"Xiaomi RedmiBook Pro 14 Ryzen 7 5700U 14"" Laptop","Ryzen 7 5700U (8MB L3 cache,1.8GHz Up to 4.3GHz)",16GB DDR4 , 512GB SSD,14.0,75500
+18,"Lenovo IdeaPad Slim 5 14ABR8 Ryzen 5 7530U 14"" WUXGA Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz),16GB 5600MHz; , 512GB SSD,14.0,99500
+19,"Lenovo IdeaPad Flex 5 14ALC7 AMD Ryzen 7 5700U 14"" Touchscreen Laptop",AMD Ryzen 7 5700U (1.8GHz up to 4.3GHz),16GB LPDDR5 , 512GB SSD,14.0,105000
+20,"Lenovo IdeaPad Light 5 14ABR8 Ryzen 5 7530U 14"" FHD Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz),16GB DDR5 , 1TB SSD,,108000
+21,"Lenovo IdeaPad Light 5 14ABR8 Ryzen 7 7730U 14"" FHD Laptop",AMD Ryzen 7 7730U (2.0GHz up to 4.5GHz),16GB DDR5 , 1TB SSD,14.0,111500
+22,"Lenovo IdeaPad Flex 5 14ABR8 Ryzen 7 7730U 14"" Touchscreen Laptop ",AMD Ryzen 7 7730U (2.0GHz up to 4.5GHz),32GB DDR5 , 1TB SSD,,115000
+23,"Lenovo LOQ 15APH8 Ryzen 7 7840HS RTX 3050 6GB Graphics 15.6"" FHD 144Hz Gaming Laptop","Ryzen 7 7840HS (3.8GHz Up to 5.1GHz, 8 Cores, 16 Threads)",8GB DDR4 , 512GB SSD,14.0,150000
+24,"Lenovo Yoga 7 14ARP8 AMD Ryzen 7 7735U 14"" OLED 2.8K Touch Laptop","AMD Ryzen 7 7735U (8-core, 16MB cache, 2.7 GHz up to 4.75GHz)",4GB LPDDR4 , 256GB SATA SSD,14.0,155000
+25,"Lenovo Legion S7 16ARHA7 Ryzen 7 6800H RX 6800S 8GB Graphics 16"" Gaming Laptop ","AMD Ryzen 7 6800H (16M Cache, 3.2 GHz up to 4.7 GHz)",4GB LPDDR4 , 256GB SATA SSD,,165000
+26,"Lenovo Legion 5 Pro 16ARH7H Ryzen 7 6800H RTX 3070 8GB Graphics 16"" 165Hz Gaming Laptop","AMD Ryzen 7 6800H (16M Cache, 3.2 GHz up to 4.7 GHz)",4GB DDR4 2400MHz ," 1TB 5400rpm 2.5"" HDD",,185000
+27,"Lenovo Legion 7 16ARHA7 Ryzen 9 6900HX RX 6850M 12GB Graphics 16"" Gaming Laptop "," AMD Ryzen 9 6900HX (8C / 16T, 3.3 / 4.9GHz, 4MB L2 / 16MB L3)",8GB 3200Mhz , 256GB SSD,15.6,240000
+28,"Acer Nitro 5 AN515-58-59JP Core i5 12th Gen RTX 3050 4GB Graphics 15.6"" FHD 144Hz Gaming Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",4GB DDR4 3200MHz , 1TB HDD,,117000
+29,"AVITA Essential 14 Celeron N4020 256GB SSD 14"" Full HD Laptop Concrete Grey Color","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB DDR4 RAM , 1TB 5400RPM HDD,15.6,25000
+30,"AVITA Essential 14 Celeron N4020 256GB SSD 14"" Full HD Laptop Matt White Color","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB 2933 MHz , 256GB SSD,14.0,25000
+31,Chuwi HeroBook Pro Intel Celeron N4020 14.1 inch Full HD Laptop with Windows 11,"Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB DDR4 (Onboard) , 256GB PCIEG3 SSD,15.6,28800
+32,Chuwi GemiBook XPro Intel Celeron N100 14.1 inch Full HD Laptop,"Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",8GB DDR4 , 256GB SSD,15.6,34900
+33,"Lenovo IdeaPad Slim 3i Intel Celeron N4020 15.6"" HD Laptop","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB DDR4 RAM , 1TB HDD,15.6,35000
+34,Chuwi GemiBook Plus Intel Celeron N100 15.6 inch Full HD Laptop,"Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB DDR4 ,512GB PCIe G3 SSD,15.6,35900
+35,"Lenovo IdeaPad Slim 3i 15IGL Intel Celeron N4020 15.6"" HD Laptop","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",8GB DDR4 , 256GB SSD,15.6,36000
+36,"Lenovo IdeaPad Slim 1i Intel Celeron N4020 14"" FHD Laptop","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",8GB DDR4 , 256GB SSD,14.0,36500
+37,"Lenovo IdeaPad Slim 1i Intel Celeron N4020 15.6"" FHD Laptop","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB DDR4 , 256GB M.2 SSD,14.0,36500
+38,Asus P1511CMA Intel Celeron N4020 15.6-Inch HD Laptop,"Intel Celeron N4500 (4M Cache, 1.10 GHz up to 2.80 GHz)",8GB DDR4 RAM , 1TB HDD,14.0,37500
+39,"HP 250 G8 Intel Celeron N4020 15.6"" FHD Laptop","Intel Celeron N4500 (4M Cache, 1.10 GHz up to 2.80 GHz)",8GB DDR4 , 256GB SSD,15.6,38000
+40,"Asus Vivobook X515KA Celeron N4500 15.6"" FHD Laptop","Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",RAM : 4GB DDR4 , 512GB PCIE G3 SSD,15.6,40500
+41,"HP 15s-fq3617TU Celeron N4500 15.6"" FHD Laptop","Intel Celeron N4020 (4MB Cache, 1.10 GHz up to 2.80 GHz)",8GB; , 256GB,14.0,42500
+42,"Asus Vivobook E410MA Celeron N4020 14"" HD Laptop",AMD Ryzen 3 3250U (2.6 GHz up to 3.5 GHz),4GB 3200Mhz  , 256GB SSD,15.6,44000
+43,"Walton Prelude N40 Pro Celeron N4020 14"" FHD Laptop",AMD Ryzen 3 3250U processor(2.6 Ghz up to 3.5 Ghz),4GB DDR4  , 1TB HDD,11.6,39750
+44,ASUS D415DA Ryzen 3 3250U 14-inch HD Laptop,"Intel Celeron N4020 (1.10 GHz up to 2.80 GHz, Cache 4MB)",4GB RAM , 1TB HDD,15.6,46500
+45,"ASUS VivoBook 15 M515DA Ryzen 3 3250U 15.6"" HD Laptop","Intel Pentium Silver N5030 (4MB Cache, 1.10 GHz up to 3.10 GHz)",8GB DDR5 , 512GB SSD,14.0,46500
+46,"Asus VivoBook 15 E510MA Intel Celeron N4020 15.6"" FHD Laptop",AMD Athlon Silver 3050U (2.3 GHz up to 3.2GHz),8GB 2666MHz , 512GB SSD,,47000
+47,"Walton Prelude N50 Pro Pentium Silver N5030 14"" FHD Laptop","Intel Celeron N4500 (4M Cache, 1.10 GHz up to 2.80 GHz)",4GB 3200Mhz , 512GB SSD,15.6,43750
+48,"HP 15s-eq1578AU AMD Athlon 3050U 15.6"" FHD Laptop",AMD Ryzen 3 3250U processor(2.6 Ghz up to 3.5 Ghz),8GB RAM , 1TB HDD,12.0,46500
+49,"Asus ExpertBook BR1100FKA Celeron N4500 11.6"" 360° HD LED Touch Education Laptop","Intel Celeron N4120 (4MB Cache, 1.10 GHz up to 2.60 GHz)",8GB DDR4 3200MHz , 512GB SSD,15.6,47500
+50,"ASUS VivoBook 15 M515DA Ryzen 3 3250U 8GB RAM 15.6"" HD Laptop",AMD Ryzen 3 3250U (2.6 GHz up to 3.5 GHz),8GB DDR4 , 1TB HDD,15.6,47900
+51,"Walton Prelude N41 Pro Celeron N4120 14"" FHD Laptop","Intel Core  i3-1115G4 (6MB cache, 3.0 GHz upto 4.1 GHz)",4GB DDR4 3200 MHz , 1TB HDD,15.6,42550
+52,"Chuwi MiniBook X Intel Celeron N5100 10.5"" FHD+ Touch Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",4GB DDR4 2666 MHz , 1TB HDD,15.6,47900
+53,"ASUS VivoBook 15 D515DA Ryzen 3 3250U 15.6"" FHD Laptop with Windows 11","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 , 256GB SSD,15.6,48900
+54,Chuwi UBook X Core i5 12'' Tablet PC With Windows 11,"AMD Ryzen 3 7320U (2.4GHz up to 4.1GHz, 4 cores)",8GB 3200Mhz , 256GB SSD,15.6,49900
+55,"Lenovo IdeaPad Slim 3i 11th Gen Core i3 256GB SSD 15.6"" Full HD Laptop with Windows 11","Intel Core i3 10110U (4MB Cache, 2.1GHz up to 4.1GHz)",4GB DDR4 RAM (Onboard) , 512GB SSD,15.6,51400
+56,"ASUS VivoBook 15 X515EA Core i3 11th Gen 15.6"" FHD WV Laptop","AMD Ryzen 3 7320U (2.4GHz up to 4.1GHz, 4 cores)",8GB DDR4 , 512GB SSD,14.0,51900
+57,"Lenovo IdeaPad Slim 3i Core i3 11th Gen 4GB RAM 15.6"" FHD Laptop","Intel Core  i3-1115G4 (6MB cache, 3.0 GHz upto 4.1 GHz)",8GB DDR4 3200 MHz , 1TB HDD,14.0,52900
+58,"Acer Aspire 3 A315-24P Ryzen 3 7320U 15.6"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB RAM , 512GB SSD,15.6,53000
+59,"Walton Passion BX310U Core i3 10th Gen 15.6"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 , 512GB SSD,15.6,49850
+60,"Lenovo IdeaPad Slim 1 15AMN7 Ryzen 3 7320U 15.6"" FHD Laptop","AMD Ryzen 3 5300U (4MB L3 Cache, 2.6GHz up to 3.8GHz)",8GB DDR5 , 512GB SSD,15.6,53400
+61,"Lenovo IdeaPad Slim 3i Core i3 11th Gen 512GB SSD 15.6"" FHD Laptop"," Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 , 512GB SSD,14.0,53500
+62,"Lenovo IdeaPad Slim 3i Core i3 11th Gen 14"" FHD Laptop Abyss Blue","Intel Core i3-1125G4 (8M Cache, 2.00 GHz up to 3.70 GHz, 4 cores, 8 threads)",8GB DDR4 , 512GB SSD,14.0,55500
+63,"MSI Modern 14 C11M Core i3 11th Gen 14"" FHD Laptop","Intel Core i3-1215U (10M Cache, 3.3 GHz up to 4.4 GHz)",8GB DDR4 , 512GB SSD,15.6,56000
+64,"HP 255 G8 Ryzen 3 5300U 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB 3200Mhz , 512GB SSD,15.6,56000
+65,"HP 250 G8 Core i3 11th Gen 15.6"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 3200Mhz , 512GB SSD,15.6,56000
+66,"HP 15s-du3611TU Core i3 11th Gen 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, 3.30 GHz, up to 4.40 GHz)",8GB LPDDR4X , 256GB SSD,14.0,56500
+67,"Lenovo IdeaPad Slim 3i 14IAU7 Core i3 12th Gen 14"" FHD Laptop Misty Blue"," Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB RAM , 512GB SSD,15.6,56500
+68,"Lenovo IdeaPad SLIM 3i Intel Core i3 12th Gen 14"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB RAM , 512GB SSD,15.6,56500
+69,"ASUS VivoBook 15 X515EA Core i3 11th Gen 512GB SSD 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,15.6,56800
+70,"Acer A315-59-390P Core i3 12th Gen 15.6"" FHD Laptop",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz) ,8GB DDR5 , 512GB SSD,15.6,57000
+71,"HP 250 G8 Core i3 11th Gen 8GB RAM 1TB HDD 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,15.6,57000
+72,"Lenovo IdeaPad Slim 3i 14ITL6 Core i3 11th Gen 512GB SSD 14"" FHD Laptop","Intel Core i3-1215U (10M Cache, 3.30 GHz, up to 4.40 GHz)",4GB DDR4 , 512G SSD,15.6,57500
+73,"Acer Aspire 3 A315-59-332B Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i5-1155G7 (8M Cache, 2.50 GHz up to 4.50 GHz)",8GB DDR4 , 512GB SSD,14.0,57500
+74,"Acer Aspire 3 A315-24P Ryzen 5 7520U 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB LPDDR4X , 128GB SSD,15.6,58000
+75,"Acer Aspire 3 A315-59-34TO Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB DDR4  , 1TB HDD,15.6,58000
+76,"Acer Aspire 3 A315-59-39P4 Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i3-1115G4 (6MB Cache, 3.00 GHz, up to 4.10 GHz)",8GB DDR5 , 512GB SSD,15.6,58000
+77,"Infinix INBook Y2 Plus Core i5 11th Gen 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB DDR4  , 1TB HDD,14.0,58990
+78,"Lenovo IdeaPad SLIM 3i Intel Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB DDR4  , 512GB SSD,15.6,59500
+79,"Lenovo IdeaPad 3i 14IAU7 Core i3 12th Gen 14"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",16GB DDR4 3200MHz , 512GB SSD,,59500
+80,"HUAWEI MateBook B3-520 Core i3 11th Gen 15.6"" FHD Laptop","Ryzen 5 5500U (11M Cache, 2.10GHz)",8GB RAM , 512GB SSD,15.6,59800
+81,"Lenovo V15 Gen 3 Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i3-1305U 13th Gen (10M Cache, Up to 4.50 GHz)",8GB DDR4  , 512GB SSD,15.6,60000
+82,"Dell Inspiron 15 3520 Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i5-1155G7 (8M Cache, 2.50 GHz up to 4.50 GHz)",8GB DDR4 , 512G SSD,15.6,60500
+83,"Lenovo IdeaPad Slim 3i Core i3 11th Gen 512GB SSD 14"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",4GB DDR4  , 256GB SSD,14.0,61000
+84,"Acer Aspire Lite AL15-41 AMD Ryzen 5 5500U 15.6"" FHD Laptop","Intel Core i5-1155G7 (8M Cache, 2.50 GHz up to 4.50 GHz)",8GB DDR4  , 256GB SSD,14.0,61000
+85,"Chuwi CoreBook XPro Intel core i3 15.6"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8 GB DDR4 SDRAM ," 1TB 2.5"" 5400RPM HDD",14.0,61000
+86,"Acer Aspire 5 5P-A515-58P Core i3 13th Gen 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB RAM , 512GB SSD,15.6,61500
+87,"Acer Aspire Lite AL15-51 Core i5 11th Gen 15.6"" FHD Laptop","AMD Ryzen 3 7320U (2.4GHz up to 4.1GHz, 4 cores)",8GB DDR4  , 256GB SSD,15.6,61500
+88,"Asus Vivobook S15 S513EA Core i3 11th Gen 4GB RAM 15.6"" OLED FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 , 256GB SSD,15.6,61900
+89,"Infinix INBook X2 Core i5 11th Gen 14"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 , 1TB SATA HDD,14.0,61990
+90,"Acer Chromebook 514 CB514-1W Core i3 11th Gen 14"" HD Chromebook","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB 2666MHz , 512GB SATA III M.2 2280 SSD,15.6,62000
+91,"Acer TravelMate TMP214-54 Core i3 12th Gen 14"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB DDR5 , 512GB SSD,15.6,62000
+92,"Asus VivoBook Go 15 E1504FA Ryzen 3 7320U 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)", 4GB DDR4 , 1TB HDD,15.6,62000
+93,"ASUS VivoBook 15 X1500EA Core i3 11th Gen 15.6"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB RAM , 512GB SSD,15.6,62800
+94,"ASUS VivoBook 15 X1500EA Core i3 11th Gen 512GB SSD 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",4GB DDR4  , 512GB SSD,15.6,62800
+95,"MSI Modern 14 C12MO Core i3 12th Gen 14"" FHD Laptop","Intel Core i3-1115G4 (6M Cache, 3.00 GHz up to 4.10 GHz)",8GB DDR4 , 256GB SSD,15.6,63000
+96,"HP 15s-fq5786TU Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR5 , 512GB SSD,15.6,63500
+97,"ASUS VivoBook 15 X1502ZA Core i3 1215U 12th Gen 15.6"" FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB DDR4 RAM , 512GB SSD,15.6,63500
+98,"Asus Vivobook S15 S513EA Core i3 11th Gen 15.6"" OLED FHD Laptop","Intel Core i3-1215U (10M Cache, up to 4.40 GHz)",8GB DDR4 RAM , 512GB SSD,,63800
+99,"ASUS VivoBook 15 X1502ZA Core i3 12th Gen 256GB SSD 15.6"" FHD Laptop","Intel Core i3-1215U (10MB Cache, Up to 4.4 GHz)",8GB DDR4 RAM , 512GB SSD,14.0,63900
+100,"Huawei MateBook D15 Core i3 11th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 RAM , 512GB SSD,15.6,60500
+101,"Acer Extensa 15 EX215-54-57SB Core i5 11th Gen 15.6"" FHD Laptop","Intel Core i5-10210U (6M Cache, 1.60 GHz up to 4.20 GHz)",8GB DDR4 RAM , 512GB SSD,15.6,64000
+102,"Lenovo IdeaPad Slim 3i 15IAU7 Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i3-1305U (10M Cache, 3.3 GHz up to 4.5 GHz)",8GB DDR4 RAM , 512GB SSD,15.6,64000
+103,"ASUS VivoBook 15 X1502ZA Core i3 12th Gen 8GB RAM 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,14.0,65500
+104,"ASUS VivoBook 15 X1502ZA-EJ850W Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,15.6,66000
+105,"HP 240 G8 Core i5 11th Gen 14"" FHD Laptop","Intel Core i3-1220P (12M Cache, up to 4.40 GHz)",8GB DDR4 RAM , 512GB SSD,15.6,67500
+106,"Walton Passion BX510U Core i5 10th Gen 15.6"" FHD Laptop",Intel Core i3-1315U (1.2 GHz Up to 4.5 GHz),RSM: 8GB DDR4 RAM , 512GB SSD,14.0,64550
+107,"Lenovo IdeaPad Slim 3i 15IRU8 Core i3 13th Gen 15.6"" FHD Laptop","Intel Core i3-1305U (10M Cache, 3.3 GHz up to 4.5 GHz)",8GB DDR4 RAM , 512GB SSD,14.0,68000
+108,"ASUS VivoBook 15 X515EA Core i5 11th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 RAM , 512GB SSD,14.0,68500
+109,"HP 240 G8 Core i5 11th Gen 512GB SSD 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 RAM , 512GB SSD,14.0,68500
+110,"ASUS VivoBook 15 X1502ZA Core i3 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 256 GB,14.0,69800
+111,"ASUS Vivobook 15 X1504VA-NJ260W Core i3 13th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,14.0,70500
+112,"Lenovo IdeaPad Slim 3i 14IRU8 Core i3 13th Gen 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 3200 MHz , 256GB SSD,14.0,70500
+113,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Soft Lavender","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,15.6,70950
+114,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Infinite Black","Intel Core i5-1155G7 (8M Cache, 2.50 GHz up to 4.50 GHz)",8GB RAM , 512GB SSD,15.6,70950
+115,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Star Silver","Intel Core i5-1235U 12th Gen (12M Cache, Up to 4.40 GHz)",8GB DDR4 , 512GB SSD,14.0,70950
+116,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Aqua Blue","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,14.0,70950
+117,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Anchor Grey","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,14.0,70950
+118,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Golden Matt Black","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",16GB DDR4 3200MHz , 512GB M.2 2280 SSD,14.0,70950
+119,"HP 15s-fq4786TU Core i5 11th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 256GB SSD,14.0,71300
+120,"Acer Aspire 3 A315-59-5031 Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB LPDDR4X , 512GB SSD,15.6,71500
+121,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Flowers on Yellow",Intel Core i5-1135G7 11th Gen (2.40 GHz to 4.20 GHz Turbo),8GB 3200MHz , 512GB SSD,,71990
+122,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Iris on Ruby","Intel Core i3-1215U (10M Cache, up to 4.4 GHz)",8GB DDR4 , 512GB SSD,15.6,71990
+123,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Paisley on Lilac","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8GB 2666MHz , 512GB SATAIII M.2 2280 SSD,15.6,71990
+124,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Snowflakes on Azure Blue","Intel Core i5-1135G7 (2.40 GHz up to 4.20 GHz, 8 MB Cache)",8GB DDR4 , 512GB SSD,15.0,71990
+125,"Avita Liber V14 Core i5 11th Gen 14"" FHD Laptop Snowflakes on Mountain Blue","AMD Ryzen 5 5625U (16MB L3 Cache, 2.3GHz, up to 4.3GHz)",8GB DDR4 , 512GB SSD,15.6,71990
+126,"Dell Latitude 3520 Core i5 11th Gen 15.6"" HD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,15.6,72000
+127,"ASUS VivoBook 16 X1605ZA Core i3 12th Gen 16"" WUXGA Laptop","Intel Core i5-1235U 12th Gen (12M Cache, Up to 4.40 GHz)",8GB RAM , 512GB SSD,15.6,72000
+128,"Lenovo V15 Gen 3 Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i5-1235U 12th Gen (12M Cache, Up to 4.40 GHz)",8GB DDR4 , 512GB SSD,,72500
+129,"HP 250 G8 Core i5 11th Gen 8GB RAM 256GB SSD 15.6"" FHD Laptop",AMD Ryzen 5 4600H (3.0 GHz Up to 4.0 GHz),8GB DDR4  , 512GB SSD,,72800
+130,"HP 15s-eq3619AU Ryzen 5 5625U 15.6"" FHD Laptop","Intel Core i7-1195G7 (12M Cache, 2.90 GHz up to 5.00 GHz)",8GB DDR4  , 512GB SSD,14.0,73200
+131,"Lenovo IdeaPad Slim 3i Core i5 11th Gen 15.6"" FHD Laptop","Intel Core i5-1235U (12M Cache, 1.30 GHz, up to 4.40 GHz)",8GB RAM , 512GB SSD,15.6,74000
+132,"Acer Aspire 3 A315-59-57VA Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8MB Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,14.0,74000
+133,"Acer Aspire 3 A315-59-50J9 Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4  , 512GB SSD,15.6,74000
+134,"ASUS Vivobook 15 M1502IA-EJ388W Ryzen 5 4600H 15.6"" FHD Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz),8GB 3200MHZ , 512GB PCIe SSD,15.6,74000
+135,"Thunderobot IGER E1 Core i7 11th Gen 15.6"" FHD Laptop",Intel Core i5-1135G7 11th Gen (2.40 GHz to 4.20 GHz Turbo),8GB DDR4  , 512GB NVME SSD,15.6,74900
+136,"Lenovo IdeaPad Slim 3i Core i5 12th Gen 14"" FHD Laptop","Intel Core i7-10510U (8MB Cache, 1.8GHz up to 4.9GHz)",8GB DDR4  , 512GB NVME SSD,15.6,75500
+137,"HUAWEI MateBook B3-520 Core i5 11th Gen 15.6"" FHD Laptop","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,14.0,76000
+138,"Walton Tamarind MX511G Core i5 11th Gen 14"" FHD Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz),8GB DDR4 3200Mhz , 512GB NVMe SSD,14.0,74500
+139,"Lenovo IP Slim 3 15ABR8 Ryzen 5 15.6"" FHD Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz) ,16GB DDR5 , 512GB SSD,15.6,72000
+140,"Dell Latitude 3520 Core i5 11th Gen 512GB SSD 15.6"" HD Laptop","Intel Core i5-1235U (12M Cache, 1.30 GHz, up to 4.40 GHz)",16GB DDR4 3200MHz RAM , 512GB SSD ,,76000
+141,"Walton Passion BX710U Core i7 10th Gen 15.6"" FHD Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz),8GB 3200MHz , 1TB HDD,15.6,74550
+142,"Acer Aspire 3 A315-59 Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8 GB DDR4 3200MHz , 512GB PCIe M.2 SSD,14.0,76500
+143,"Acer Swift Go 14 SFG14-42 Ryzen 5 7530U 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8 GB DDR4 3200MHz , 512GB PCIe M.2 SSD,,77000
+144,"Acer Swift Go 14 SFG14-41 Ryzen 5 7530U 14"" FHD Laptop With Fingerprint","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8 GB DDR4 3200MHz , 512GB PCIe M.2 SSD,15.6,77000
+145,"Dell Inspiron 15 3520 Core i5 12th Gen 15.6"" FHD Laptop",Intel Core i5-1235U (1.3 GHz Up to 4.4 GHz),8GB DDR4 , 512GB SSD,15.6,78500
+146,"ASUS Vivobook 14 M1405YA AMD Ryzen 5 7530U 14"" WUXGA Laptop","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",16GB DDR4 3200MHz RAM , 512GB SSD ,14.0,78500
+147,"Huawei MateBook D15 Core i5 11th Gen 15.6"" FHD Laptop",AMD Ryzen 7 5700U (Base 1.8GHz up to Up to 4.3GHz),8 GB DDR4 3200MHz , 512GB PCIe M.2 SSD,15.6,76000
+148,"Huawei MateBook B3-420 Core i5 11th Gen 14"" FHD Laptop","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8 GB DDR4 3200MHz , 512GB PCIe M.2 SSD,15.6,76000
+149,"Lenovo IdeaPad Slim 3i Core i5 11th Gen MX350 2GB Graphics 15.6"" FHD Laptop","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,15.6,79500
+150,"ASUS VivoBook 15 X1502ZA-EJ1249W Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i7-1165G7 (2.8- 4.7GHZ, 12MB )",8GB LPDDR4x , 256GB SSD,15.6,79500
+151,"ASUS VivoBook 15 X1502ZA Core i5 1235U 12th Gen 15.6"" FHD Laptop",AMD Ryzen 7 5700U (Base 1.8GHz up to Up to 4.3GHz),8GB DDR5 , 512GB SSD,14.0,79500
+152,"Lenovo IdeaPad 3 Ryzen 7 5700U 15.6"" FHD Laptop with Windows 11",AMD Ryzen 5 7520U (2.8 GHz up to 4.3 GHz) ,8GB DDR5 , 512GB SSD,14.0,79900
+153,"Acer TravelMate TMP214-54 Core i5 12th Gen 14"" FHD Laptop","Intel Core i5-1235U (3.30 GHz, up to 4.40 GHz)",8GB DDR5 , 512GB SSD,15.6,80000
+154,"Acer TravelMate P2 TMP215-54 Core i5 12th Gen 15.6"" FHD Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8GB DDR4 , 512GB SSD,15.6,80000
+155,"Lenovo IdeaPad 3i 15ITL6 core i7 11th Gen 15.6"" FHD Laptop","Intel Core i5-1335U (up to 4.6 GHz, 12 MB L3 cache)",8GB RAM , 512GB SSD,15.6,80500
+156,"MSI Modern 15 A5M Ryzen 7 5700U 15.6"" FHD Laptop","Intel Core i5-1335U (up to 4.6 GHz, 12 MB L3 cache)",8GB DDR4 , 512GB SSD,15.6,81000
+157,"Asus VivoBook Go 15 E1504FA Ryzen 5 7520U 15.6"" FHD Laptop","Intel Core i5-1335U (up to 4.6 GHz, 12 MB L3 cache)",8GB RAM , 512GB SSD,15.6,81500
+158,MSI Modern 14 C12MO Core i5 12th Gen 14'' FHD Laptop,"Intel Core i5-1235U (12M Cache, 3.3GHz, Up to 4.40 GHz)",8GB RAM , 512GB SSD,15.6,81900
+159,"Acer TravelMate TMP214-53 Core i7 11th Gen 14"" FHD Laptop","Intel Core i5-1235U (3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,15.6,79500
+160,"HP 15-fd0204TU Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-1335U (up to 4.6 GHz, 12 MB L3 cache)",8GB RAM , 512GB SSD,15.6,82500
+161,"HP 15-fd0205TU Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-1335U (up to 4.6 GHz, 12 MB L3 cache)",8GB DDR4  , 512GB SSD,15.6,82500
+162,"HP 15-fd0202TU Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-1235U (12M Cache, 1.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,15.6,82500
+163,"Lenovo IdeaPad Slim 3i Core i5 12th Gen 15.6"" FHD Laptop with Windows 11","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",16GB 3200MHz , 512GB SSD ,14.0,83000
+164,MSI Modern 15 B12MO Core i5 12th Gen 15.6'' FHD Laptop,"Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)",4GB 3200MHZ  , 512GB SSD,15.6,83900
+165,"HP 15-fd0208TU Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)",8GB DDR4  , 512GB SSD,,84000
+166,"HP 15-fd0210TU Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)",16GB DDR4 3200MHz RAM , 512GB NVMe PCIe Gen3x4 SSD ,15.6,84000
+167,"Lenovo IdeaPad Slim 3i Core i5 12th Gen 15.6"" FHD Laptop Abyss Blue","Intel Core i5-1235U (10M Cache, up to 4.4 GHz)",16GB DDR4 , 512GB SSD,15.6,86000
+168,"Samsung Galaxy Book Core i5 11th Gen 15.6"" FHD Laptop","AMD Ryzen 7 7730U (8-core/16-thread, 16MB cache, up to 4.5 GHz)",8GB DDR4 , 512GB SSD,15.6,86000
+169,"Lenovo IdeaPad Slim 3i 15IRH8 Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8GB  3200Mhz , 512GB SSD,15.6,87000
+170,"Lenovo IdeaPad Slim 3i 14IRH8 Core i5 13th Gen 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 3200 MHz ," 256GB SSD, 1TB HDD",14.0,87000
+171,"Lenovo IdeaPad Slim 3i 15IRH8 Core i5 13th Gen 15.6"" FHD Laptop With Windows 11","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8GB DDR4 , 512 GB SSD,,87000
+172,"ASUS VivoBook 16 X1605ZA Core i5 12th Gen 16"" WUXGA Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8GB , 512GB SSD,15.6,87500
+173,"Lenovo IP Slim 3 15ABR8 Ryzen 7 15.6"" FHD Laptop",AMD Ryzen 5 7530U (2.0GHz up to 4.5GHz),16GB DDR4 3200MHz , 512GB SSD,15.6,83000
+174,"Lenovo IdeaPad Slim 3i Core i7 11th Gen 15.6"" FHD Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8 GB DDR4 3200MHz , 512GB PCIe SSD,15.6,88000
+175,"Asus Vivobook S15 S513EA Core i5 11th Gen 15.6"" OLED FHD Laptop","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,15.6,89000
+176,"Lenovo IdeaPad Slim 3i Core i7 11th Gen 15.6"" FHD Laptop with Fingerprint",Intel Core i5-1335U (1.3 GHz Up to 4.6 GHz),8GB DDR4 3200MHz , 512GB NVMe PCIe SSD,14.0,89000
+177,"Lenovo IdeaPad Slim 3i Core i7 11th Gen 14"" FHD Laptop","Intel Core i7-1255U (12M Cache, 3.50 GHz, up to 4.70 GHz)",8GB DDR4 (ON BOARD) , 512GB M.2 SSD,15.6,89000
+178,"ASUS Vivobook 15 OLED M1505YA AMD Ryzen 5 15.6"" FHD Laptop","AMD Ryzen 5 5500U (8M Cache, 2.1GHz up to 4.0GHz, 6 cores)",8GB DDR4 , 512GB M.2 SSD,15.6,89000
+179,"Lenovo IdeaPad Slim 3i Core i7 11th Gen 15.6"" FHD Laptop Abyss Blue",Intel Core i5-12450H 12th Gen,8GB DDR4  , 512GB SSD,15.6,89000
+180,"ASUS VivoBook 15X K3504ZA Core i5 12th Gen 15.6"" Laptop","Intel Core i5-1335U (12M Cache, 3.40 GHz, up to 4.60 GHz)",8GB DDR5 , 512GB  SSD,15.6,89000
+181,"ASUS Vivobook 15 X1504VA-NJ261W Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-1235U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,14.0,89500
+182,"MSI Modern 15 B12M Core i7 12th Gen 16GB RAM 15.6"" FHD Laptop","Intel Core i5-1240P Processor (12M Cache, up to 4.40 GHz)",8GB DDR4 , 512GB SSD,14.0,89900
+183,"Asus VivoBook Flip 14 TM420UA Ryzen 5 14"" FHD Touch Laptop","AMD Ryzen 5 5625U (16MB L3 Cache, 2.3GHz, up to 4.3GHz)",8GB 3200MHz , 512GB SSD,14.0,89900
+184,Acer Aspire 7 A715-76G-59U9 Core i5 12th Gen GTX 1650 4GB 15.6 Inch 144Hz FHD Gaming Laptop,"Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",16GB DDR4 , 512GB SSD,15.6,89900
+185,"MSI Modern 15 B13M Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-1235U (12M Cache, 1.30 GHz, up to 4.40 GHz)",8GB 3200MHz , 512GB M.2 SSD,,91500
+186,"ASUS VivoBook 15X K3504ZA Core i5 12th Gen 15.6"" FHD WV Laptop","AMD Ryzen 5 5500U (8M Cache, 2.1GHz up to 4.0GHz, 6 cores)",8GB DDR4  , 512GB NVME SSD,14.0,91500
+187,"Acer Aspire 5 A515-57G-57LE Core i5 12th Gen RTX 2050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i7-1255U (12M Cache, 3.50 GHz, up to 4.70 GHz)",16GB DDR4 , 512GB SSD,14.0,91500
+188,"HP ProBook 455 G9 Ryzen 5 5625U 15.6"" FHD Laptop","Intel Core i5-1335U (up to 4.6GHz, 12 MB L3 cache)",16GB DDR4 , 512GB SSD,14.0,85000
+189,"HP 250 G8 Core i7 11th Gen 8GB RAM 1TB HDD 256GB SSD 15.6"" FHD Laptop",Intel Core i5-1335U 13th Gen,16GB DDR4 3200MHz RAM , 512GB NVMe PCIe Gen3x4 SSD ,14.0,92000
+190,"HP ProBook 440 G9 Core i5 12th Gen 14"" FHD Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB DDR4 3200MHz RAM , 512GB NVMe PCIe Gen3x4 SSD ,14.0,93000
+191,"ASUS ZenBook 14 UM425UA Ryzen 5 5500U 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 3200MHz , 1TB M.2 PCIe Gen4 SSD ,14.0,93500
+192,"MSI Modern 14 C12MO Core i7 12th Gen 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",16GB DDR4 , 512GB SSD,15.6,91500
+193,"HP ProBook 450 G10 Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB DDR4 , 512GB SSD,,93500
+194,"Acer Aspire 5 5M-A515-58GM Core i5 13th Gen RTX 2050 4GB Graphics 15.6"" FHD Gaming Laptop",Intel Core i5-12450H 12th Gen,8GB DDR4 , 512GB SSD,15.6,94000
+195,"MSI GF63 THIN 12UCX Core i5 12th Gen RTX 2050 4GB Graphics 15.6"" FHD 144hz Gaming Laptop",Intel Core I7 13th Gen-1355U (10 Cores  + 12 Threads),8GB DDR4 , 512GB SSD,15.6,94500
+196,"Asus VivoBook 15 S513EQ Core i5 11th Gen 8GB RAM 15.6"" OLED FHD Laptop","Intel Core i5-1240P Processor (12M Cache, up to 4.40 GHz)",8GB DDR4 2666MHz , 512GB SSD,16.0,95000
+197,"Asus VivoBook 15 K513EQ Core i5 11th Gen 15.6"" OLED FHD Laptop",AMD Ryzen 7 5700U(1.8GHz Up to 4.3GHz) ,8GB DDR4 , 512GB SSD,14.0,95000
+198,"Lenovo IdeaPad Slim 5 14IAH8 Core i5 12th Gen 14"" WUXGA Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8GB DDR4 (ON BOARD) , 512GB M.2 SSD,15.6,95000
+199,"Acer Aspire 7 A715-76G Core i5 12th Gen RTX 3050 4GB Graphics IPS 144Hz 15.6"" Gaming Laptop","Intel Core i7-11800H (24M Cache, 2.30 GHz up to 4.60 GHz)",8GB DDR4  , 512GB SSD,15.6,95900
+200,"Acer Aspire 5 A515-58GM-74CC core i7 13th Gen RTX 2050 4GB 15.6"" FHD Gaming Laptop"," Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",16GB DDR4 , 512GB SSD,,96500
+201,"Acer Aspire 5 AN515-57G-52HF Core i5 12th Gen RTX 2050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i7-1255U (12M Cache, 3.50 GHz, up to 4.70 GHz)",8GB , 256GB SSD,,96900
+202,"ASUS VivoBook Flip 14 TM420UA-EC046 Ryzen 7 5700U 14"" FHD Touch Laptop","Intel Core i5-1335U (12M Cache, 3.40 GHz, up to 4.60 GHz)",8GB , 256GB SSD,13.3,97000
+203,"Walton Tamarind MX711G Core i7 11th Gen 14"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,14.0,97500
+204,"MSI GF63 THIN 11SC Core i7 11th Gen GTX 1650 Max Q 4GB Graphics 15.6"" FHD 144hz Gaming Laptop","Intel Core i7-1355U (12M Cache, 3.70 GHz, up to 5.00 GHz)",8GB RAM , 512GB SSD,14.0,97000
+205,Asus ExpertBook B3 Flip B3402FEA Core i5 14-inch 250 Nits 360° FHD Touch Laptop,"Intel Core i7-1355U (12M Cache, 3.70 GHz, up to 5.00 GHz)",Memory: 16GB DDR4 3200MHz RAM , 256GB SSD + 1TB HDD,14.0,98000
+206,"Acer TravelMate TMP214-54 Core i7 12th Gen 14"" FHD Laptop","Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)",8GB DDR4 (ONBOARD) , 512GB M.2 SSD,15.6,98000
+207,"Acer Aspire 5M-A515-58GM Core i5 13th Gen RTX 2050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i5-1335U (12M Cache, 3.30 GHz, up to 4.40 GHz)",8GB DDR5 , 512GB SSD ,,99500
+208,"Asus Vivobook S15 S513EQ Core i5 11th Gen 15.6"" OLED FHD Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",8 GB DDR4 3200MHz , 512GB PCIe SSD,13.3,102500
+209,"MSI Modern 14 C13M Core i7 13th Gen 14"" FHD Laptop","Intel Core i7-1255U (12M Cache, 3.30 GHz, up to 4.70 GHz)",8 GB DDR4 3200MHz , 512GB PCIe SSD,14.0,104500
+210,"MSI Modern 15 B13M Core i7 13th Gen 15.6"" FHD Laptop","Ryzen 5 5600H (L2 3MB & L3 16MB Cache, 3.3GHz Up to 4.2GHz)",8GB DDR4 (ONBOARD) , 512GB M.2 SSD,14.0,105500
+211,"MSI Commercial 14 H A13MG Core i5 13th Gen 14"" FHD+ Laptop","Intel Core i7-11800H (24M Cache, 2.30 GHz up to 4.60 GHz)",16GB , 512GB SSD,16.0,106000
+212,"ASUS VivoBook 15X K3504VA Core i5 13th Gen 15.6"" FHD Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",8GB DDR4 , 512GB SSD,16.0,106500
+213,"MSI Cyborg 15 A12UCX Core i5 12th Gen RTX 2050 4GB Graphics 8GB RAM 15.6"" FHD Gaming Laptop","Intel Core i5-1240P Processor (12M Cache, up to 4.40 GHz)",8GB DDR4 3200MHz  , 512GB SSD,,107000
+214,"ASUS VivoBook 15X K3504ZA Core i7 12th Gen 15.6"" FHD WV Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",16GB DDR4 , 512GB SSD,16.0,107500
+215,"ASUS Vivobook 16X OLED M1603QA Ryzen 5 5600H 16"" 4K Laptop","Intel Core i7-11370H Processor (12M Cache, 3.30 GHz up to 4.80 GHz)",16GB , 512GB SSD,,108000
+216,"ASUS TUF Gaming F15 FX506HF Core i7 11th Gen RTX 2050 4GB Graphics 15.6"" FHD Gaming Laptop",Intel Core i7-1355U(1.7 GHz Up to 5.0 GHz),16GB , 512GB SSD,16.0,108900
+217,"Asus ZenBook 14 UX425EA Intel Core i5 1135G7 11th Gen 14"" FHD WV Laptop","Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)",8GB DDR4 , 512GB SSD,14.0,109000
+218,"Acer Aspire 7 A715-51G Core i5 12th Gen RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop",Apple M1 chip with 8-core CPU and 7-core GPU,8GB DDR4 , 512GB SSD,,111500
+219,"Asus VivoBook 15 X513EP Core i7 11th Gen MX330 2GB Graphics 15.6"" FHD Laptop With Windows 11",Apple M1 chip with 8-core CPU and 7-core GPU,8GB DDR4 3200MHz , 512GB SSD,13.6,112000
+220,"ASUS VivoBook Pro 15 K3500PA Core i7 11th Gen 15.6"" FHD Laptop","Intel Core i5-12500H (18M Cache, up to 4.50 GHz)",8GB DDR5 , 512GB SSD,16.0,113500
+221,"ASUS Vivobook 15 X1504VA-NJ263W Core i7 13th Gen 15.6"" FHD Laptop","Intel Core i7-1255U (12M Cache, up to 4.70 GHz)",8GB DDR4 3200MHz  , 512GB SSD,14.0,113500
+222,"MSI Cyborg 15 A13UC Core i5 13th Gen RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i7-11370H (12M Cache, 3.30 GHz up to 4.80 GHz, with IPU)",8GB DDR5 4800MHz , 512GB SSD,13.6,113500
+223,"Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN63) Space Gray","Intel Core i7-11370H (12M Cache, 3.30 GHz up to 4.80 GHz, with IPU)",16GB DDR4 3200MHz  , 512GB SSD,14.0,112000
+224,"Apple MacBook Air 13.3-Inch Retina Display 8-core Apple M1 chip with 8GB RAM, 256GB SSD (MGN93) Silver","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz)",16GB DDR4 , 512GB SSD,14.0,112000
+225,"Lenovo Yoga 6 13ABR8 Ryzen 5 7530U 13.3"" FHD Touch Laptop ","Intel Core i5-1235U (12M Cache, 3.3 GHz up to 4.4 GHz)",16GB DDR5 , 512GB SSD,14.0,115000
+226,"ASUS TUF Gaming F15 FX507ZC4 Core i5 12th Gen RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop","AMD Ryzen 5 7535HS (3.3GHz up to 4.55GHz, 6 cores)",16GB DDR4 , 512GB SSD,13.6,115900
+227,"HP ProBook 440 G9 Core i7 12th Gen 14"" FHD Laptop","Intel Core i7-1355U (up to 5.0GHz, 12 MB L3 cache)",8GB RAM , 512GB SSD,14.0,117500
+228,"Lenovo IdeaPad Gaming 3i Core i7 11th Gen GTX 1650 4GB Graphics 15.6"" FHD Laptop","Intel Core i7-1355U (up to 5.0GHz, 12 MB L3 cache)",8GB DDR5 4800MHz , 512GB SSD,,118000
+229,"Lenovo IdeaPad Gaming 3i Core i7 11th Gen GTX 1650 4GB Graphics 15.6"" FHD Laptop With 3 Years Warranty","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz)",16GB DDR4 3200MHz , 512GB NVMe SSD,15.3,118000
+230,"Asus VivoBook 15 S513EQ Core i7 11th Gen MX350 2GB Graphics 15.6"" FHD OLED Laptop","Intel Core i5-11300H (8M Cache, 3.10 GHz up to 4.40 GHz)",16GB DDR4 , 512GB SSD,,118000
+231,"Lenovo IdeaPad Flex 5 14IAU7 Core i5 12th Gen 14"" WUXGA Touch Laptop","AMD Ryzen 5 4600H (8MB Cache, 3.0GHz up to 4.0GHz)",16GB DDR4 3200MHz  , 512GB SSD,14.0,118000
+232,"Lenovo IdeaPad Gaming 3 15ARH7 Ryzen 5 7535HS RTX 2050 4GB Graphics 15.6"" FHD Laptop","Intel Core i5-12500H Processor (18M Cache, up to 4.50 GHz)",8GB DDR4 3200MHz  , 512GB SSD,,118000
+233,"HP ProBook 440 G10 Core i7 13th Gen 14"" FHD Laptop","Intel Core i5-1335U (12MB Cache, up to 4.6 GHz)",8GB DDR5 4800MHz , 512GB SSD,14.5,118500
+234,"HP ProBook 450 G10 Core i7 13th Gen 15.6"" FHD Laptop",AMD Ryzen 7 7730U ,16GB DDR4 , 512GB SSD,13.3,118500
+235,"Asus VivoBook 15 S513EQ Core i7 11th Gen MX350 2GB Graphics 15.6"" FHD Laptop","AMD Ryzen 7 5825U (2.0GHz Up to 4.5GHz, Core 8, Threads 16)",8GB , 256GB SSD,13.6,119000
+236,"Lenovo IdeaPad Slim 5i Pro Core i5 11th Gen MX450 2GB Graphics 16"" Laptop With 3 Years Warranty","AMD Ryzen 5 5625U (16MB L3 Cache, 2.3GHz, up to 4.3GHz)",16GB DDR5 , 512GB SSD,13.6,121000
+237,"Asus TUF Gaming A17 FA706ICB Ryzen 5 4600H RTX 3050 4GB Graphics 17.3"" FHD Gaming Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB DDR5 , 512GB SSD,13.3,121000
+238,GIGABYTE G5 MF Core i5 12th Gen RTX 4050 6GB Graphics 15.6'' FHD 144Hz Gaming Laptop,AMD Ryzen 5 7535HS,16GB DDR4 , 512GB SSD,15.3,124000
+239,"ASUS VivoBook S 14 Flip TP3402VA Core i5 13th Gen 14"" WUXGA Touch Laptop","Intel Core i7-11800H (24M Cache, 2.30 GHz up to 4.60 GHz)",8GB , 256GB SSD,15.3,124000
+240,"Lenovo Yoga 6 13ABR8 Ryzen 7 7730U 13.3"" FHD Touch Laptop",AMD Ryzen 7 7735HS ,16GB RAM , 512GB SSD,15.3,125000
+241,"Asus ZenBook 14 UM3402YA Ryzen 7 5825U 14"" WQXGA Laptop","Intel Core i7-12700H (24M Cache, 3.50 GHz up to 4.70 GHz)",16GB DDR5 , 512GB SSD,14.0,129000
+242,"Asus ZenBook 14 OLED UM3402YA Ryzen 5 5625U 14"" WQHD Laptop","AMD Ryzen 5 5600H (L2 3MB & L3 16MB Cache, 3.3GHz Up to 4.2GHz)",16GB , 512GB SSD,13.5,129500
+243,"MSI Cyborg 15 A12VE Core i5 12th Gen RTX 4050 6GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i5-11400H Processor (12M Cache, 2.70 GHz up to 4.50 GHz)",16GB (8x2) DDR5 , 1TB SSD,13.3,129500
+244,"Lenovo IdeaPad Pro 5 16ARP8 Ryzen 5 7535HS 16"" 2.5K Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB DDR5 4800MHz , 512GB SSD,,129500
+245,"ASUS TUF Gaming F15 FX506HF Core i7 11th Gen RTX 3050Ti 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i5-12500H Processor (18M Cache, up to 4.50 GHz)",16GB DDR5 , 512GB SSD ,,129900
+246,"Lenovo IdeaPad Pro 5 16ARP8 Ryzen 7 7735HS 16"" 2.5K Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB LPDDR5 , 512GB SSD,14.5,130000
+247,"ASUS TUF Gaming F15 FX507ZC4 Core i7 12th Gen RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",8GB , 256GB SSD,,131900
+248,"ASUS Vivobook Pro 15 M3500QC Ryzen 5 5600H RTX 3050 4GB Graphics 15.6"" FHD Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB DDR4 , 512GB SSD,14.2,132000
+249,"ASUS TUF Gaming F15 FX506HE Core i5 11th Gen RTX 3050 Ti 4GB Graphics 15.6"" FHD Gaming Laptop","Ryzen 7 5800H (8-core, 16-thread, 20MB cache, up to 4.4 GHz)",16GB DDR4 3200MHz , 512GB NVMe SSD,,133500
+250,"MSI Sword 15 A12UCX Core i5 12th Gen RTX 2050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i7-13700H (24M Cache, 3.70 GHz up to 5.0 GHz)",8GB , 256GB SSD,,134000
+251,GIGABYTE G5 KF Core i5 12th Gen RTX 4060 8GB Graphics 15.6'' FHD 144Hz Gaming Laptop,"AMD Ryzen 7 6800H (16M Cache, 3.2 GHz up to 4.7 GHz)",16GB DDR5  , 512GB SSD ,14.0,135000
+252,"Asus TUF Dash F15 FX517ZC Core i5 12th Gen RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop","AMD Ryzen 7 7730U (8-core/16-thread, 16MB cache, up to 4.5 GHz)",8GB DDR5 4800MHz  , 512GB SSD,,139000
+253,"MSI Katana 15 B12UDXK Core i5 12th Gen RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i5-1135G7 (8M Cache, 2.40 GHz up to 4.20 GHz)",16GB DDR4 3200MHz  , 512GB SSD,16.2,139000
+254,"Thunderobot 911MT Core i5 12th Gen RTX 3060 6GB Graphics 15.6"" FHD 144Hz Gaming Laptop","AMD Ryzen 7 6800H (16M Cache, 3.2 GHz up to 4.7 GHz)",16GB LPDDR4X , 512GB SSD,14.2,139000
+255,"ASUS Vivobook Pro 15 M3500QC Ryzen 7 5800H RTX 3050 4GB Graphics 15.6"" FHD Laptop","Intel Core i5-12450H (12M Cache, 3.30 GHz up to 4.40 GHz)",16GB DDR4 , 512GB M.2 NVMe PCIe 3.0 SSD,14.2,139500
+256,"Lenovo IdeaPad Slim 5 16IRL8 Core i7 13th Gen 16"" WUXGA Laptop","AMD Ryzen 7 5800H (8-core, 16-thread, 20MB cache, up to 4.4 GHz)",16GB DDR4 3200MHz , 512GB SSD,14.2,140000
+257,"ASUS TUF Gaming A15 FA507RE Ryzen 7 6800H RTX 3050 Ti 4GB Graphics 15.6"" FHD Gaming Laptop","Intel Core i5-13500H (18M Cache, 3.40 GHz, up to 4.70 GHz)",16GB LPDDR5 on board , 512GB SSD,14.2,142900
+258,"ASUS Vivobook S 16 Flip OLED TN3604YA Ryzen 7 7730U 16"" 3.2K Touch Laptop","Intel Core i5-12500H Processor (18M Cache, up to 4.50 GHz)",16GB DDR5 , 1TB SSD,14.2,142900
+259,"Lenovo ThinkPad P14s Gen 2 Core i5 11th Gen 14"" FHD Business Laptop","Intel Core i5-12500H (18M Cache, up to 4.50 GHz)",8GB DDR5 4800MHz  , 512GB SSD,16.2,143000
+260,"ASUS TUF Gaming A15 FA507RC Ryzen 7 6800H RTX 3050 4GB Graphics 15.6"" FHD Gaming Laptop",Intel Core i5-12500H (Up to 4.40 GHz),16GB DDR5 , 512GB SSD,16.2,144000
+261,"Lenovo IdeaPad Gaming 3i Core i5 12th Gen RTX 3050 4GB Graphics 16"" 2K WUXGA Laptop","Intel Core i5-13420H (12M Cache, 3.4 GHz up to 4.6 GHz)",16GB DDR4  , 512GB SSD,16.2,144000
+262,"ASUS Vivobook Pro 15 OLED M3500QC Ryzen 7 5800H RTX 3050 4GB Graphics 15.6"" FHD Laptop with Windows 11","Apple M2 chip, 8-core CPU with 4 performance cores and 4 efficiency cores",8GB , 512GB SSD,16.2,144500
+263,"Thunderobot 911X Core i5 13th Gen RTX 4050 6GB Graphics 15.6"" FHD 165Hz Gaming Laptop","AMD Ryzen 7 6800H (16M Cache, 3.2 GHz up to 4.7 GHz)",8GB , 512GB SSD,16.2,144900
+264,"GIGABYTE G5 KE Core i5 12th Gen RTX 3060 6GB Graphics 15.6"" FHD 144Hz Gaming Laptop","Intel Core i7-1255U (12M Cache, 3.5 GHz up to 4.7 GHz)",16GB DDR5 4800MHz  , 512GB SSD,14.2,146000
+265,"GIGABYTE AORUS 15 9MF Core i5 12th Gen RTX 4050 6GB Graphics 15.6"" FHD 360Hz Gaming Laptop","AMD Ryzen 7 6800H (16M Cache, 3.2 GHz up to 4.7 GHz)",16GB DDR4-3200 , 1TB SSD,14.2,146000
+266,"ASUS VivoBook 16X K3605ZF-MX041W Core i5 12th Gen 16"" OLED Laptop","AMD Ryzen 9 5900HX (16MB L3 Cache, 3.3GHz up to 4.6GHz)",16GB RAM , 512GB SSD,16.2,148000
+267,"Lenovo LOQ 15IRH8 Core i5 13th Gen RTX 3050 6GB Graphics 15.6"" FHD Gaming Laptop","Apple M2 chip, 8-core CPU with 4 performance cores and 4 efficiency cores",16GB DDR5 4800MHz , 512GB SSD,16.2,148000
+268,Apple MacBook Air (2022) Apple M2 Chip 13.6-Inch Liquid Retina Display 8GB RAM 256GB SSD Midnight #MLY33LL/A / MLY33ZP/A,"Intel Core i7-1255U (12M Cache, up to 4.70 GHz)",16GB LPDDR5 , 1TB SSD,16.2,149000
+269,"ASUS Vivobook S 16X OLED M5602RA Ryzen 7 6800H 16"" OLED Laptop",Intel Core i5 13500HX 13th Gen,8GB , 512GB SSD,16.2,149000
+270,"Lenovo IdeaPad Flex 5 14IAU7 Core i7 12th Gen 14"" WUXGA Touch Laptop","Intel Core i7-1165G7 (12M Cache, 2.80 GHz up to 4.70 GHz, with IPU)",8GB , 512GB SSD,16.2,150000
+271,"ASUS TUF Gaming A15 FA507RE Ryzen 7 6800H RTX 3050 Ti 4GB Graphics 15.6"" FHD Jaeger Gray Gaming Laptop","Intel Core i7-13620H (24M Cache, 2.4 GHz up to 4.90 GHz)",8GB , 512GB SSD,15.3,143000
+272,Lenovo IdeaPad D330 10IGL Intel CDC N4020 4GB RAM 128GB eMMC 10.1 Inch HD IPS Touch Display Mineral Grey Laptop,Intel Celeron,4GB,128GB eMMC,10.1,34500
+273,HP 15s-eq1578AU AMD Athlon Silver 3050U 8GB  256GB SSD 15.6 Inch FHD Display Silver Laptop,AMD Athlon,8GB,256GB SSD,15.6,46500
+274,"Acer Aspire 3 A315-510P-38RH (13th Gen Standard) Intel Core i3 N305 8GB RAM, 512GB SSD 15.6 Inch FHD Display Pure Silver Laptop",Core i3,8GB,512GB SSD,15.6,49800
+275,Lenovo IdeaPad 1 15ADA7 AMD Ryzen 3 3250U 8GB RAM 512GB SSD 15.6 Inch FHD Display Cloud Grey Laptop,Ryzen 3,8GB,512GB SSD,15.6,49900
+276,Lenovo IdeaPad Slim 3i 15ITL 11th Gen Intel Core i3 1115G4 4GB RAM 256GB SSD 15.6 Inch FHD Display Arctic Grey Laptop,Core i3,4GB,256GB SSD,15.6,51400
+277,Acer Aspire 3 A315-24P AMD Ryzen 3 7320U 8GB RAM 512GB SSD 15.6 Inch FHD Display Pure Silver Laptop#UN.KDESI.027,Ryzen 3,8GB,512GB SSD,15.6,53000
+278,Lenovo IdeaPad 1 15AMN7 AMD Ryzen 3 7320U 8GB RAM 512GB SSD 15.6 Inch FHD Display Sand Laptop,Ryzen 3,8GB,512GB SSD,15.6,53400
+279,HP 15s-fq5486TU Intel Core i3 1215U 4GB RAM 256GB SSD 15.6 Inch FHD Display Black Laptop,Core i3,4GB,256GB SSD,15.6,56500
+280,Acer Aspire 3 A315-59-390P Intel Core i3 1215U 8GB RAM 512GB SSD 15.6 Inch FHD Display Pure Silver Laptop,Core i3,8GB,512GB SSD,15.6,57000
+281,"Acer Aspire 3 A315-59-332B Intel Core i3 1215U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Pure Silver Laptop #NX.K6TSI.00H/UN.K6TSI.024",Core i3,8GB,512GB SSD,15.6,57500
+282,Huawei MateBook D 15 Intel Core i3 1115G4 8GB RAM 256GB SSD 15.6 Inch FHD Display Silver Laptop,Core i3,8GB,256GB SSD,15.6,60500
+283,Dell Inspiron 15 3520 Intel Core i3 1215U 8GB RAM 512GB SSD 15.6 Inch FHD Display Platinum Silver Laptop,Core i3,8GB,512GB SSD,15.6,60500
+284,Acer Aspire Lite AL15-41 AMD Ryzen 5 5500U 8GB RAM 512GB SSD 15.6 Inch FHD Display Titanium Gray Laptop,Ryzen 5,8GB,512GB SSD,15.6,61000
+285,Acer Aspire 5 5P-A515-58P Intel Core i3 1305U 8GB RAM 512GB SSD 15.6 Inch FHD Display Steel Gray Laptop,Core i3,8GB,512GB SSD,15.6,61500
+286,Acer Aspire Lite AL15-51 Intel Core i5 1155G7 8GB RAM 512GB SSD 15.6 Inch FHD Display Titanium Gray Laptop,Core i5,8GB,512GB SSD,15.6,61500
+287,Asus VivoBook 15 X1500EA Intel Core i3 1115G4 8GB RAM 1TB HDD 15.6 Inch FHD WV Display Indie Black Laptop,Core i3,8GB,1TB HDD,15.6,62800
+288,HP 15s-fq5786TU Intel Core i3 1215U 8GB RAM 512GB SSD 15.6 Inch FHD Display Silver Laptop,Core i3,8GB,512GB SSD,15.6,63500
+289,Asus VivoBook 15 X1502ZA Intel Core i3 1215U 4GB RAM 256GB SSD 15.6 Inch FHD Display Terra Cotta Laptop,Core i3,4GB,256GB SSD,15.6,63900
+290,Asus X515EA Intel Core i5 1135G7 4GB RAM 1TB HDD 15.6 Inch FHD Display Peacock Blue Laptop,Core i5,4GB,1TB HDD,15.6,68500
+291,Asus X515EA Intel Core i5 1135G7 4GB RAM 1TB HDD 15.6 Inch FHD Display Slate Grey Laptop #EJ2460W-X515EA,Core i5,4GB,1TB HDD,15.6,68500
+292,Acer Aspire 3 A315-59-5031 Intel Core i5 1235U 8GB RAM 512GB SSD 15.6 Inch FHD Display Pure Silver Laptop,Core i5,8GB,512GB SSD,15.6,71500
+293,Dell Latitude 15-3520 Intel Core i5 1135G7 8GB RAM 256GB SSD 15.6 Inch HD Display Black Laptop,Core i5,8GB,256GB SSD,15.6,73500
+294,Huawei MateBook D 15 Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD Display Silver Laptop,Core i5,8GB,512GB SSD,15.6,76000
+295,Huawei MateBook B3-520 Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD Display Space Gray Laptop,Core i5,8GB,512GB SSD,15.6,76000
+296,"Acer Swift Go 14 SFG14-41-R5RB AMD Ryzen 5 7530U 8GB RAM, 512GB SSD 14 Inch FHD Display Pure Silver Laptop",Ryzen 5,8GB,512GB SSD,14.0,77000
+297,Acer TravelMate P214-53-72WA Intel Core i7 1165G7 8GB RAM 512GB SSD 14 Inch FHD Display Shale Black Laptop,Core i7,8GB,512GB SSD,14.0,82500
+298,Lenovo IdeaPad Slim 3 15ABR8 AMD Ryzen 7 7730U 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare IPS Display Arctic Grey Laptop,Ryzen 7,8GB,512GB SSD,15.6,83000
+299,Lenovo IdeaPad Slim 3i 15ITL6 Intel Core i7 1165G7 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare Display Arctic Grey Laptop #82H803EUIN-2Y,Core i7,8GB,512GB SSD,15.6,88000
+300,Dell Inspiron 15 3525 AMD Ryzen 7 5825U 8GB RAM 512GB SSD 15.6 Inch FHD Display Platinum Silver Laptop,Ryzen 7,8GB,512GB SSD,15.6,88500
+301,MSI Modern 15 A11MU Intel Core i7 1195G7 8GB RAM 512GB SSD 15.6 Inch FHD Display Carbon Gray Laptop,Core i7,8GB,512GB SSD,15.6,89500
+302,MSI Modern 14 C11M Intel Core i7 1195G7 8GB RAM 512GB SSD 14 Inch FHD Display Classic Black Laptop,Core i7,8GB,512GB SSD,14.0,95000
+303,Lenovo IdeaPad Slim 3i 15ITL6 Intel Core i7 1165G7 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare LED Display Abyss Blue Laptop,Core i7,8GB,512GB SSD,15.6,95500
+304,"Acer Aspire 5 5M-A515-58GM Intel Core i5 1335U 16GB RAM, 512GB SSD 15.6 Inch FHD IPS Display Steel Gray Gaming Laptop",Core i5,16GB,512GB SSD,15.6,99500
+305,"Acer Swift Go 14 SFG14-71-557P Intel Core i5 13500H 16GB RAM, 512GB SSD 14 Inch 2.8K OLED WQHD Display Sunshiny Gold Laptop",Core i5,16GB,512GB SSD,14.0,119000
+306,Gigabyte Gaming G5 KE Intel Core i5 12500H 8GB RAM 512GB SSD 15.6 Inch FHD Display Matte Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,146000
+307,Lenovo IdeaPad Gaming 3i 15IHU Intel Core i7 11370H 16GB RAM 1TB HDD + 256GB SSD 15.6 Inch FHD Display Shadow Black Gaming Laptop #82K100WFIN-3Y,Core i7,16GB,1TB HDD+256GB SSD,15.6,118000
+308,Chuwi HeroBook Pro Intel CDC N4020 8GB RAM 256GB SSD 14.1 Inch FHD Display Grey Laptop,Intel Celeron,8GB,256GB SSD,14.0,28800
+309,Chuwi GemiBook XPro Intel Core N100 8GB RAM 256GB SSD 14.1 Inch FHD Display Grey Laptop,Intel Celeron,8GB,256GB SSD,14.0,34900
+310,Lenovo IdeaPad Slim 3i 15IGL Intel CDC N4020 4GB RAM 1TB HDD 15.6 Inch HD Display Platinum Grey Laptop,Core N100,4GB,1TB HDD,15.6,35000
+311,Chuwi GemiBook Plus Intel Core N100 8GB RAM 256GB SSD 15.6 Inch FHD Display Grey Laptop,Intel Celeron,8GB,256GB SSD,15.6,35900
+312,Lenovo IdeaPad Slim 3i 15IGL Intel CDC N4020 4GB RAM 1TB HDD 15.6 Inch HD Antiglare Display Platinum Grey Laptop,Intel Celeron,4GB,1TB HDD,15.6,36000
+313,Asus 15 P1511CMA Intel CDC N4020 4GB RAM 1TB HDD 15.6 Inch HD Display Slate Grey Laptop (Carry bag not included),Intel Celeron,4GB,1TB HDD,15.6,37500
+314,HP 250 G8 Intel CDC N4020 4GB RAM 1TB HDD 15.6 Inch FHD Display Dark Ash Silver Laptop,Intel Celeron,4GB,1TB HDD,15.6,38500
+315,Asus X415KA Intel CDC N4500 4GB RAM 1TB HDD 14 Inch FHD Display Slate Grey Laptop,Intel Celeron,4GB,1TB HDD,14.0,39500
+316,Asus X515MA Intel CDC N4020 4GB RAM 1TB HDD 15.6 Inch FHD Display Transparent Silver Laptop #BQ675W-X515MA,Intel Celeron,4GB,1TB HDD,15.6,40500
+317,Asus X515KA Intel CDC N4500 4GB RAM 1TB HDD 15.6 Inch FHD Display Transparent Silver Laptop,Intel Celeron,4GB,1TB HDD,15.6,40500
+318,Asus X515KA Intel CDC N4500 4GB RAM 1TB HDD 15.6 Inch FHD Display Slate Grey Laptop,Intel Celeron,4GB,1TB HDD,15.6,40500
+319,Asus X515MA Intel CDC N4020 4GB RAM 1TB HDD 15.6 Inch FHD Display Slate Grey Laptop,Intel Celeron,4GB,1TB HDD,15.6,43500
+320,Asus VivoBook 14 E410MA Intel CDC N4020 4GB RAM 256GB SSD 14 Inch HD Display Blue Laptop,Core i3,4GB,256GB SSD,14.0,44000
+321,Acer Extensa 15 EX215-54-34SE Intel Core i3 1115G4 4GB RAM 1TB HDD 15.6 Inch FHD Display Charcoal Black Laptop,Ryzen 3,4GB,1TB HDD,15.6,46500
+322,Asus D415DA AMD Ryzen 3 3250U 4GB RAM 1TB HDD 14 Inch HD Display Slate Grey Laptop,Ryzen 3,4GB,1TB HDD,14.0,46500
+323,Asus M515DA AMD Ryzen 3 3250U 4GB RAM 1TB HDD 15.6 Inch HD Display Slate Grey Laptop,Intel Celeron,4GB,1TB HDD,15.6,46500
+324,Asus E510MA Intel CDC N4020 4GB RAM 512GB SSD 15.6 Inch FHD Display Star Black Laptop #EJ601W-E510MA,Ryzen 3,4GB,512GB SSD,15.6,47000
+325,"Asus D415DA AMD Ryzen 3 3250U 8GB RAM 1TB HDD 14 Inch HD Display, Slate Grey Laptop",Ryzen 3,8GB,1TB HDD,14.0,47900
+326,Chuwi MiniBook X 2 in 1 Intel Core N100 12GB RAM 512GB SSD 10.5 Inch FHD+ WUXGA Touch Display Grey Laptop,Ryzen 3,12GB,512GB SSD,10.5,47900
+327,Asus D515DA AMD Ryzen 3 3250U 4GB RAM 512GB SSD 15.6 Inch FHD Display Slate Grey Laptop #EJ1325W-D515DA,Core i5,4GB,512GB SSD,15.6,48900
+328,Asus D515DA AMD Ryzen 3 3250U 4GB RAM 512GB SSD 15.6 Inch FHD Display Slate Grey Laptop #D515DA-EJ1576W,Core i3,4GB,512GB SSD,15.6,48900
+329,Chuwi UBook X 2 in 1 Intel Core i5 10210Y 8GB RAM 256GB SSD 12 Inch 2K Touch Display Grey Laptop,Ryzen 3,8GB,256GB SSD,12.0,49900
+330,Lenovo IdeaPad Slim 3i 15ITL6 Core i3 1115G4 4GB RAM 1TB HDD 15.6 Inch FHD Display Arctic Grey Laptop,Core i3,4GB,1TB HDD,15.6,52900
+331,Lenovo IdeaPad 1 15AMN7 AMD Ryzen 3 7320U 8GB RAM 512GB SSD 15.6 Inch FHD Display Cloud Grey Laptop,Core i3,8GB,512GB SSD,15.6,53400
+332,Acer Aspire 3 A315-510P (13th Gen Standard) Intel Core i3 N305 8GB RAM 512GB SSD 15.6 Inch FHD Display Pure Silver Laptop,Core i3,8GB,512GB SSD,15.6,54000
+333,HP 15s-du3611TU Intel Core i3 1125G4 4GB RAM 1TB HDD 15.6 Inch FHD Display Jet Black Laptop,Ryzen 3,4GB,1TB HDD,15.6,55500
+334,MSI Modern 14 C11M Intel Core i3 1115G4 8GB RAM 512GB SSD 14 Inch FHD Display Classic Black Laptop#9S7-14J312-242,Core i3,8GB,512GB SSD,14.0,56000
+335,"Dell Inspiron 15 3535 AMD Ryzen 3 7320U 8GB RAM, 256GB SSD 15.6 Inch FHD Display Carbon Black Laptop",Core i3,8GB,256GB SSD,15.6,56000
+336,HP 250 G8 Intel Core i3 1115G4 4GB RAM 1TB HDD 15.6 Inch FHD Display Ash Silver Laptop,Core i3,4GB,1TB HDD,15.6,56500
+337,"Lenovo IdeaPad Slim 3i 14IAU7 Intel Core i3 1215U 8GB RAM, 256GB SSD 14 Inch FHD Display Misty Blue Laptop",Core i3,8GB,256GB SSD,14.0,56500
+338,Lenovo IdeaPad Slim 3i 14ITL Intel Core i3 1115G4 8GB RAM 256GB SSD 14 Inch FHD Display Arctic Grey Laptop,Core i3,8GB,256GB SSD,14.0,56900
+339,Asus ExpertBook P2451FA Intel Core i3 10110U 4GB RAM 1TB HDD 14 Inch FHD Display Star Black Laptop,Core i3,4GB,1TB HDD,14.0,57000
+340,HP 240 G8 Intel Core i3 1115G4 8GB RAM 1TB HDD 14 Inch FHD Display Ash Laptop,Core i3,8GB,1TB HDD,14.0,57500
+341,HP 250 G8 Intel Core i3 1115G4 8GB RAM 1TB HDD 15.6 Inch FHD Display Silver Laptop,Core i3,8GB,1TB HDD,15.6,57500
+342,Lenovo IdeaPad Slim 3i 15ITL6 Intel Core i3 1115G4 8GB RAM 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop,Ryzen 3,8GB,512GB SSD,15.6,57500
+343,Lenovo IdeaPad Slim 3i 14ITL6 Intel Core i3 1115G4 8GB RAM 512GB SSD 14 Inch FHD Display Arctic Grey Laptop,Ryzen 5,8GB,512GB SSD,14.0,57500
+344,HP 255 G8 AMD Ryzen 3 5300U 8GB RAM 1TB HDD 15.6 Inch FHD Display Dark Ash Silver Laptop,Core i5,8GB,1TB HDD,15.6,57500
+345,Acer Aspire 3 A315-24P AMD Ryzen 5 7520U 8GB RAM 15.6 Inch FHD Display Pure Silver Laptop,Core i5,8GB,512GB SSD,15.6,58000
+346,"Infinix INBOOK Y2 Plus Intel Core i5 1155G7 8GB RAM, 512GB SSD 15.6 Inch FHD Display Silver Laptop",Core i3,8GB,512GB SSD,15.6,58990
+347,"Infinix INBOOK Y2 Plus Intel Core i5 1155G7 8GB RAM, 512GB SSD 15.6 Inch FHD Display Grey Laptop",Core i3,8GB,512GB SSD,15.6,58990
+348,Lenovo V15 Gen 3 Intel Core i3 1215U 8GB RAM 512GB SSD 15.6 Inch FHD Display Iron Grey Laptop,Core i3,8GB,512GB SSD,15.6,59500
+349,"Lenovo IdeaPad Slim 3i 14IAU7 Intel Core i3 1215U 8GB RAM, 512GB SSD 14 Inch FHD Display Arctic Grey Laptop",Core i3,8GB,512GB SSD,14.0,59500
+350,"Lenovo IdeaPad Slim 3i 15IAU7 Intel Core i3 1215U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Abyss Blue Laptop",Core i3,8GB,512GB SSD,15.6,59500
+351,Dell Inspiron 15 3520 Intel Core i3 1215U 8GB RAM 512GB SSD 15.6 Inch FHD Display Carbon Black Laptop,Core i3,8GB,512GB SSD,15.6,60500
+352,Lenovo IdeaPad Slim 3i 14ITL6 Intel Core i3 1115G4 8GB RAM 512GB SSD 14 Inch FHD Antiglare Display Arctic Grey Laptop,Core i3,8GB,512GB SSD,14.0,61000
+353,Chuwi CoreBook XPro Intel Core i3 1215U 16GB RAM 512GB SSD 15.6 Inch FHD Display Grey Laptop,Core i3,16GB,512GB SSD,15.6,61000
+354,"Asus VivoBook 15 X1500EA Intel Core i3 1115G4 8GB RAM, 1TB HDD + 256GB SSD 15.6 Inch FHD Display Indie Black Laptop",Core i5,8GB,1TB HDD+256GB SSD,15.6,61800
+355,Asus VivoBook 15 K513EA Intel Core i3 1115G4 4GB RAM 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop,Ryzen 3,4GB,512GB SSD,15.6,61900
+356,Infinix INBOOK X2 Intel Core i5 1155G7 8GB RAM 512GB SSD14 Inch FHD Display Grey Laptop,Core i5,8GB,512GB SSD,14.0,61990
+357,"Asus VivoBook Go 15 E1504FA AMD Ryzen 3 7320U 8GB RAM, 512GB SSD 15.6 Inch FHD LED Display Mixed Black Laptop",Core i5,8GB,512GB SSD,15.6,62000
+358,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Soft Lavender Laptop",Core i5,8GB,512GB SSD,14.0,62000
+359,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Infinite Black Laptop",Core i5,8GB,512GB SSD,14.0,62000
+360,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Star Silver Laptop",Core i5,8GB,512GB SSD,14.0,62000
+361,"Avita LIBER V14 Intel Core i5 1135G7  8GBRAM, 512GB SSD 14 Inch FHD Display Anchor Grey Laptop",Core i5,8GB,512GB SSD,14.0,62000
+362,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Golden Matt Black Laptop",Core i5,8GB,512GB SSD,14.0,62000
+363,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Flowers on Yellow Laptop",Core i5,8GB,512GB SSD,14.0,62000
+364,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Paisley on Lilac Laptop",Core i5,8GB,512GB SSD,14.0,62000
+365,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Snowflakes on Azure Blue Laptop",Core i5,8GB,512GB SSD,14.0,62000
+366,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Snowflakes on Mountain Blue Laptop",Core i3,8GB,512GB SSD,14.0,62000
+367,"Avita LIBER V14 Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Iris on Ruby Laptop",Core i3,8GB,512GB SSD,14.0,62000
+368,"Acer TravelMate P214-54 Intel Core i3 1215U 8GB DDR4, 1TB HDD 14 Inch FHD IPS Display Black Laptop",Core i3,8GB,1TB HDD,14.0,62500
+369,Asus VivoBook 15 X1500EA Intel Core i3 1115G4 8GB RAM 512GB SSD 15.6 Inch FHD WV Display Indie Black Laptop,Core i3,8GB,512GB SSD,15.6,62800
+370,HP ProBook 450 G8 Intel Core i3 1115G4 8GB RAM 256GB SSD 15.6 Inch HD Display Pike Silver Laptop#1A890AV,Core i3,8GB,256GB SSD,15.6,63000
+371,MSI Modern 14 C12MO Intel Core i3 1215U 16GB RAM 512GB SSD14 Inch FHD Display Classic Black Laptop,Core i3,16GB,512GB SSD,14.0,63000
+372,MSI Modern 14 C12MO Intel Core i3 1215U 16GB RAM 512GB SSD 14 Inch FHD Display Urban Silver Laptop,Core i3,16GB,512GB SSD,14.0,63000
+373,"Asus VivoBook 15 X1502ZA Intel Core i3 1215U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop",Core i3,8GB,512GB SSD,15.6,63500
+374,"Asus VivoBook S15 S513EA Intel Core i3 1115G4 8GB RAM, 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop",Core i5,8GB,512GB SSD,15.6,63800
+375,Lenovo IdeaPad Slim 3i 15IAU7 Intel Core i3 1215U 8GB RAM 512GB SSD 15.6 Inch FHD Display Abyss Blue Laptop,Core i3,8GB,512GB SSD,15.6,64000
+376,Acer TravelMate P214-53 Intel Core i5 1135G7 8GB RAM 1TB HDD 14 Inch FHD Display Black Laptop,Core i3,8GB,1TB HDD,14.0,65500
+377,"Asus VivoBook 15 X1502ZA Intel Core i3 1215U 8GB RAM, 256GB SSD 15.6 Inch FHD Display Terra Cotta Laptop",Core i5,8GB,256GB SSD,15.6,66500
+378,"Lenovo IdeaPad Slim 3i 15IRU8 Intel Core i3 1305U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop",Core i5,8GB,512GB SSD,15.6,68000
+379,Asus X515EA Intel Core i5 1135G7 4GB RAM 1TB HDD 15.6 Inch FHD Display Slate Grey Laptop,Core i5,4GB,1TB HDD,15.6,68500
+380,HP 240 G8 Intel Core i5 1135G7 8GB RAM 1TB HDD 14 Inch FHD Display Ash Laptop,Core i3,8GB,1TB HDD,14.0,68500
+381,Asus X515EA Intel Core i5 1135G7 4GB RAM 1TB HDD 15.6 Inch FHD WV Display Peacock Blue Laptop,Core i3,4GB,1TB,15.6,68500
+382,Asus VivoBook S15 S513EA Intel Core i3 1115G4 4GB RAM 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop,Core i3,4GB,512GB SSD,15.6,69000
+383,Asus VivoBook 15 X1502ZA Intel Core i3 1220P 4GB RAM 512GB SSD 15.6 Inch FHD WV Display Quiet Blue Laptop,Core i3,4GB,512GB SSD,15.6,69800
+384,ASUS Vivobook 15 X1504VA Intel Core i3 1315U 8GB RAM 256GB SSD 15.6 Inch FHD Display Quiet Blue Laptop,Ryzen 5,8GB,256GB SSD,15.6,70500
+385,Lenovo IdeaPad Slim 3i 14IRU8 Intel Core i3 1305U 8GB RAM 512GB SSD 14 Inch FHD IPS Display Arctic Grey Laptop,Ryzen 5,8GB,512GB SSD,14.0,70500
+386,Lenovo IdeaPad Slim 3 15ABR8 AMD Ryzen 5 7530U 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare IPS Display Arctic Grey Laptop,Core i3,8GB,512GB SSD,15.6,71000
+387,Lenovo IdeaPad Slim 3 15ABR8 AMD Ryzen 5 7530U 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare IPS Display Abyss Blue Laptop,Core i3,8GB,512GB SSD,15.6,71000
+388,Asus VivoBook 14 X1402ZA Intel Core i3 1220P 8GB RAM 512GB SSD 14 Inch FHD Display Terra Cotta Laptop,Ryzen 5,8GB,512GB SSD,14.0,71500
+389,"Asus VivoBook 16 X1605ZA Intel Core i3 1215U 8GB RAM, 512GB SSD 16 Inch WUXGA Display Indie Black Laptop",Ryzen 5,8GB,512GB SSD,16.0,72000
+390,"MSI Modern 15 B7M AMD Ryzen 5 7530U 8GB RAM, 512GB SSD, 15.6 Inch FHD IPS Display Classic Black Laptop with MSI Backpack",Ryzen 5,8GB,512GB SSD,15.6,72500
+391,HP 15s-eq3619AU AMD Ryzen 5 5625U 8GB RAM 512GB SSD 15.6 Inch FHD Display Spruce Blue Laptop,Core i5,8GB,512GB SSD,15.6,73200
+392,Asus VivoBook 15 M1502IA AMD Ryzen 5 4600H 8GB RAM 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop,Ryzen 5,8GB,512GB SSD,15.6,74000
+393,Dell Latitude 15-3520 Intel Core i5 1135G7 8GB RAM 500GB SSD 15.6 Inch HD Display Black Laptop,Core i5,8GB,500GB SSD,15.6,74500
+394,"MSI Modern 15 B7M AMD Ryzen 5 7530U 16GB RAM, 512GB SSD, 15.6 Inch FHD IPS Display Classic Black Laptop with MSI Backpack",Core i5,16GB,512GB SSD,15.6,75000
+395,Lenovo IdeaPad Slim 3i 14IAU7 Core i5 1235U 8GB RAM 256GB SSD 14 Inch FHD Display Arctic Grey Laptop,Core i5,8GB,256GB SSD,14.0,75500
+396,Dell Latitude 15-3520 Intel Core i5 1145G7 8GB RAM 256GB SSD 15.6 Inch HD Display Black Laptop,Ryzen 7,8GB,256GB SSD,15.6,76800
+397,"HP 240 G8 11th Gen Intel Core i5 1135G7 8GB RAM, 512GB SSD 14 Inch FHD Display Ash Silver Laptop",Core i5,8GB,512GB SSD,14.0,77000
+398,Lenovo IdeaPad 3 15ALC6 Ryzen 7 5700U 16GB RAM 512GB SSD 15.6 Inch FHD IPS Display Arctic Grey Laptop,Core i5,16GB,512GB SSD,15.6,78000
+399,Dell Inspiron 15 3520 Intel Core i5 1235U 8GB RAM 512GB SSD 15.6 Inch FHD Display Platinum Silver Laptop#WARMLKN15ADL23051010PLASPP,Core i5,8GB,512GB SSD,15.6,78500
+400,Dell Inspiron 15 3520 Intel Core i5 1235U 8GB RAM 512GB SSD 15.6 Inch FHD Display Carbon Black Laptop,Core i5,8GB,512GB SSD,15.6,78500
+401,"Acer TravelMate P214-54 Intel Core i5 1235U 8GB RAM, 512GB SSD 14 Inch FHD IPS Display Black Laptop",Ryzen 5,8GB,512GB SSD,14.0,78500
+402,"Asus VivoBook 15 X1502ZA Intel Core i5 1235U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop",Core i7,8GB,512GB SSD,15.6,79500
+403,"Asus VivoBook 14 M1405YA AMD Ryzen 5 7530U 8GBRAM, 512GB SSD 14 Inch WUXGA Display Indie Black Laptop",Ryzen 5,8GB,512GB SSD,14.0,80000
+404,"Lenovo IdeaPad Slim 3i 15ITL6 Intel Core i7 1165G 8GB RAM, 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop (8GB RAM)",Core i5,8GB,512GB SSD,15.6,80500
+405,Asus VivoBook Go 15 E1504FA AMD Ryzen 5 7520U 16GB RAM 512GB SSD 15.6 Inch FHD Display Mixed Black Laptop,Ryzen 5,16GB,512GB SSD,15.6,81500
+406,Asus VivoBook 15 X1502ZA Intel Core i5 1235U 8GB RAM 512GB SSD 15.6 Inch FHD Display Terra Cotta Laptop,Core i5,8GB,512GB SSD,15.6,81500
+407,Acer Aspire 7 A715-42G-R2NE AMD Ryzen 5 5500U 8GB RAM 512GB SSD 15.6 Inch FHD Display Charcoal Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,82500
+408,"HP 15-fd0204TU Intel Core i5 1335U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Silver Laptop",Core i5,8GB,512GB SSD,15.6,82500
+409,HP 15-fd0205TU Intel Core i5 1335U 8GB RAM 512GB SSD 15.6 Inch FHD Display Moonlight Blue Laptop,Core i5,8GB,512GB SSD,15.6,82500
+410,"HP 15-fd0202TU Intel Core i5 1335U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Diamond White Laptop",Core i5,8GB,512GB SSD,15.6,82500
+411,"MSI Modern 14 C12MO Intel Core i5 1235U 16GB RAM, 512GB SSD 14 Inch FHD IPS Display Classic Black Laptop With Bag",Ryzen 7,16GB,512GB SSD,14.0,82900
+412,"MSI Modern 14 C12MO Intel Core i5 1235U 16GB RAM, 512GB SSD 14 Inch FHD IPS Display Urban Silver Laptop With Bag",Core i5,16GB,512GB SSD,14.0,82900
+413,Lenovo IdeaPad Slim 3 15ABR8 AMD Ryzen 7 7730U 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare IPS Display Abyss Blue Laptop,Core i5,8GB,512GB SSD,15.6,83000
+414,Lenovo IdeaPad Slim 3i 15IAU7 Intel Core i5 1235U 8GB RAM 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop,Core i5,8GB,512GB SSD,15.6,83000
+415,Asus ExpertBook B1 B1400CEAE Intel Core i5 1135G7 4GB RAM 1TB HDD 14 Inch FHD Display Star Black Laptop,Core i5,4GB,1TB HDD,14.0,83500
+416,"MSI Modern 15 B12MO Intel Core i5 1235U 16GB DRAM, 512GB SSD 15.6 Inch FHD IPS Display Classic Black Laptop",Core i5,16GB,512GB SSD,15.6,83900
+417,Dell Vostro 15 3510 Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD Display Black Laptop,Core i5,8GB,512GB SSD,15.6,84000
+418,Acer Extensa 14 EX214-53-543W Intel Core i5 1240P 8GB RAM 512GB SSD 14 Inch FHD Display Pure Silver Laptop,Core i5,8GB,512GB SSD,14.0,84000
+419,"HP 15-fd0208TU Intel Core i5 1335U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Silver Laptop",Core i5,8GB,512GB SSD,15.6,84000
+420,"HP 15-fd0210TU 13th Gen Intel Core i5 1335U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Diamond White Laptop",Ryzen 7,8GB,512GB SSD,15.6,84000
+421,Lenovo ThinkBook 15 G2 ITL Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD Display Mineral Grey Laptop,Core i5,8GB,512GB SSD,15.6,85000
+422,"MSI Modern 15 B7M AMD Ryzen 7 7730U 8GB RAM, 512GB SSD, 15.6 Inch FHD IPS Display Classic Black Laptop with MSI Backpack",Core i5,8GB,512GB SSD,15.6,85500
+423,"Lenovo IdeaPad Slim 3i 15IRH8 Intel Core i5 13420H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop",Core i5,8GB,512GB SSD,15.6,87000
+424,"Lenovo IdeaPad Slim 3i 15IRH8 Intel Core i5 13420H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Abyss Blue Laptop",Ryzen 7,8GB,512GB SSD,15.6,87000
+425,"Lenovo IdeaPad Slim 3i 14IRH8 Intel Core i5 13420H 8GB RAM, 512GB SSD 14 Inch FHD Display Arctic Grey Laptop",Core i7,8GB,512GB SSD,14.0,87000
+426,"MSI Modern 15 B7M AMD Ryzen 7 16GB RAM, 512GB SSD, 15.6 Inch FHD IPS Display Classic Black Laptop with MSI Backpack",Core i7,16GB,512GB SSD,15.6,87000
+427,Lenovo IdeaPad Slim 3i 14ITL6 Intel Core i7 1165G7 8GB RAM 512GB SSD 14 Inch FHD Antiglare LED Display Abyss Blue Laptop,Core i5,8GB,512GB SSD,14.0,88000
+428,Lenovo IdeaPad Slim 3i 15ITL6 Intel Core i7 1165G7 8GB RAM 512GB SSD 15.6 Inch FHD Antiglare Display Arctic Grey Laptop (8GB RAM),Intel Pentium,8GB,512GB SSD,15.6,88000
+429,Asus VivoBook S15 S513EA Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop,Ryzen 5,8GB,512GB SSD,15.6,89000
+430,Microsoft Surface Go 3 (Wi-Fi) Intel Pentium Gold 6500Y 8GB RAM 128GB SSD 10.5 Inch PixelSense MultiTouch Display Platinum Surface Go (Type Cover is sold separately),Core i5,8GB,128GB SSD,10.5,89000
+431,Asus VivoBook 15 M1505YA AMD Ryzen 5 7530U 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop,Ryzen 5,8GB,512GB SSD,15.6,89000
+432,ASUS Vivobook 15 X1504VA Intel Core i5 1335U 8GB RAM 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop,Core i7,8GB,512GB SSD,15.6,89500
+433,Asus VivoBook Flip 14 TM420UA AMD Ryzen 5 5500U 4GB RAM 512GB SSD 14 Inch FHD Touch Display Bespoke Black Laptop (Stylus Pen Included),Core i5,4GB,512GB SSD,14.0,89900
+434,MSI Modern 15 B12M Intel Core i7 1255U 16GB RAM 512GB SSD 15.6 Inch FHD Display Classic Black Laptop,Core i5,16GB,512GB SSD,15.6,89900
+435,"Acer Aspire 7 A715-76G Intel Core i5 12450H 8GB RAM 512GB SSD 15.6 Inch FHD Display, Charcoal Black Gaming Laptop",Core i5,8GB,512GB,15.6,89900
+436,MSI Modern 14 C13M Intel Core i5 1335U 16GB RAM 512GB SSD14 Inch FHD Display Classic Black Laptop #C13M-650BD-CB51335U16GXXDX11EMH / C13M-1009BD-CB51335U16GXXDX11EMH,Core i5,16GB,512GB SSD,14.0,90900
+437,Asus ExpertBook B1 B1400CBA Intel Core i5 1235U 8GB RAM 512GB SSD 14 Inch FHD Display Star Black Laptop #EB0159,Core i5,8GB,512GB SSD,14.0,91000
+438,"Asus VivoBook S15 S513EA Intel Core i5 1135G7 16GB RAM, 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop",Core i7,16GB,512GB SSD,15.6,91000
+439,MSI Modern 15 B13M Intel Core i5 1335U 16GB RAM 512GB SSD 15.6 Inch FHD Display Classic Black Laptop #B13M-478BD-CB51335U16GXXDX11EMH / B13M-811BD-CB51335U16GXXDX11EMH,Core i5,16GB,512GB SSD,15.6,91500
+440,MSI Modern 14 C12MO Intel Core i7 1255U 16GB RAM 512GB SSD 14 Inch FHD Display Classic Black Laptop,Core i5,16GB,512GB SSD,14.0,91500
+441,"Asus VivoBook 15X K3504ZA Intel Core i5 1235U 16GB RAM, 512GB SSD 15.6 Inch FHD WV Display Cool Silver Laptop #K3504ZA-BQ074W",Ryzen 5,16GB,512GB SSD,15.6,91500
+442,MSI Modern 15 B13M Intel Core i5 1335U 16GB RAM 512GB SSD 15.6 Inch FHD IPS Display Star Blue Laptop (Laptop Bag is given Separately),Core i5,16GB,512GB SSD,15.6,91900
+443,Asus ZenBook 14 UM425UA AMD Ryzen 5 5500U 8GB RAM 512GB SSD 14 Inch FHD WV Display Pine Grey Laptop,Core i7,8GB,512GB SSD,14.0,93500
+444,"HP ProBook 450 G10 Intel Core i5 1335U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Silver Laptop",Core i5,8GB,512GB SSD,15.6,93500
+445,HP 250 G8 Intel Core i7 1165G7 8GB RAM 1TB HDD + 256GB SSD 15.6 Inch FHD Display Dark Ash Silver Laptop,Core i5,8GB,1TB HDD+256GB SSD,15.6,94000
+446,MSI GF63 Thin 12UCX Intel Core i5 12450H 8GB RAM 512GB SSD 15.6 Inch FHD IPS Display Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,94500
+447,Asus VivoBook 15 K513EQ Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop,Core i5,8GB,512GB SSD,15.6,95000
+448,Asus VivoBook S15 S513EQ Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop,Core i5,8GB,512GB SSD,15.6,95000
+449,Asus VivoBook S15 S513EQ Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop,Core i5,8GB,512GB SSD,15.6,95000
+450,Asus VivoBook S15 S513EQ Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Gold Laptop,Core i5,8GB,512GB SSD,15.6,95000
+451,Asus VivoBook 15 K513EQ Intel Core i5 1135G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop #L1667W-K513EQ,Core i5,8GB,512GB SSD,15.6,95000
+452,"Lenovo IdeaPad Slim 5i 14IAH8 Intel Core i5 12450H 16G RAM, 512GB SSD 14 Inch FHD+ WUXGA IPS Display Cloud Grey Laptop",Core i5,16GB,512GB SSD,14.0,95000
+453,"HP ProBook 440 G10 Intel Core i5 1335U 8GB RAM, 512GB SSD 14 Inch FHD IPS Display Silver Laptop",Core i5,8GB,512GB SSD,14.0,95500
+454,Acer Aspire 7 A715-76G-57W7 Intel Core i5 12450H 8GB RAM 512GB SSD 15.6 Inch FHD Display Charcoal Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,95900
+455,Asus VivoBook 15 K513EQ Intel Core i5 1135G7 16GB RAM 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop #K513EQ-L1667WN,Core i5,16GB,512GB SSD,15.6,97000
+456,Asus VivoBook 15 K513EQ Intel Core i5 1135G7 16GB RAM 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop,Core i5,16GB,512GB SSD,15.6,97000
+457,Asus VivoBook S15 S513EQ Intel Core i5 1135G7 16GB DDR4 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop,Core i7,16GB,512GB SSD,15.6,97000
+458,"Asus VivoBook S15 S513EQ Intel Core i5 1135G7 16GB DDR4, 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop",Core i7,16GB,512GB,15.6,97000
+459,"MSI GF63 Thin 11SC Intel Core i7 11800H 16GB RAM, 512GB SSD 15.6 Inch FHD Display Black Gaming Laptop with MSI Essential Backpack",Core i5,16GB,512GB SSD,15.6,97000
+460,"Acer TravelMate P214-54 Intel Core i7 1255U 8GB RAM, 512GB SSD 14 Inch FHD IPS Display Black Laptop",Core i7,8GB,512GB SSD,14.0,98000
+461,Asus ExpertBook B3 Flip B3402FEA Intel Core i5 1135G7 8GB RAM 512GB SSD 14 Inch FHD Touch Display Star Black Laptop #LE1009 (Stylus Pen Included),Ryzen 5,8GB,512GB SSD,14.0,100000
+462,Dell Inspiron 15 5510 Intel Core i7 11370H 8GB RAM 512GB SSD 15.6 Inch FHD Display Silver Laptop,Core i5,8GB,512GB SSD,15.6,101000
+463,Asus ExpertBook L2 Flip L2402FYA AMD Ryzen 5 5625U 8GB RAM 512GB SSD 14 Inch FHD Touch Display Star Black Laptop,Core i5,8GB,512GB SSD,14.0,103000
+464,"Asus VivoBook 15X K3504VA Intel Core i5 1335U 16GB RAM, 512GB SSD 15.6 Inch FHD WV Display Cool Silver Laptop",Core i7,16GB,512GB SSD,15.6,106500
+465,"MSI Cyborg 15 A12UCX Intel Core i5 12450H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Black Gaming Laptop with MSI Essential Backpack",Ryzen 5,8GB,512GB SSD,15.6,107000
+466,"Asus VivoBook 15X K3504ZA Intel Core i7 1255U 16GB RAM, 512GB SSD 15.6 Inch FHD WV Display Cool Silver Laptop #K3504ZA-BQ075W",Ryzen 5,16GB,512GB SSD,15.6,107500
+467,Asus VivoBook 16X OLED M1603QA AMD Ryzen 5 5600H 8GB RAM 512GB SSD 16 Inch 4K WQUXGA OLED Display Quiet Blue Laptop,Core i5,8GB,512GB SSD,16.0,108000
+468,"Lenovo IdeaPad Slim 5 Light 14ABR8 AMD Ryzen 5 7530U 16GB RAM, 512GB SSD 14 Inch FHD IPS Anti-Glare Display Cloud Grey Laptop",Ryzen 7,16GB,512GB SSD,14.0,108000
+469,MSI Commercial 14 H A13MG Intel Core i5 13420H 8GB RAM 1TB SSD 14 Inch FHD+ IPS Display Black Laptop with MSI Essential Backpack,Apple M1,8GB,1TB SSD,14.0,108000
+470,"Lenovo IdeaPad Slim 5 Light 14ABR8 AMD Ryzen 7 7730U 16GB RAM, 512GB SSD 14 Inch FHD IPS Anti-Glare Display Cloud Grey Laptop",Apple M1,16GB,512GB SSD,14.0,111500
+471,Apple MacBook Air Late 2020 Apple M1 Chip 8GB RAM 256GB SSD 13.3 Inch Retina Display Space Gray MacBook MacBook,Apple M1,8GB,256GB SSD,13.3,112000
+472,Apple MacBook Air Late 2020 Apple M1 Chip 8GB RAM 256GB SSD 13.3 Inch Retina Display Silver MacBook,Core i7,8GB,256GB SSD,13.3,112000
+473,Apple MacBook Air Late 2020 Apple M1 Chip 8GB RAM 256GB SSD 13.3 Inch Retina Display Touch ID Gold MacBook,Core i7,8GB,256GB SSD,13.3,112000
+474,Asus VivoBook 15 X513EP Intel Core i7 1165G7 8GB RAM 512GB SSD 15.6 Inch FHD WV Display Cobalt Blue Laptop,Core i5,8GB,512GB SSD,15.6,112000
+475,Asus VivoBook 15 X513EP Intel Core i7 1165G7 8GB RAM 512GB SSD 15.6 Inch FHD WV Display Bespoke Black Laptop,Core i7,8GB,512GB SSD,15.6,112000
+476,Asus ExpertBook B5 Flip B5302FEA Intel Core i5 1135G7 8GB RAM 512GB SSD 13.3 Inch FHD OLED Touch Display Star Black Laptop (Stylus Pen Included),Core i5,8GB,512GB SSD,13.3,113000
+477,Asus VivoBook Pro 15 K3500PA Intel Core i7 11370H 8GB RAM 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop,Core i7,8GB,512GB SSD,15.6,113500
+478,"MSI Cyborg 15 A13UC Intel Core i5 13420H 16GB RAM, 512GB SSD 15.6 Inch FHD Display Black Gaming Laptop with MSI Essential Backpack",Ryzen 5,16GB,512GB SSD,15.6,113500
+479,ASUS Vivobook 15 X1504VA Intel Core i7 1355U 16GB RAM 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop,Core i7,16GB,512GB SSD,15.6,114000
+480,Lenovo Yoga 6 13ABR8 AMD Ryzen 5 7530U 16GB RAM 512GB SSD 13.3 Inch FHD+ WUXGA IPS Touch Display Dark Teal Laptop,Core i5,16GB,512GB SSD,13.3,114500
+481,Asus VivoBook S15 S513EQ Intel Core i7 1165G7 8GB RAM 512GB SSD 15.6 Inch FHD OLED Display Hearty Gold Laptop,Core i5,8GB,512GB SSD,15.6,115500
+482,"Asus TUF Gaming F15 FX507ZC4 Intel Core i5 12500H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Mecha Gray Gaming Laptop",Core i5,8GB,512GB SSD,15.6,115900
+483,Acer Nitro 5 AN515-58-59JP Intel Core i5 12450H 8GB RAM 512GB SSD 15.6 Inch FHD Display Obsidian Black Gaming Laptop,Core i7,8GB,512GB SSD,15.6,117000
+484,"Lenovo IdeaPad FLEX 5i 14IAU7 Intel Core i5 1235U 16GB RAM, 512GB SSD 14 Inch FHD+ WUXGA IPS Touch Display Storm Grey Laptop",Core i7,16GB,512GB SSD,14.0,118000
+485,"HP ProBook 440 G10 Intel Core i7 1355U 8GB RAM, 512GB SSD 14 Inch FHD Display Silver Laptop",Ryzen 5,8GB,512GB SSD,14.0,118500
+486,"HP ProBook 450 G10 Intel Core i7 1355U 8GB RAM, 512GB SSD 15.6 Inch FHD IPS Display Silver Laptop",Core i5,8GB,512GB SSD,15.6,118500
+487,"Lenovo IdeaPad Gaming 3 15ARH7 AMD Ryzen 5 7535HS 8GB RAM, 512GB SSD 15.6 Inch FHD Display Onyx Grey Gaming Laptop",Core i5,8GB,512GB SSD,15.6,120500
+488,Lenovo IdeaPad Slim 5i Pro 16ITL-6 Intel Core i5 11300H 16GB DDR4 RAM 512GB SSD 16 Inch 2.5K WQXGA IPS Display Storm Grey Laptop,Core i5,16GB,512GB SSD,16.0,121000
+489,Gigabyte Gaming G5 MF Intel Core i5 12500H 8GB RAM 512GB SSD 15.6 Inch FHD Display Matte Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,124000
+490,"Microsoft Surface Laptop Go 3 Intel Core i5 1235U 8GB RAM, 256GB SSD 12.4 Inch PixelSense MultiTouch Display Sage Surface Go Laptop",Ryzen 7,8GB,256GB SSD,12.4,124000
+491,"Asus VivoBook S 14 Flip TP3402VA Intel Core i5 1335U 16GB RAM, 512GB SSD 14 Inch WUXGA Touch Display Quiet Blue Laptop",Ryzen 5,16GB,512GB SSD,14.0,124000
+492,Lenovo Yoga 6 13ABR8 AMD Ryzen 7 7730U 16GB RAM 512GB SSD 13.3 Inch FHD+ WUXGA IPS Touch Display Dark Teal Laptop,Core i5,16GB,512GB SSD,13.3,125500
+493,"Lenovo IdeaPad Pro 5 16ARP8 AMD Ryzen 5 7535HS 16GB RAM, 512GB SSD 16 Inch 2.5K QHD WQXGA Display Arctic Grey Laptop",Core i7,16GB,512GB SSD,16.0,125500
+494,MSI Cyborg 15 A12VE Intel Core i5 12450H 16GB RAM 512GB SSD 15.6 Inch FHD Display Black Gaming Laptop,Core i7,16GB,512GB SSD,15.6,129500
+495,Asus TUF Gaming F15 FX506HE Intel Core i7 11800H 8GB RAM 512GB SSD 15.6 Inch FHD Display Graphite Black Gaming Laptop FX506HE-HN018W,Ryzen 7,8GB,512GB SSD,15.6,129900
+496,"Asus VivoBook 15X OLED K3504VA Intel Core i7 1360P 16GB RAM, 512GB SSD 15.6 Inch FHD OLED Display Indie Black Laptop",Core i7,16GB,512GB SSD,15.6,130500
+497,"Lenovo IdeaPad Pro 5 16ARP8 AMD Ryzen 7 7735HS 16GB RAM, 512GB SSD 16 Inch 2.5K QHD WQXGA Display Arctic Grey Laptop",Core i5,16GB,512GB SSD,16.0,130500
+498,"Asus TUF Gaming F15 FX507ZC4 Intel Core i7 12700H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Mecha Gray Gaming Laptop",Ryzen 5,8GB,512GB SSD,15.6,131900
+499,Asus TUF Gaming F15 FX506HE Intel Core i5 11400H 8GB RAM 512GB SSD 15.6 Inch FHD Display Graphite Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,133500
+500,Lenovo IdeaPad Gaming 3 15ARH7 AMD Ryzen 5 7535HS 8GB RAM 512GB SSD 15.6 Inch FHD Display Onyx Grey Gaming Laptop,Core i3,8GB,512GB SSD,15.6,134000
+501,Gigabyte Gaming G5 KF Intel Core i5 12500H 8GB RAM 512GB SSD 15.6 Inch FHD Display Matte Black Gaming Laptop,Ryzen 7,8GB,512GB SSD,15.6,135000
+502,Microsoft Surface Go 3 (Wi-Fi) Intel Core i3 10100Y 8GB RAM 128GB SSD 10.5 Inch PixelSense MultiTouch Display Black Surface Go (Type Cover is sold separately),Ryzen 7,8GB,128GB SSD,10.5,138000
+503,Lenovo IdeaPad Gaming 3 15ARH7 AMD Ryzen 7 7735HS 16GB RAM 512GB SSD 15.6 Inch FHD Display Onyx Grey Gaming Laptop,Core i7,16GB,512GB SSD,15.6,139000
+504,Asus VivoBook Pro 15 M3500QC AMD Ryzen 7 5800H 16GB RAM 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop,Ryzen 7,16GB,512GB SSD,15.6,139500
+505,"Lenovo IdeaPad Slim 5i 16IRL8 Intel Core i7 13700H 16GB RAM, 512GB SSD 16 Inch FHD+ WUXGA Display Cloud Grey Laptop",Ryzen 7,16GB,512GB,16.0,140000
+506,Asus TUF Gaming A15 FA507RE AMD Ryzen 7 6800H 16GB RAM 512GB SSD 15.6 Inch FHD Display Mecha Gray (TUF) Gaming Laptop,Core i5,16GB,512GB SSD,15.6,142900
+507,Asus TUF Gaming A15 FA507RE AMD Ryzen 7 6800H 16GB RAM 512GB SSD 15.6 Inch FHD Display Jaeger Gray (TUF) Gaming Laptop,Ryzen 7,16GB,512GB SSD,15.6,142900
+508,Microsoft Surface Laptop 4 Intel Core i5 1135G7 16GB RAM 512GB SSD 13.5 Inch Pixelsense Multi Touch Display Ice Blue Alcantara Surface Laptop,Core i5,16GB,512GB SSD,13.5,144000
+509,Asus VivoBook Pro 15 M3500QC AMD Ryzen 7 5800H 16GB RAM 512GB SSD 15.6 Inch FHD OLED Display Quiet Blue Laptop #L1373W-M3500QC,Core i5,16GB,512GB SSD,15.6,144500
+510,Gigabyte AORUS 15 9MF Intel Core i5 12500H 8GB RAM 512GB SSD 15.6 Inch FHD Display Matte Black Gaming Laptop,Core i5,8GB,512GB SSD,15.6,146000
+511,Asus VivoBook 16X OLED K3605ZF Intel Core i5 12450H 16GB RAM 512GB SSD 16 Inch 3.2K OLED Display Indie Black Laptop,Apple M2,16GB,512GB SSD,16.0,148000
+512,"Lenovo LOQ Gaming 15IRH8 Intel Core i5 13420H 16GB RAM, 512GB SSD 15.6 Inch FHD IPS Display Storm Grey Gaming Laptop",Core i5,16GB,512GB SSD,15.6,148000
+513,Apple MacBook Air (2022) Apple M2 Chip 8GB RAM 256GB SSD 13.6 Inch Liquid Retina Display Space Gray MacBook,Core i7,8GB,256GB SSD,13.6,149000
+514,"Microsoft Surface Laptop 5 Intel Core i5 1235U 8GB RAM, 512GB SSD 13.5 Inch Pixelsense Multi Touch Display Matte Black Metal Surface Laptop #R1S-00026",Ryzen 9,8GB,512GB SSD,13.5,149000
+515,"Lenovo IdeaPad FLEX 5i 14IAU7 Intel Core i7 1255U 16GB RAM, 512GB SSD 14 Inch FHD+ WUXGA IPS Touch Display Storm Grey Laptop",Core i5,16GB,512GB SSD,14.0,150000
+516,Asus VivoBook Pro 15 M3500QC AMD Ryzen 9 5900HX 16GB RAM 512GB SSD 15.6 Inch FHD WV Display Quiet Blue Laptop,Ryzen 7,16GB,512GB SSD,15.6,154000
+517,Microsoft Surface Laptop 5 Intel Core i5 1235U 8GB RAM 512GB SSD 13.5 Inch Pixelsense Multi Touch Display Platinum Alcantara Surface Laptop,Core i7,8GB,512GB SSD,13.5,154000
+518,Asus TUF Gaming A15 FA506QM AMD Ryzen 7 5800H 16GB RAM 512GB SSD 15.6 Inch FHD Display Graphite Black (TUF) Gaming Laptop,Core i5,16GB,512GB SSD,15.6,154000
+519,Lenovo IdeaPad Slim 5i 15IAL7 Intel Core i7 1255U 16GB RAM 512GB SSD 15.6 Inch FHD IPS Antiglare Display Storm Grey Laptop,Core i7,16GB,512GB SSD,15.6,155000
+520,"Acer Predator Helios Neo 16 PHN16-71-59XW Intel Core i5 13500HX 16GBRAM, 512GB SSD 16 Inch WUXGA Display Obsidian Black Gaming Laptop",Core i7,16GB,512GB SSD,16.0,156000
+521,Asus ZenBook 14X OLED UX5401EA Intel Core i7 1165G7 16GB RAM 512GB SSD 14 Inch 2.8K OLED WQHD Touch Display Pine Grey Laptop,Core i5,16GB,512GB SSD,14.0,157000
+522,MSI Katana 15 B13VEK Intel Core i7 13620H 16GB RAM 1TB SSD 15.6 Inch FHD Display Black Gaming Laptop,Ryzen 7,16GB,1TB SSD,15.6,157500
+523,Asus TUF Dash F15 FX517ZE Intel Core i5 12450H 16GB RAM 512GB SSD 15.6 Inch FHD Display OFF-Black Gaming Laptop,Core i5,16GB,512GB SSD,15.6,159000
+524,Lenovo IdeaPad Gaming 3 15ARH7 AMD Ryzen 7 7735HS 16GB RAM 512GB SSD 15.6 Inch FHD Display Onyx Grey Gaming Laptop #82SB00PKIN-2Y,Core i7,16GB,512GB SSD,15.6,159000
+525,Asus Zenbook 14 Flip OLED UP3404VA Intel Core i5 1340P 16GB RAM 512GB SSD 14 Inch 2.8K OLED WQHD Touch Display Foggy Silver Laptop,Ryzen 7,16GB,512GB SSD,14.0,159000
+526,"Lenovo IdeaPad FLEX 5i 14IRU8 Intel Core i7 1355U 16GB RAM, 512GB SSD 14 Inch FHD+ WUXGA IPS Touch Display Arctic Grey Laptop",Apple M2,16GB,512GB SSD,14.0,160000
+527,Asus TUF Gaming A15 FA507RM AMD Ryzen 7 6800H 16GB RAM 512GB SSD 15.6 Inch FHD Display Jaeger Gray (TUF) Gaming Laptop,Apple M2,16GB,512GB SSD,15.6,162900
+528,Apple MacBook Pro (2022) Apple M2 Chip 8GB RAM 256GB SSD 13.3 Inch Retina Display Space Gray Laptop,Core i7,8GB,256GB SSD,13.3,163000
+529,Apple MacBook Pro (2022) Apple M2 Chip 8GB RAM 256GB SSD 13.3 Inch Retina Display Silver Laptop,Core i7,8GB,256GB SSD,13.3,163000
+530,Lenovo IdeaPad Gaming 3i 16IAH7 Intel Core i7 12650H 16GB RAM 512GB SSD 16 Inch FHD+ WUXGA Display Onyx Grey Gaming Laptop,Core i7,16GB,512GB SSD,16.0,165000
+531,Lenovo Yoga Slim 6i 14IRH8 Intel Core i7 13700H 16GB RAM 512GB SSD 14 Inch FHD+ WUXGA OLED Display Storm Grey Laptop,Core i5,16GB,512GB SSD,14.0,165000
+532,"MSI Katana 15 B13VFK Intel Core i7 13620H 16GB RAM, 1TB SSD 15.6 Inch FHD Display Black Gaming Laptop with MSI Essential Backpack",Apple M2,16GB,1TB SSD,15.6,167500
+533,Microsoft Surface Laptop 5 Intel Core i5 1245U 16GB RAM 512GB SSD 13.5 Inch Pixelsense Multi Touch Display Matte Black Metal Surface Laptop,Apple M2,16GB,512GB SSD,13.5,168000
+534,Apple MacBook Air (2023) Apple M2 Chip 8GB RAM 256GB SSD 15.3 Inch Liquid Retina Display Silver MacBook,Apple M2,8GB,256GB SSD,15.3,169000
+535,Apple MacBook Air (2023) Apple M2 Chip 8GB RAM 256GB SSD 15.3 Inch Liquid Retina Display Midnight MacBook,Ryzen 7,8GB,256GB SSD,15.3,169000
+536,Apple MacBook Air (2023) Apple M2 Chip 8GB RAM 256GB SSD 15.3 Inch Liquid Retina Display Starlight MacBook,Core i7,8GB,256GB SSD,15.3,169000
+537,Asus VivoBook Pro 16X M7600QE AMD Ryzen 7 5800H 16GB RAM 512GB SSD 16 Inch 4K WQUXGA OLED Display 0 Degree Black Laptop,Core i7,16GB,512GB SSD,16.0,174000
+538,Asus ZenBook Duo UX482EA Intel Core i7 1165G7 16GB RAM 512GB SSD 14 Inch FHD Touch Display Celestial Blue Laptop,Core i7,16GB,512GB SSD,14.0,174000
+539,"Lenovo IdeaPad Pro 5i 16IRH8 Intel Core i7 13700H 16GB RAM, 512GB SSD 16 Inch 2.5K QHD WQXGA IPS Display Arctic Grey Laptop",Core i7,16GB,512GB SSD,16.0,175000
+540,Lenovo Yoga Pro 7i 14IRH8 Intel Core i7 13700H 16GB RAM 512GB SSD 14.5 Inch 2.5K QHD WQXGA IPS Display Tidal Teal Laptop,Core i7,16GB,512GB SSD,14.5,175000
+541,Acer Predator Helios Neo 16 PHN16-71-757P Intel Core i7 13700HX 16GB RAM 1TB SSD 16 Inch FHD+ WUXGA Display Obsidian Black Gaming Laptop,Ryzen 9,16GB,1TB SSD,16.0,176500
+542,"Microsoft Surface Laptop 5 Intel Core i7 1255U 8GB RAM, 512GB SSD 15 Inch Pixelsense Multi Touch Display Platinum Metal Surface Laptop",Core i7,8GB,512GB SSD,15.0,178000
+543,Asus TUF Gaming A15 FA507XV AMD Ryzen 9 7940HS 8GB RAM 512GB SSD 15.6 Inch 2K WQHD Display Jaeger Gray Gaming Laptop,Apple M2,8GB,512GB,15.6,179900
+544,"Lenovo LOQ Gaming 15IRH8 Intel Core i7 13620H 16GB RAM, 512GB SSD 15.6 Inch FHD IPS Display Storm Grey Gaming Laptop",Core i7,16GB,512GB SSD,15.6,180000
+545,Apple MacBook Pro (2022) Apple M2 Chip 8GB RAM 512GB SSD 13.3 Inch Retina Display Space Gray Laptop #MNEJ3LL/A / MNEJ3ZP/A,Apple M2,8GB,512GB SSD,13.3,182000
+546,HP Envy 15-ep1890TX Intel Core i7 11800H 16GB RAM 1TB SSD 15.6 Inch FHD Touch Display Silver Laptop,Apple M2,16GB,1TB SSD,15.6,185000
+547,Apple MacBook Air (2022) Apple M2 Chip 8GB RAM 512GB SSD 13.6 Inch Liquid Retina Display Space Gray MacBook #MLXX3LL/A / MLXX3ZP/A,Core i7,8GB,512GB SSD,13.6,185000
+548,Apple MacBook Air (2022) Apple M2 Chip 8GB RAM 512GB SSD 13.6 Inch Liquid Retina Display Midnight MacBook #MLY43LL/A / MLY43ZP/A,Ryzen 7,8GB,512GB SSD,13.6,185000
+549,Asus ZenBook Duo UX482EG Intel Core i7 1165G7 16GB RAM 512GB SSD 14 Inch FHD WV Touch Display Celestial Blue Laptop,Core i5,16GB,512GB SSD,14.0,185500
+550,Asus ROG Strix G17 G713RM AMD Ryzen 7 6800H 16GB RAM 512GB SSD 17.3 Inch FHD Display Eclipse Gray Gaming Laptop,Ryzen 7,16GB,512GB SSD,17.3,185900
+551,Asus TUF Dash F15 FX517ZM Intel Core i5 12450H 16GB RAM 512GB SSD 15.6 Inch FHD Display OFF-Black Gaming Laptop,Apple M2,16GB,512GB SSD,15.6,186000
+552,"Lenovo Yoga Pro 7 14ARP8 AMD Ryzen 7 7735HS 16GB RAM, 512GB SSD 14.5 Inch 3K Display Tidal Teal Laptop",Core i7,16GB,512GB SSD,14.5,187000
+553,Apple MacBook Air (2022) Apple M2 Chip 16GB RAM 256GB SSD 13.6 Inch Liquid Retina Display Starlight MacBook,Core i7,16GB,256GB SSD,13.6,187500
+554,Asus ZenBook S 13 OLED UX5304VA Intel Core i7 1355U 16GB RAM 1TB SSD 13.3 Inch 2.8K OLED WQHD Display Ponder Blue Laptop,Core i7,16GB,1TB SSD,13.3,189900
+555,Lenovo LOQ Gaming 15IRH8 Intel Core i7 13620H 16GB RAM 512GB SSD 15.6 Inch FHD Display torm Grey Gaming Laptop,Core i7,16GB,512GB SSD,15.6,190000
+556,"Asus Zenbook 14 Flip OLED UP3404VA Intel Core i7 1360P 16GB RAM, 512GB SSD 14 Inch 2.8K OLED WQHD Touch Display Foggy Silver Laptop",Core i7,16GB,512GB SSD,14.0,195000
+557,Microsoft Surface Laptop 5 Intel Core i7 1255U 16GB RAM 512GB SSD 13.5 Inch Pixelsense Multi Touch Display Platinum Metal Surface Laptop,Core i7,16GB,512GB SSD,13.5,198000
+558,Microsoft Surface Laptop 5 Intel Core i7 1255U 16GB RAM 512GB SSD 13.5 Inch Pixelsense Multi Touch Display Sandstone Metal Surface Laptop,Apple M2,16GB,512GB SSD,13.5,198000
+559,Asus ZenBook S 13 OLED UX5304VA Intel Core i7 1355U 16GB RAM 1TB SSD 13.3 Inch 3K OLED WQHD Display Basalt Grey Laptop,Apple M2,16GB,1TB SSD,13.3,199990
+560,Apple MacBook Air (2023) Apple M2 Chip 8GB RAM 512GB SSD 15.3 Inch Liquid Retina Display Space Gray MacBook,Apple M2,8GB,512GB SSD,15.3,205000
+561,Apple MacBook Air (2023) Apple M2 Chip 8GB RAM 512GB SSD 15.3 Inch Liquid Retina Display Silver MacBook,Ryzen 7,8GB,512GB SSD,15.3,205000
+562,"Apple MacBook Air (2023) Apple M2 Chip 8GB RAM 512GB SSD 15.3 Inch Liquid Retina Display Midnight MacBook #MQKX3LL/A, MQKX3ZP/A, MQKX3PA/A",Core i7,8GB,512GB SSD,15.3,205000
+563,"Lenovo Legion Slim 5 16APH8 AMD Ryzen 7 7840HS 16GB RAM, 512GB SSD 16 Inch 2.5K QHD WQXGA Display Storm Grey Gaming Laptop",Core i7,16GB,512GB SSD,16.0,212000
+564,Microsoft Surface Laptop 4 Intel Core i7 1185G7 32GB RAM 1TB SSD 13.5 Inch Pixelsense Multi Touch Display Matte Black Metal Surface Laptop #5GB-00021,Apple M3,32GB,1TB SSD,13.5,215000
+565,Acer Predator Helios 16 PH16-71-70L4 Intel Core i7 13700HX 16GB RAM 1TB SSD 16 Inch 2.5K QHD+ WQXGA Display Abyssal Black Gaming Laptop,Apple M3,16GB,1TB SSD,16.0,215000
+566,"Apple MacBook Pro (Late 2023) Apple M3 8GB RAM, 512GB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop",Core i7,8GB,512GB SSD,14.2,228000
+567,"Apple MacBook Pro (Late 2023) Apple M3 8GB RAM, 512GB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop",Core i7,8GB,512GB SSD,14.2,228000
+568,Lenovo Legion 5i 15IAH7H Intel Core i7 12700H 16GB RAM 1TB SSD 15.6 Inch FHD Display Storm Grey Gaming Laptop,Core i7,16GB,1TB SSD,15.6,248000
+569,Lenovo Legion 5i Pro 16IAH7H Intel Core i7 12700H 16GB RAM 1TB SSD 16 Inch 2.5K QHD WQXGA Display Storm Grey Gaming Laptop,Core i7,16GB,1TB SSD,16.0,255000
+570,Lenovo Legion Slim 7i 16IAH7 Intel Core i7 12700H 16GB RAM 1TB SSD 16 Inch 2.5K QHD WQXGA Display Onyx Grey Gaming Laptop,Apple M2,16GB,1TB SSD,16.0,255000
+571,Lenovo Legion Slim 7i 16IAH7 Intel Core i7 12700H 16GB RAM 1TB SSD 16 Inch 2.5K QHD WQXGA Display Onyx Grey Gaming Laptop #82TF005UIN-2Y,Apple M2,16GB,1TB SSD,16.0,259000
+572,Apple MacBook Air (2022) Apple M2 Chip 24GB RAM 512GB SSD 13.6 Inch Liquid Retina Display Midnight MacBook,Apple M2,24GB,512GB SSD,13.6,265000
+573,Apple MacBook Air (2023) Apple M2 Chip 16GB RAM 512GB SSD 15.3 Inch Liquid Retina Display Midnight MacBook,Apple M2,16GB,512GB SSD,15.3,265000
+574,Apple MacBook Air (2023) Apple M2 Chip 16GB RAM 512GB SSD 15.3 Inch Liquid Retina Display Space Gray MacBook #Z18L000PR,Core i7,16GB,512GB SSD,15.3,265000
+575,Apple MacBook Air (2022) Apple M2 Chip 24GB RAM 1TB SSD 13.6 Inch Liquid Retina Display Midnight MacBook,Apple M3,24GB,1TB SSD,13.6,265000
+576,"Lenovo Yoga 9i 14IRP8 Intel Core i7 1360P 16GB RAM, 1TB SSD 14 Inch 2.8K OLED WQHD Touch Display Oatmeal Laptop",Apple M3,16GB,1TB SSD,14.0,268000
+577,"Apple MacBook Pro (Late 2023) Apple M3 8GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop",Core i7,8GB,1TB SSD,14.2,270000
+578,"Apple MacBook Pro (Late 2023) Apple M3 8GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop",Core i7,8GB,1TB SSD,14.2,270000
+579,Lenovo Legion Slim 7i 16IRH8 Intel Core i7 13700H 16GB RAM 1TB SSD 16 Inch 3.2K Display Storm Grey Gaming Laptop,Core i7,16GB,1TB,16.0,273000
+580,Lenovo Legion Pro 5i 16IRX8 Intel Core i7 13700HX 16GB RAM 1TB SSD 16 Inch 2.5K QHD WQXGA Display Onyx Grey Gaming Laptop,Ryzen 7,16GB,1TB,16.0,273000
+581,Acer Predator Helios 16 PH16-71-74MN Intel Core i7 13700HX 32GB RAM 1TB SSD 16 Inch QHD+ WQXGA Display Abyssal Black Gaming Laptop,Apple M3,32GB,1TB SSD,16.0,274900
+582,Asus ProArt StudioBook 16 H5600QM AMD Ryzen 7 5800H 16GB RAM 1TB SSD 16 Inch 4K WQUXGA OLED Display Star Black Laptop,Apple M3,16GB,1TB SSD,16.0,275000
+583,"Apple MacBook Pro (Late 2023) Apple M3 Pro 18GB RAM, 512GB SSD 14.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M2,18GB,512GB SSD,14.2,285000
+584,"Apple MacBook Pro (Late 2023) Apple M3 Pro 18GB RAM, 512GB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop",Core i7,18GB,512GB SSD,14.2,285000
+585,"Apple MacBook Air (2023) Apple M2 16GB RAM, 512GB SSD 15.3 Inch Liquid Retina Display Silver Laptop",Core i7,16GB,512GB SSD,15.3,285000
+586,Lenovo Legion Pro 5i 16IRX8 Intel Core i7 13700HX 32GB RAM 1TB SSD 16 Inch 2.5K QHD WQXGA Display Onyx Grey Gaming Laptop,Apple M3,32GB,1TB,16.0,288000
+587,Microsoft Surface Laptop Studio Intel Core i7 11370H 32GB RAM 1TB SSD 14.4 Inch Pixelsense Flow Multi Touch Display Platinum Surface Laptop #ABY-00001,Apple M1,32GB,1TB SSD,14.4,289000
+588,"Apple MacBook Pro (Late 2023) Apple M3 16GB RAM, 512GB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop",Ryzen 9,16GB,512GB SSD,14.2,295000
+589,Apple MacBook Pro (Late 2021) Apple M1 Pro (10-Core) Chip 32GB RAM 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop,Core i9,32GB,1TB SSD,14.2,299000
+590,Asus ProArt StudioBook 16 H5600QM AMD Ryzen 9 5900HX 32GB RAM 1TB SSD 16 Inch 4K WQUXGA OLED Display Star Black Laptop,Apple M2,32GB,1TB SSD,16.0,302000
+591,"Asus ZenBook Pro 14 OLED UX6404VV Intel Core i9 13900H 16GB RAM, 1TB SSD 14.5 Inch 2.8K OLED WQHD Touch Display Tech Black Laptop",Apple M2,16GB,1TB SSD,14.5,305000
+592,Apple MacBook Pro (2023) Apple M2 Pro Chip 16GB RAM 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop,Apple M2,16GB,1TB SSD,14.2,315000
+593,Apple MacBook Pro (2023) Apple M2 Pro Chip 16GB RAM 1TB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop,Ryzen 9,16GB,1TB SSD,14.2,315000
+594,Apple MacBook Air (2022) Apple M2 Chip 24GB RAM 2TB SSD 13.6 Inch Liquid Retina Display Midnight MacBook,Apple M2,24GB,2TB SSD,13.6,325000
+595,Asus ProArt StudioBook 16 H5600QR AMD Ryzen 9 5900HX 32GB RAM 1TB SSD 16 Inch 4K WQUXGA OLED Display Star Black Laptop,Core i9,32GB,1TB SSD,16.0,333000
+596,Apple MacBook Pro (2023) Apple M2 Pro Chip 16GB RAM 512GB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop,Apple M2,16GB,512GB SSD,16.2,335000
+597,Lenovo Legion 7i Gaming 16IAX7 Intel Core i9 12900HX 32GB RAM 1TB SSD 16 Inch 2.5K QHD WQXGA IPS Anti-Glare Display Storm Grey-Black Gaming Laptop,Apple M1,32GB,1TB SSD,16.0,338000
+598,Apple MacBook Pro (2023) Apple M2 Pro Chip 16GB RAM 512GB SSD 16.2 Inch Liquid Retina XDR Display Space Gray Laptop,Apple M3,16GB,512GB SSD,16.2,340000
+599,Apple MacBook Pro (Late 2021) Apple M1 Max (10-Core) Chip 32GB RAM 1TB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop,Apple M3,32GB,1TB SSD,16.2,350000
+600,"Apple MacBook Pro (Late 2023) Apple M3 Pro 18GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M3,18GB,1TB SSD,14.2,352000
+601,"Apple MacBook Pro (Late 2023) Apple M3 Pro 18GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M3,18GB,1TB SSD,14.2,352000
+602,"Apple Macbook Pro (Late 2023) Apple M3 Pro 18GB RAM, 512GB SSD 16.2 Inch Liquid Retina XDR Display Space Black Laptop",Core i7,18GB,512GB SSD,16.2,380000
+603,"Apple Macbook Pro (Late 2023) Apple M3 Pro 18GB RAM, 512GB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M2,18GB,512GB SSD,16.2,380000
+604,Microsoft Surface Laptop Studio Intel Core i7 11370H 32GB RAM 2TB SSD 14.4 Inch Pixelsense Flow Multi Touch Display Platinum Surface Laptop #AI2-00001,Apple M2,32GB,2TB SSD,14.4,395000
+605,Apple MacBook Pro (2023) Apple M2 Max Chip 32GB RAM 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Gray Laptop,Apple M3,32GB,1TB SSD,14.2,396000
+606,Apple MacBook Pro (2023) Apple M2 Max Chip 32GB RAM 1TB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop,Apple M3,32GB,1TB SSD,14.2,396000
+607,"Apple Macbook Pro (Late 2023) Apple M3 Pro 36GB RAM, 512GB SSD 16.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M3,36GB,512GB SSD,16.2,399000
+608,"Apple Macbook Pro (Late 2023) Apple M3 Pro 36GB RAM, 1TB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M3,36GB,1TB SSD,16.2,415000
+609,"Apple MacBook Pro (Late 2023) Apple M3 Max 36GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Black Laptop #Z1AV001HY",Apple M3,36GB,1TB SSD,14.2,415000
+610,"Apple Macbook Pro (Late 2023) Apple M3 Pro 36GB, 512GB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M3,36GB,512GB SSD,16.2,445000
+611,"Apple Macbook Pro (Late 2023) Apple M3 Max 36GB RAM, 1TB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M3,36GB,512GB SSD,16.2,445000
+612,"Apple Macbook Pro (Late 2023) Apple M3 Pro 36GB RAM, 1TB SSD 16.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M3,36GB,1TB SSD,16.2,450000
+613,"Apple MacBook Pro (Late 2023) Apple M3 Max 36GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M3,36GB,1TB SSD,14.2,450000
+614,"Apple MacBook Pro (Late 2023) Apple M3 Max 36GB RAM, 1TB SSD 14.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M2,36GB,1TB SSD,14.2,450000
+615,"Apple Macbook Pro (Late 2023) Apple M3 Max 36GB, 1TB SSD 16.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M1,36GB,1TB SSD,16.2,460000
+616,Apple MacBook Pro (2023) Apple M2 Max Chip 32GB RAM 1TB SSD 16.2 Inch Liquid Retina XDR Display Space Gray Laptop,Apple M2,32GB,1TB SSD,16.2,465000
+617,Apple MacBook Pro (Late 2021) Apple M1 Max Chip 64GB RAM 4TB SSD 16.2 Inch Liquid Retina XDR Display Space Gray Laptop #MK233LL/A,Apple M3,64GB,4TB SSD,16.2,479000
+618,Apple Macbook Pro (Early 2023) Apple M2 Max Chip 32GB RAM 2TB SSD 16.2 Inch Liquid Retina XDR Display Space Gray Laptop,Apple M3,32GB,2TB SSD,16.2,495000
+619,"Apple Macbook Pro (Late 2023) Apple M3 Max 48GB RAM, 1TB SSD 16.2 Inch Liquid Retina XDR Display Silver Laptop",Apple M3,48GB,1TB SSD,16.2,538000
+620,"Apple Macbook Pro (Late 2023) Apple M3 Max 48GB RAM, 1TB SSD 16.2 Inch Liquid Retina XDR Display Space Black Laptop",Apple M3,48GB,1TB SSD,16.2,540000
