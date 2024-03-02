@@ -6,6 +6,6 @@ A combined dataset namely "LaptopPrices" has been created with the data scraped 
 The cleaned dataset, "LaptopPrices_CleanData" has 7 columns ["Product Name", "Processor Type", "RAM", "Storage", "Display", "Price", "Brand"]
 
 The dataset is available on Kaggle: https://www.kaggle.com/datasets/azratuni/laptop-prices-bdt-currency
-Kaggle notebook on Data Cleaning, Visualization & Prediction: https://www.kaggle.com/code/azratuni/data-cleaning-visualization-prediction?scriptVersionId=165157205
+<br>Kaggle notebook on Data Cleaning, Visualization & Prediction: https://www.kaggle.com/code/azratuni/data-cleaning-visualization-prediction?scriptVersionId=165157205
 
 Thank you!
